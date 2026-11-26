@@ -187,12 +187,11 @@
 184:greater_swiss_mountain_dog - CG
 185:greyhound - CG
 186:cane_corso - CG
+187:lagotto_romagnolo - CG
+188:slovakian_rough-haired_pointer - CG
+189:thai_bangkaew_dog - CG
+190:shih_tzu - CG
 
-187:lagotto_romagnolo - CR
-
-188:slovakian_rough-haired_pointer - C
-189:thai_bangkaew_dog - C
-190:shih_tzu - C
 191:perro_de_presa_canario - C
 192:belgian_shepherd_dog_(tervuren) - C
 193:pekingese - C
@@ -265,12 +264,12 @@
 260:borzoi - C
 261:japanese_terrier - C
 262:fila_brasileiro - C
+263:field_spaniel - C
+264:pumi - C
+265:rat_terrier - C
 
-263:field_spaniel - R
+266:pudelpointer - R
 
-264:pumi
-265:rat_terrier
-266:pudelpointer
 267:miniature_pinscher
 268:ariege_pointer
 269:munsterlander,_small

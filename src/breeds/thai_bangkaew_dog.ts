@@ -6,17 +6,18 @@ export const thai_bangkaew_dog: Breed = {
   scientificName: "Canis lupus familiaris",
 
   alternateNames: [
+    "Thai Bangkaew",
     "Bangkaew Dog",
+    "Bangkaew",
     "Bangkaew de Thaïlande"
   ],
 
-  group:
-    "Spitz and primitive types; Section 5 — Asian Spitz and related breeds (without working trial; also classified in the Spitz and Companion groups)",
+  group: "Medium Asian spitz-type companion and watchdog",
 
   origin: {
     country: "Thailand",
     region:
-      "Bang Rakam district, Phitsanulok province, central Thailand"
+      "Bangkaew village, Thanang-ngam area, Bang Rakam district, Phitsanulok province, central Thailand"
   },
 
   images: [
@@ -26,39 +27,39 @@ export const thai_bangkaew_dog: Breed = {
         "https://commons.wikimedia.org/wiki/File:Thai_Bangkaew_Dog_1.jpg",
       title: "Thai Bangkaew Dog 1.jpg",
       description:
-        "A male Thai Bangkaew Dog standing outdoors, showcasing its sable and white double coat and plumed tail.",
+        "An adult sable-and-white male Thai Bangkaew Dog standing outdoors, showing its neck ruff and plumed tail.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2016-12-04",
-      uploadedOn: "2016-12-04",
+      uploadedOn: "2016-12-05",
       width: 600,
       height: 545,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Thai_Bangkaew_Dog_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Thai_Bangkaew_Dog_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/.",
+      restrictions:
+        "CC BY-SA 4.0 requires attribution and ShareAlike distribution if adapted.",
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A squarely built, intelligent, and fiercely loyal Asian spitz breed native to Thailand, celebrated for its striking lion-like neck ruff, plumed tail, and inherent devotion as a family protector.",
+      "A square-built, alert Asian spitz from central Thailand known for its lion-like neck ruff, plumed tail, devoted family loyalty, and watchful guarding instincts.",
 
     description:
-      "The Thai Bangkaew Dog is a robust, medium-sized, and square-proportioned spitz breed characterized by a deep chest, muscular frame, and an impressive weather-resistant double coat. Evolving in the central river villages of Thailand, the breed projects an image of alertness and strength without ever appearing heavy or coarse. Its most striking physical feature is a prominent ruff of long hair surrounding the neck and shoulders—particularly pronounced in males—complemented by a thickly feathered, plumed tail carried in an upward curve over the back. The wedge-shaped skull features a moderate stop, a black nose, and small, erect triangular ears that point slightly forward. Beneath this majestic exterior lies a deeply loyal, obedient, and watchful companion. Inherently protective of its home and family, the breed can be aloof toward strangers, making it a highly effective and intelligent guardian.",
+      "Balanced on a crisp 1:1 square frame with a deep chest and sturdy bone, the Thai Bangkaew Dog pairs compact athleticism with an unmistakable double coat. A coarse outer layer and dense undercoat flare into a thick mane around the neck and shoulders—especially lush in males—and a heavily feathered tail that curves upward over the back. Small, erect triangular ears and dark almond eyes sit on a wedge-shaped skull, giving an attentive, poised look. Deeply loyal and eager to work with its own household, the breed is naturally cautious around strangers and makes a keen, vocal watchdog.",
 
     history:
-      "The Thai Bangkaew Dog is an ancient breed whose precise origins trace back to a specific location: the village of Bangkaew, situated along the Yom River in the Bang Rakam district of Thailand's Phitsanulok province. According to regional oral history, the third abbot of a local Buddhist monastery, Luang Puh Mak Metharee, was a great lover of animals. A local villager gifted him a pregnant black-and-white female dog, which is believed to have mated with a now-extinct wild canine species native to the area (often speculated to be the Asiatic wild dog or golden jackal). The resulting litters established the foundation of the Bangkaew Dog. Because the village was historically isolated by seasonal flooding, the dogs bred true to type, developing their distinctive double coat and protective nature. In 1957, a dedicated selective breeding program was initiated to standardize the breed. Highly prized as a cultural heritage symbol of Phitsanulok province, the breed eventually gained nationwide popularity in Thailand and achieved definitive international recognition in 2022.",
+      "The Thai Bangkaew Dog takes its name from Bangkaew village in the Bang Rakam district of Thailand's Phitsanulok province. Local tradition traces the breed to a Buddhist abbot's black-and-white village female dog that bred with a now-extinct wild canid (often linked in folklore to a golden jackal). Seasonal flooding kept the river village relatively isolated, allowing the dogs to develop consistent traits. Selective breeding from single litters began in 1957, and after numbers later declined, Dr. Nisit Tangtrakarnpong led a 1983 conservation initiative called 'Bang Kaew Khuen Thin' ('Bang Kaew Goes Home') with Phitsanulok villagers to revive the population. Today, the breed is cherished as a cultural symbol of Phitsanulok and recognized internationally.",
 
     originalPurpose:
-      "Multi-purpose village dog used as a vigilant property guardian, loyal companion, and household protector in the isolated river regions of central Thailand.",
+      "Watchful village guardian and devoted household companion in the river communities of central Thailand",
 
     currentRoles: [
-      "Vigilant home and property watchdog",
-      "Devoted household companion",
-      "Canine athlete in obedience and agility",
-      "Cultural heritage ambassador of Thailand"
+      "Alert home watchdog and protector",
+      "Loyal family companion",
+      "Obedience, scentwork, sprint-course, and water-sport partner"
     ]
   },
 
@@ -78,66 +79,61 @@ export const thai_bangkaew_dog: Breed = {
     },
 
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 18,
-        max: 20
+        min: 40,
+        max: 43
       },
       female: {
-        min: 16,
-        max: 18
+        min: 35,
+        max: 40
       }
     },
 
     lifespanYears: {
-      min: 10,
-      max: 14
+      min: 14,
+      max: 17
     },
 
     coatType:
-      "Double coat with a straight, coarse guard coat and a soft, dense undercoat. Moderately long on the body, forming a distinct ruff around the neck and shoulders, and heavy feathering on the back of the legs.",
+      "Thick double coat with a straight, coarse outer guard coat and a soft, dense undercoat forming a prominent ruff around the neck and shoulders and heavy feathering on the legs and tail",
 
     coatLength: "Medium",
 
     coatColors: [
-      "White with well-defined patches of red, fawn, tan, grey, or lemon",
+      "White with well-defined patches of lemon, red, fawn, tan, or grey (with or without dark hair tips)",
       "White with solid black patches",
-      "Patches with blackened hair tips appearing tri-colored",
-      "Symmetrical markings on the head covering the eyes and ears are highly preferred, often with a dark mask"
+      "White with tri-colored shaded patches (preferably symmetrical head markings covering eyes and ears)"
     ],
 
     sheddingLevel:
-      "Moderate to high; sheds consistently year-round and heavily blows its dense undercoat seasonally",
+      "Moderate to high; sheds steadily year-round and blows its dense undercoat heavily during seasonal changes",
 
     droolingLevel:
-      "Low; tight lips with full pigmentation prevent drooling",
+      "Low; tight, fully pigmented dark lips prevent drooling",
 
     distinctiveFeatures: [
-      "Squarely built spitz silhouette where the length of the body equals the height at the withers (1:1 ratio)",
-      "Height at the withers of 46 to 55 cm for males and 41 to 50 cm for females",
-      "Working weight typically ranging from 18 to 20 kg for males and 16 to 18 kg for females",
-      "Distinctive, prominent ruff of long hair around the neck and shoulders, giving a lion-like appearance",
-      "Wedge-shaped, massive skull that is broad but in proportion to the body, with a moderate stop",
-      "Complete, strong scissor bite (a pincer bite is tolerated)",
-      "Medium-sized, almond-shaped eyes in black or dark brown",
-      "Small, triangular, erect ears pointing forward, set relatively high and slightly hooded",
-      "Fairly wide, deep chest well let down between the forelegs to the elbows",
-      "Moderately long, thickly feathered tail carried in a moderate upward curve over the back",
-      "Rounded, arched, and tightly knit cat-like feet"
+      "Square 1:1 silhouette where body length equals height at the withers, never low on leg",
+      "Prominent ruff of longer hair around the neck and shoulders, fuller in males than females",
+      "Wedge-shaped, strong skull with a clearly defined moderate stop and black nose",
+      "Tight, dark-pigmented lips and strong jaws with a complete scissor bite (pincer bite tolerated)",
+      "Medium-sized, dark brown or black almond-shaped eyes",
+      "Small, high-set triangular erect ears pointing forward and slightly hooded",
+      "Deep, fairly wide chest reaching the elbows with well-sprung ribs",
+      "Moderately long, thickly feathered tail curving moderately upward over the back",
+      "Compact, rounded, well-arched cat-like feet"
     ]
   },
 
   temperament: {
     traits: [
-      "Intensely loyal, affectionate, and protective of its immediate family",
-      "Alert, watchful, and highly observant of its surroundings",
-      "Inherently driven to guard and defend its home and territory",
-      "Intelligent, obedient, and easy to train when given consistent leadership",
-      "Aloof and naturally suspicious toward unfamiliar strangers",
-      "Confident and proud in its carriage and demeanor",
-      "Capable swimmer with an enthusiastic affinity for water",
-      "Possesses a strong natural instinct to dig holes in the yard",
-      "Can be fiercely assertive toward unfamiliar dogs without proper socialization"
+      "Deeply loyal, affectionate, and devoted to immediate family members",
+      "Alert, observant, and naturally protective of home and property",
+      "Intelligent and cooperative when trained with upbeat, gentle methods",
+      "Reserved and naturally cautious around unfamiliar strangers",
+      "Independent outdoors with noticeable prey drive toward small moving animals",
+      "Often assertive with unfamiliar dogs without early, consistent socialization",
+      "Strong natural swimmer with an affinity for water and digging"
     ],
 
     scores: {
@@ -156,7 +152,7 @@ export const thai_bangkaew_dog: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high; an active, intelligent spitz breed requiring daily physical exercise and engaging mental stimulation",
+        "Moderate; a medium-energy athletic spitz that enjoys regular daily walks, hiking, and supervised play in an enclosed area",
 
       minutesPerDay: {
         min: 45,
@@ -164,11 +160,10 @@ export const thai_bangkaew_dog: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed walks or jogging in a secure area",
-        "Interactive fetch and retrieving games in a securely fenced yard",
-        "Swimming in safe, clean water sources",
-        "Obedience training and trick learning",
-        "Designated digging areas (sandboxes) to safely satisfy natural instincts"
+        "Daily brisk leashed walks and trail hikes",
+        "Supervised off-leash play inside a tall, securely fenced yard",
+        "Swimming and dock-diving games in safe water",
+        "Scentwork, fast-sprint courses, puzzle toys, and obedience training"
       ]
     },
 
@@ -176,32 +171,32 @@ export const thai_bangkaew_dog: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush thoroughly two to three times weekly using a slicker brush and undercoat rake to remove loose hair, distribute skin oils, and prevent matting in the dense neck ruff and leg feathering.",
+        "Brush weekly—and more often during heavy seasonal undercoat sheds—using a slicker brush and undercoat rake; avoid bladed deshedding tools that can cut or damage the coarse guard coat.",
 
       bathing:
-        "Bathe every four to six weeks or when soiled, ensuring the thick double coat is completely dried down to the skin to prevent trapped moisture.",
+        "Bathe about once a month or when visibly dirty, drying the dense undercoat thoroughly down to the skin.",
 
       notes: [
-        "Expect significant seasonal shedding (blowing coat) once or twice a year, during which daily brushing is required.",
-        "Inspect the small erect ears weekly for dust or debris, wiping gently with an approved veterinary cleanser.",
-        "Trim fast-growing nails every two to three weeks to maintain correct, tightly knit foot alignment.",
-        "Brush teeth several times weekly using canine enzymatic toothpaste."
+        "Expect heavier seasonal coat blows once or twice a year requiring extra combing around the neck ruff and leg feathering.",
+        "Although erect ears are not prone to frequent infections, wipe them gently during routine grooming.",
+        "Trim nails every two to four weeks to keep feet tight and arched.",
+        "Brush teeth several times a week with canine enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent and obedient, but possesses strong protective and territorial instincts that require firm, positive leadership",
+        "Moderate; bright and willing to work with its owner, yet independent and easily bored by repetitive drills",
 
       tips: [
-        "Use positive reinforcement, high-value treats, and calm, confident authority.",
-        "Establish clear household boundaries early; the breed must learn to defer to its handler regarding visitors and perceived threats.",
-        "Avoid harsh physical corrections, which can trigger defensive behavior in a fiercely loyal guardian.",
-        "Provide a dedicated digging spot in the yard to prevent destructive landscaping."
+        "Use a gentle hand, enthusiastic praise, and reward-based training rather than harsh corrections.",
+        "Keep training sessions brisk and varied so this clever spitz stays interested.",
+        "Keep the dog on a leash or inside a securely fenced yard outdoors because prey drive and independence can override recall.",
+        "Provide puzzle feeders, long-lasting chews, and structured mental tasks daily."
       ],
 
       socialization:
-        "Extensive, continuous socialization is absolutely critical from early puppyhood. Introduce the dog safely and positively to a wide variety of people, neutral vaccinated dogs, and diverse environments to ensure its natural suspicion of strangers does not escalate into fear or aggression."
+        "Begin early, positive socialization with unfamiliar people, neutral vaccinated dogs, and varied environments so natural watchdog reserve stays calm and discerning rather than fearful or reactive."
     },
 
     livingEnvironment: {
@@ -209,75 +204,73 @@ export const thai_bangkaew_dog: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Warm and humid climates, reflecting its native Thai heritage, provided ample shade and fresh water are available",
-        "Cool climates, where the dense double coat provides excellent insulation"
+        "Well suited to temperate climates",
+        "Adapts to warm, humid weather reflecting its Thai origins when given shade, cooling, and ample fresh water",
+        "Handles cool weather well thanks to its dense insulating double coat"
       ],
 
       aloneTimeTolerance:
-        "Moderate; deeply devoted to its family and can experience separation distress if isolated for excessive periods, often resorting to alert barking or digging if bored."
+        "Moderate; closely attached to its family and may turn to alert barking or digging if left bored for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-sized breeds.",
+      "Complete, balanced diet formulated for active medium-sized dogs, adjusted for age and exercise level",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age.",
+        "Three to four measured small meals daily until about six months of age.",
       adult:
-        "Two measured meals daily to support steady energy and digestion.",
+        "Two measured meals per day to maintain steady energy and lean muscle.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output."
+        "Two portion-controlled meals daily tailored for slower metabolism."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup. The breed's dense double coat can easily hide weight gain, making physical assessments (feeling for the ribs) essential. Divide daily food into two distinct meals and provide cool, clean drinking water continuously.",
+      "Measure meals carefully and check body condition by hand beneath the plush double coat so ribs remain easily felt without excess padding. Divide daily food into two meals and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition to prevent stress on joints.",
-      "Account for training treats within the total daily caloric allowance.",
-      "Provide access to extra water during hot weather, as the heavy coat retains heat.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Monitor body fat closely as dogs reach five years of age and older, when weight tends to creep upward.",
+      "Count training treats within the daily calorie budget.",
+      "Offer plenty of cool water during warm or humid weather.",
+      "Transition between food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary based on age, daily exercise intensity, and environmental temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Consult a veterinarian to adjust daily portions based on activity level, neuter status, and climate."
   },
 
   health: {
     overview:
-      "The Thai Bangkaew Dog is a generally robust and healthy primitive-type breed with a typical life expectancy of 10 to 14 years. Evolving in an isolated region through natural selection, it possesses strong constitutional vitality. Primary health priorities focus on maintaining a healthy weight, routine veterinary dental care, and monitoring for occasional hereditary eye conditions.",
+      "The Thai Bangkaew Dog appears to be a hardy, long-lived breed with a typical life expectancy of 14 to 17 years and low reported rates of cancer or debilitating disease. Because formal screening has not historically been universal in its homeland, overall breed health data are still developing. The main current concern is early-onset eye disease—particularly progressive retinal atrophy (PRA)—making specialist eye exams the top screening priority, alongside precautionary hip evaluations for a medium-sized breed.",
 
     commonConditions: [
-      "Ocular conditions — occasional reports of cataracts or progressive retinal atrophy, requiring monitoring through veterinary ophthalmologist examinations",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, occasionally seen in medium-sized spitz breeds",
-      "Ear infections — rare in erect-eared breeds, but dirt or moisture trapped in the dense fur around the ears can cause irritation",
-      "Obesity — a tendency to gain weight if fed generously without sufficient daily exercise"
+      "Early-onset eye conditions, including progressive retinal atrophy (PRA) — currently the primary noted health concern in the breed, monitored through specialist veterinary eye exams",
+      "Hip dysplasia — only a few cases have been noted, though pre-breeding hip evaluation is still recommended as a sensible medium-breed precaution",
+      "Weight gain with age — body fat tends to increase from around five years of age onward if portions are not adjusted to activity level"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has undergone specialist eye examinations and orthopedic evaluations.",
-      "Maintain a lean, athletic body condition throughout life to minimize mechanical wear on joints.",
-      "Thoroughly dry the dense double coat after swimming or bathing to prevent trapped moisture and hot spots.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Confirm that breeding parents have undergone specialist eye examinations and precautionary hip evaluations.",
+      "Keep weight lean from middle age onward by checking body condition under the thick coat.",
+      "Dry the double coat completely after swimming or baths to protect skin health.",
+      "Maintain regular veterinary wellness visits, parasite control, and dental care."
     ],
 
     recommendedScreenings: [
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical or radiographic orthopedic evaluation of the hips and patellas prior to breeding"
+      "Annual eye examination by a veterinary ophthalmologist (screening for early-onset retinal conditions such as PRA)",
+      "Radiographic hip dysplasia evaluation prior to breeding"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete scissor bite (pincer bite tolerated); periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and arrange periodic veterinary dental checks to maintain the complete scissor bite and healthy gums.",
 
     earCare:
-      "Inspect the small, erect triangular ears weekly for dust, wax buildup, or redness. Clean gently using a veterinarian-recommended ear solution.",
+      "Although erect triangular ears are not especially prone to infection, check and wipe them gently during regular grooming.",
 
     skinCare:
-      "Part the dense double coat weekly during brushing to inspect the skin for external parasites, ticks, or irritation. Ensure the thick undercoat is brushed out during seasonal sheds to promote healthy skin airflow."
+      "Part the thick double coat weekly to check for ticks, mats, or irritation, using a slicker brush and rake rather than bladed deshedders."
   },
 
   suitability: {
@@ -288,73 +281,58 @@ export const thai_bangkaew_dog: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners familiar with independent, protective spitz breeds and firm, positive leadership",
-      "Active individuals or families seeking a loyal, intelligent, and deeply devoted guardian companion",
-      "Homes with a securely fenced yard where the dog can exercise and safely express digging instincts",
-      "Owners committed to extensive, lifelong socialization and regular grooming upkeep"
+      "Experienced owners comfortable guiding an alert, independent, protective spitz breed",
+      "Active households with a securely fenced yard",
+      "Owners interested in scentwork, water activities, or varied positive-reinforcement training",
+      "Families with older, respectful children seeking a devoted home watchdog"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for strong territorial and guarding instincts",
-      "Apartment or dense urban dwellers where alert barking and suspicion of strangers may be problematic",
-      "Households seeking a highly sociable dog park companion that mixes freely with unfamiliar dogs",
-      "Owners who leave a dog home alone in isolation for long workdays"
+      "First-time dog owners looking for an effortlessly outgoing, off-leash companion",
+      "Apartments where alert barking and visitor caution may cause friction",
+      "Busy off-leash dog parks with unfamiliar dogs",
+      "Owners unwilling to manage regular double-coat brushing and seasonal shedding"
     ]
   },
 
   funFacts: [
-    "The breed is named directly after its ancestral home: Bangkaew village in the Bang Rakam district of Phitsanulok province, Thailand.",
-    "According to legend, the breed originated when a monk's black-and-white female dog mated with a wild canine—often speculated to be a golden jackal or Asiatic wild dog—resulting in the fierce, loyal, and robust Bangkaew.",
-    "Unlike many spitz breeds that shun water, the Thai Bangkaew Dog is a remarkably strong swimmer, a trait likely developed from living in a village that flooded annually during the monsoon season.",
-    "The Thai Bangkaew Dog is immensely proud of its luxurious coat; the thick ruff around the neck and the beautiful plumed tail are considered essential hallmarks of the breed's 'lion-like' majesty.",
-    "It is recognized as a precious cultural heritage symbol of Phitsanulok province, and breeding lines have been meticulously guarded and refined in Thailand since 1957."
+    "The breed is named after Bangkaew village in Phitsanulok province, Thailand, where local folklore traces its origin to a temple dog that mated with a wild canid.",
+    "After numbers dwindled, Dr. Nisit Tangtrakarnpong helped revive the breed in 1983 through a village conservation project called 'Bang Kaew Khuen Thin' ('Bang Kaew Goes Home').",
+    "Unlike many spitz breeds that avoid getting wet, Thai Bangkaew Dogs have a natural affinity for water and even show promise in water sports like dock diving.",
+    "Veterinary eye research has found that healthy Thai Bangkaew Dogs show distinct baseline electroretinogram timing compared with several other breeds, highlighting their unique physiology.",
+    "The thick mane-like ruff around the neck and shoulders—most dramatic in males—paired with symmetrical eye-and-ear patches gives the breed its signature regal look."
   ],
 
   faq: [
     {
-      question: "What is a Thai Bangkaew Dog?",
+      question: "How big does a Thai Bangkaew Dog get?",
       answer:
-        "The Thai Bangkaew Dog is a medium-sized, squarely built spitz breed native to Thailand, celebrated for its lion-like neck ruff, plumed tail, high intelligence, and deeply protective loyalty to its family."
-    },
-    {
-      question: "How tall and heavy is a Thai Bangkaew Dog?",
-      answer:
-        "Adult males stand 46 to 55 cm at the withers and weigh approximately 18 to 20 kg, while adult females stand 41 to 50 cm and weigh 16 to 18 kg."
+        "Adult males stand 46 to 55 cm at the shoulder and weigh about 40 to 43 lb, while adult females stand 41 to 50 cm and weigh about 35 to 40 lb."
     },
     {
       question: "How long does a Thai Bangkaew Dog live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 14 years."
+        "The breed is notably long-lived, with a typical life expectancy of 14 to 17 years."
     },
     {
-      question: "Do Thai Bangkaew Dogs shed a lot, and how are they groomed?",
+      question: "How should you groom a Thai Bangkaew Dog's coat?",
       answer:
-        "They are moderate shedders year-round and shed heavily when blowing their undercoat seasonally. They require thorough brushing two to three times a week to maintain their dense double coat and prevent matting."
+        "Brush weekly—and daily during seasonal coat blows—using a slicker brush and undercoat rake, bathing roughly monthly as needed. Avoid bladed deshedding tools that can damage the coarse outer coat."
     },
     {
       question: "Can a Thai Bangkaew Dog live in an apartment?",
       answer:
-        "Generally no. Due to their protective nature, tendency to bark at perceived threats, and need for physical activity, they thrive best in a house with a securely fenced yard."
+        "Usually no. Their alert watchdog barking, caution toward strangers, and need for secure outdoor space fit a house with a fenced yard much better."
     },
     {
-      question: "Are Thai Bangkaew Dogs aggressive?",
+      question: "Can a Thai Bangkaew Dog go off leash in unfenced areas?",
       answer:
-        "They are not inherently aggressive, but they are fiercely loyal and naturally protective of their territory. Without early, extensive socialization and firm leadership, they can be highly suspicious of strangers and assertive toward unfamiliar dogs."
+        "No. Because of their independent nature and prey drive, they should stay on a leash or inside a securely fenced area."
     },
     {
-      question: "Are Thai Bangkaew Dogs good family pets and good with children?",
+      question: "What health concerns and screenings matter most?",
       answer:
-        "Yes, within their own household they are incredibly affectionate, obedient, and devoted, making them excellent companions for respectful children in their family."
-    },
-    {
-      question: "How much exercise does a Thai Bangkaew Dog need each day?",
-      answer:
-        "The breed requires 45 to 60 minutes of daily physical and mental exercise, including brisk walks, interactive play, swimming, or obedience training."
-    },
-    {
-      question: "What health screenings are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include annual veterinary ophthalmologist eye exams and clinical orthopedic evaluations for the hips and patellas."
+        "Overall the breed appears hardy and long-lived, with early-onset eye conditions such as progressive retinal atrophy (PRA) currently the primary concern. Specialist eye exams and precautionary hip evaluations are recommended for breeding dogs."
     }
   ],
 
@@ -362,53 +340,71 @@ export const thai_bangkaew_dog: Breed = {
     "fci-thai-bangkaew-dog-official-standard",
     "fci-thai-bangkaew-dog-nomenclature",
     "kath-thai-bangkaew-dog-breed-standard",
-    "wikimedia-thai-bangkaew-dog-1-canarian"
+    "akc-thai-bangkaew-breed-profile",
+    "thai-bangkaew-erg-study-2015",
+    "natureserve-canis-lupus-familiaris",
+    "wikimedia-thai-bangkaew-dog-1-canarian",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Species taxonomy record: Canis lupus familiaris"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog subspecies taxonomy."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-thai-bangkaew-dog-official-standard",
-          role: "verified",
-          locator: "Standard heading: THAI BANGKAEW DOG"
-        },
-        {
           id: "fci-thai-bangkaew-dog-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: THAI BANGKAEW DOG (358), Bangkaew de Thaïlande"
+          locator: "THAI BANGKAEW DOG (358); French: BANGKAEW DE THAILANDE"
+        },
+        {
+          id: "akc-thai-bangkaew-breed-profile",
+          role: "verified",
+          locator: "Thai Bangkaew"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Bangkaew"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified across FCI Standard No. 358 and FCI Nomenclature."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-thai-bangkaew-dog-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 5 Spitz and primitive type; Section 5 Asian Spitzes and related breeds; Without working trial"
-        },
-        {
           id: "fci-thai-bangkaew-dog-nomenclature",
           role: "verified",
-          locator: "Group 5, Section 5 Asian Spitzes and related breeds, without working trial"
+          locator: "Group 5 Spitz and primitive type, Section 5 Asian Spitzes and related breeds, without working trial"
+        },
+        {
+          id: "akc-thai-bangkaew-breed-profile",
+          role: "verified",
+          locator: "Foundation Stock Service (accepted July 2023)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Spitz and Primitive Types"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group text avoids registry numbers and group titles."
     },
 
     origin: {
@@ -417,15 +413,15 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "ORIGIN: Thailand; BRIEF HISTORICAL SUMMARY (Bangkaew village, Thanang-ngam area, Bang-rakam district, Phitsanulok province)"
+          locator: "Origin: Thailand; Bangkaew village, Thanang-ngam area, Bang-rakam district, Phitsanulok province"
         },
         {
-          id: "fci-thai-bangkaew-dog-nomenclature",
-          role: "verified",
-          locator: "Country of origin: Thailand"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Bangkaew, Phitsanulok Province, Thailand"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -435,17 +431,26 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "Brief historical summary (1957 selective breeding), general appearance (1:1 proportions, neck ruff, plumed tail), and temperament"
+        },
+        {
+          id: "akc-thai-bangkaew-breed-profile",
+          role: "verified",
+          locator: "About the breed, history, and 1983 'Bang Kaew Khuen Thin' revival by Dr. Nisit Tangtrakarnpong"
         },
         {
           id: "kath-thai-bangkaew-dog-breed-standard",
-          role: "verified",
-          locator: "Origin, Utilization, Behaviour/Temperament, and History"
+          role: "cited",
+          locator: "Country-of-origin breed heritage and temperament"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesized in original prose from FCI Standard No. 358 and official KATH records."
+      verifiedOn: "2026-11-26",
+      note: "All user-facing overview text is newly written in original prose."
     },
 
     physical: {
@@ -454,17 +459,21 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "1:1 square proportions, head, bite, eyes, ears, double coat, and white-with-patches colours (all-white is a severe fault)"
         },
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "General Appearance, Proportions, Head, Body, Tail, Limbs, Coat & Colour, Size"
+          locator: "Breed Colors: White & Fawn, White & Gray, White & Lemon, White & Red, White & Tan, White & Black"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Conformation, 1:1 square proportions, neck ruff, plumed tail, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colors strictly follow FCI Standard No. 358 and AKC (white with well-defined patches); solid non-white generic colors from The Dog API are excluded."
     },
 
     "physical.height": {
@@ -473,56 +482,74 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "SIZE: Ideal height at the withers: Males: Minimum 46 cm, maximum 55 cm. Females: Minimum 41 cm, maximum 50 cm."
+          locator: "Size: Ideal height at the withers — Males 46–55 cm; Females 41–50 cm"
         },
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
-          role: "verified",
-          locator: "Size: Dogs 19-21 inches (46-55 cm) Bitches 17-19 inches (41-50 cm)"
+          id: "akc-thai-bangkaew-breed-profile",
+          role: "cited",
+          locator: "Height: 18–21 inches (males); 16–19 inches (females)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: Males 46–53 cm; Females 41–51 cm"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of centimetres (46-55 cm for males and 41-50 cm for females) exactly as specified in the official FCI Standard No. 358."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 358 height values in cm (46–55 cm / 41–50 cm); The Dog API lists 46–53 cm / 41–51 cm."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Kennel Club of Thailand descriptive history and scale parameters"
+          locator: "Weight: 40–43 lb (males); 35–40 lb (females)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: Males 16–20.5 kg; Females 14–18 kg"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FCI Standard No. 358 specifies height without fixing a numerical weight. The stored 18-20 kg for males and 16-18 kg for females represent canonical figures aligned with metric height units and veterinary profiles, preserved in kilograms."
+      verifiedOn: "2026-11-26",
+      note: "FCI Standard No. 358 does not specify a numeric weight; stored exact AKC profile values in lb (40–43 lb / 35–40 lb) without unit conversion. The Dog API lists 16–20.5 kg / 14–18 kg."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Average lifespan profile for medium-sized primitive breeds (10-14 years)"
+          locator: "Life Expectancy: 14–17 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 12–14 years"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Supported by kennel club and veterinary actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Stored AKC breed profile range of 14–17 years (The Dog API lists 12–14 years)."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "COAT: Double coat. Guard coat straight and coarse, undercoat soft and dense."
+          locator: "Double coat with coarse guard coat and soft, dense undercoat"
+        },
+        {
+          id: "akc-thai-bangkaew-breed-profile",
+          role: "verified",
+          locator: "Grooming and shedding profile"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -532,11 +559,11 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "Lips: Tight with dark and full pigmentation."
+          locator: "Lips: tight with dark and full pigmentation"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Tight, fully pigmented lips prevent drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -545,15 +572,20 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Alert, intelligent, loyal, watchful and obedient. The breed is easy to train. It could be slightly aloof towards strangers."
+          locator: "Behaviour/Temperament: alert, intelligent, loyal, watchful, obedient, easy to train, slightly aloof towards strangers"
         },
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Alert, intelligent, loyal, watchful and obedient. He has an inherent desire to protect home and family and easy to train."
+          locator: "Loyal to owner, aloof with strangers, natural watchdog, prey drive, affinity for water"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -561,40 +593,43 @@ export const thai_bangkaew_dog: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed traits and temperament overview"
+        },
+        {
+          id: "fci-thai-bangkaew-dog-official-standard",
+          role: "cited",
+          locator: "Behaviour/Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented primitive spitz temperament, high family loyalty, and strong protective/watchdog instincts."
+      note: "Editorial 1–5 scores reflecting strong loyalty, watchdog alertness, and stranger caution."
     },
 
     care: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition principles"
+          locator: "Grooming (rake combs & slicker brushes, avoid bladed deshedders), Exercise (moderate, leash/fenced area), Training (gentle positive reinforcement, avoid repetition)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active spitz breed management with double-coat grooming and secure boundary protocols."
+      note: null
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-thai-bangkaew-dog-official-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "UTILIZATION: Companion dog; BEHAVIOUR/TEMPERAMENT: Alert, intelligent, active"
+          locator: "Exercise: moderate exercise required as a medium-energy breed; leash or fenced area recommended"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -602,53 +637,51 @@ export const thai_bangkaew_dog: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations for an active guardian breed"
+          locator: "Moderate daily exercise needs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 45 to 60 minutes of daily activity reflects the exercise demands of an intelligent, muscular spitz."
+      note: "Estimated 45–60 minutes of daily physical and mental activity."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Inherent desire to protect home and family; territorial watchdog"
+          locator: "Watchdog nature, stranger reserve, and enclosed yard recommendation"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that strong protective territorial instincts, alertness, and need for movement make apartment living unsuitable."
+      note: null
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Home and family protector role"
+          locator: "Supervised off-leash play in an enclosed/fenced area"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "COAT: Double coat... Origin: Thailand (adaptable to regional humid/warm conditions)"
+          locator: "Origin Thailand; double coat"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -656,9 +689,9 @@ export const thai_bangkaew_dog: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "fci-thai-bangkaew-dog-official-standard",
           role: "cited",
-          locator: "Loyal, protective nature"
+          locator: "Loyal companion temperament"
         }
       ],
       verifiedOn: null,
@@ -669,82 +702,70 @@ export const thai_bangkaew_dog: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for active medium breeds"
+          locator: "Medium-breed nutrition guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-sized spitz breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "kath-thai-bangkaew-dog-breed-standard",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Health overview: generally robust, primitive breed vitality"
+          locator: "Health: generally very healthy and long-lived (14–17 years); primary current concern is early-onset eye conditions (PRA); few instances of hip dysplasia noted, hip testing still recommended"
+        },
+        {
+          id: "thai-bangkaew-erg-study-2015",
+          role: "verified",
+          locator: "J Vet Sci 2015;16(1):67–74 (PMID 25269713): breed-specific electroretinography (ERG) reference parameters in Thai Bangkaew Dogs"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesizes national kennel club veterinary health data and primitive spitz priorities."
+      verifiedOn: "2026-11-26",
+      note: "Accurately notes that breed-wide screening is still emerging and distinguishes primary PRA eye concerns from precautionary hip screening."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Ocular conditions and hip dysplasia monitoring"
+          locator: "Early-onset eye conditions (PRA) and occasional hip dysplasia"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Routine care, grooming, and veterinary wellness checks"
+          locator: "Eye and hip screening plus routine double-coat care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to double-coated spitz breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Recommended evaluations: Eye examination and orthopedic evaluation"
+          locator: "Specialist eye exams (PRA) and precautionary hip dysplasia evaluation"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Screenings summarize published national kennel club protocols."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.dentalCare": {
@@ -753,51 +774,55 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "cited",
-          locator: "Jaws/Teeth: Upper and lower jaws are strong and with full dentition. Scissors bite."
+          locator: "Strong jaws with full dentition; scissor bite (pincer tolerated)"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
+          id: "akc-thai-bangkaew-breed-profile",
+          role: "cited",
+          locator: "Not prone to ear infections; wipe during regular grooming"
+        },
+        {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "cited",
-          locator: "Ears: Small, triangular, erect and pointing forward"
+          locator: "Small, triangular, erect ears"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect spitz ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-thai-bangkaew-dog-official-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Coat texture: Double coat, coarse guard coat, dense undercoat"
+          locator: "Slicker brush and rake comb care; avoid bladed deshedding brushes"
         }
       ],
       verifiedOn: null,
-      note: "General skin and double-coat care guidelines."
+      note: null
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "cited",
-          locator: "Temperament and Family life ratings"
+          locator: "Temperament, exercise, and training traits"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, guardian instincts, and training requirements."
+      note: "Editorial suitability ratings based on watchdog instincts, independence, and grooming needs."
     },
 
     funFacts: {
@@ -806,16 +831,21 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "Bangkaew village origin, Phitsanulok province heritage"
+          locator: "Bangkaew village heritage, neck ruff, symmetrical head markings"
         },
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Monastery legend, wild dog cross, and 1957 selective breeding program"
+          locator: "1983 'Bang Kaew Khuen Thin' revival by Dr. Nisit Tangtrakarnpong; water affinity / dock diving"
+        },
+        {
+          id: "thai-bangkaew-erg-study-2015",
+          role: "verified",
+          locator: "Distinct normal ERG implicit times in Thai Bangkaew Dogs (PMID 25269713)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -824,19 +854,18 @@ export const thai_bangkaew_dog: Breed = {
         {
           id: "fci-thai-bangkaew-dog-official-standard",
           role: "verified",
-          locator: "Origin, height (46-55 cm / 41-50 cm), coat, and neck ruff"
+          locator: "Height (46–55 cm / 41–50 cm), double coat, and temperament"
         },
         {
-          id: "kath-thai-bangkaew-dog-breed-standard",
+          id: "akc-thai-bangkaew-breed-profile",
           role: "verified",
-          locator: "Weight (16-20 kg), lifespan (10-14 years), apartment living, and protective family suitability"
+          locator: "Weight (40–43 lb / 35–40 lb), lifespan (14–17 years), grooming tools, leash/fence guidance, and PRA/hip health priorities"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FAQ answers synthesize verified standards and national kennel club publications without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "All FAQ entries are written in original prose without source or registry names."
     }
   },
 
-  updatedOn: "2026-11-13"
+  updatedOn: "2026-11-26"
 };

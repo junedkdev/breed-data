@@ -267,6 +267,9 @@ import { australian_kelpie } from "./australian_kelpie";
 import { borzoi } from "./borzoi";
 import { japanese_terrier } from "./japanese_terrier";
 import { fila_brasileiro } from "./fila_brasileiro";
+import { field_spaniel } from "./field_spaniel";
+import { pumi } from "./pumi";
+import { rat_terrier } from "./rat_terrier";
 
 
 export const breedData: readonly Breed[] = [
@@ -533,4 +536,7 @@ export const breedData: readonly Breed[] = [
   borzoi,
   japanese_terrier,
   fila_brasileiro,
+  field_spaniel,
+  pumi,
+  rat_terrier,
 ];

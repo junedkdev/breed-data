@@ -7,19 +7,19 @@ export const slovakian_rough_haired_pointer: Breed = {
 
   alternateNames: [
     "Slovenský hrubosrstý stavač",
-    "Slovakian Wire-haired Pointing Dog",
     "Wirehaired Slovakian Pointer",
-    "Slovak Pointing Griffon",
+    "Slovakian Wirehaired Pointer",
+    "Braque Slovaque à Poil Dur",
+    "Slowakischer Rauhbart",
     "Ohar"
   ],
 
-  group:
-    "Pointing Dogs; Section 1.1 — Continental Pointing Dogs, type 'Braque' (with working trial; also classified in the Gun Dog or Sporting group)",
+  group: "Rough-haired continental pointing dog",
 
   origin: {
     country: "Slovakia",
     region:
-      "Slovakia (historically developed in Czechoslovakia following World War II)"
+      "Slovakia, developed in post-World War II Czechoslovakia"
   },
 
   images: [
@@ -29,7 +29,7 @@ export const slovakian_rough_haired_pointer: Breed = {
         "https://commons.wikimedia.org/wiki/File:Wyzel_slowacki_szorstkowlosy_rybnik-kamien_pl.jpg",
       title: "Wyzel slowacki szorstkowlosy rybnik-kamien pl.jpg",
       description:
-        "An adult Slovakian Rough-haired Pointer standing outdoors, showcasing its sturdy build and wire coat.",
+        "An adult Slovakian Rough-haired Pointer standing outdoors, displaying its sturdy build and grey wire coat.",
       creator: "Pleple2000",
       uploader: "Pleple2000",
       capturedOn: "2007-10-07",
@@ -38,9 +38,10 @@ export const slovakian_rough_haired_pointer: Breed = {
       height: 2208,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Wyzel_slowacki_szorstkowlosy_rybnik-kamien_pl.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Wyzel_slowacki_szorstkowlosy_rybnik-kamien_pl.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/.",
+      restrictions:
+        "CC BY-SA 4.0 requires attribution and ShareAlike distribution if adapted (also dual-licensed under GFDL).",
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bella_z_Milhostovskych_poli.jpg",
@@ -48,7 +49,7 @@ export const slovakian_rough_haired_pointer: Breed = {
         "https://commons.wikimedia.org/wiki/File:Bella_z_Milhostovskych_poli.jpg",
       title: "Bella z Milhostovskych poli.jpg",
       description:
-        "A female Slovakian Rough-haired Pointer standing attentively in a grassy field.",
+        "A female Slovakian Rough-haired Pointer standing alertly in an open grassy field.",
       creator: "Martina Vernerová / Ing. Urban Michal",
       uploader: "Prskavka~commonswiki",
       capturedOn: "2005-10-09",
@@ -59,28 +60,28 @@ export const slovakian_rough_haired_pointer: Breed = {
       attribution:
         "Photo by Martina Vernerová / Ing. Urban Michal, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Bella_z_Milhostovskych_poli.jpg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A versatile, robust, and noble Slovakian pointing gundog distinguished by its weather-resistant grey wire coat, high trainability, and tireless energy in the field and water.",
+      "A rugged, noble Slovakian pointing and retrieving dog recognized by its weatherproof grey wire coat, eager trainability, and steady stamina across open fields, woods, and water.",
 
     description:
-      "The Slovakian Rough-haired Pointer is a medium-to-large, sturdily built continental pointing dog with a rectangular silhouette and a noble bearing. Developed to be a highly versatile hunting companion, the breed thrives on the plain, in the woods, and in the water. Its hallmark is a harsh, straight, and flat double coat that provides excellent protection against the elements and thick cover, presenting in a distinctive brown-shaded sable (commonly referred to as 'grey'), with or without white markings. The head is lean and sufficiently long with pronounced superciliary arches, almond-shaped amber eyes, and a prominent moustache and beard that give the face a rugged, serious expression. Known for its biddability and cooperative nature, the Slovakian Rough-haired Pointer forms a deep, affectionate bond with its family, making it an excellent companion for highly active, outdoor-oriented households.",
+      "Built on clean, rectangular lines that balance moderate bone with athletic elegance, the Slovakian Rough-haired Pointer is an all-around hunting partner made for varied terrain. Its defining trait is a flat, harsh double coat about 4 cm long in brown-shaded sable—commonly called 'grey'—paired with a softer moustache and bold, slanted eyebrows. Almond-shaped amber eyes (blue in young puppies) lend an alert, thoughtful expression. Cooperative and quick to learn, this breed bonds tightly with its household and settles calmly indoors once its high daily exercise needs are met.",
 
     history:
-      "The Slovakian Rough-haired Pointer is a relatively modern breed, originating in Czechoslovakia (now Slovakia) in the years following World War II. During the 1950s, Slovakian cynologist Koloman Slimák led efforts to create a versatile, robust pointing dog suited for local hunting conditions. The foundation involved crossing the Cesky Fousek (Bohemian Wire-haired Pointing Griffon) and the German Wirehaired Pointer with the Weimaraner, aiming to combine the Weimaraner's distinct grey color and intelligence with the harsh, weather-resistant wire coat and rugged utility of the other griffons. The resulting dogs proved exceptional at tracking, pointing, and retrieving on land and in water. The breed was officially recognized by international canine authorities in 1982. Although it remains a rare breed globally, its reputation as an obedient, hard-working, and even-tempered gundog is steadily growing among hunters and active families alike.",
+      "This modern pointing breed was created in Slovakia (then part of Czechoslovakia) after World War II. Beginning in the 1950s, Slovak cynologist Koloman Slimák set out to develop a hardy, tractable all-purpose hunter suited to local field, forest, and water conditions by combining the Cesky Fousek (Czech Pointer), German Wirehaired Pointer, and Weimaraner. The resulting dogs paired the Weimaraner's distinctive grey tone and biddable temperament with a tough, protective wire coat. International recognition followed in 1982, and although numbers remain modest worldwide, the breed has earned a dedicated following among versatile hunters and active families.",
 
     originalPurpose:
-      "A versatile gundog designed for pointing, tracking, and retrieving wounded game on the plain, in woodlands, and in the water.",
+      "Pointing, tracking, and retrieving game—including wounded game after the shot—across plains, forests, and water",
 
     currentRoles: [
-      "Versatile hunting dog (pointing and retrieving)",
-      "Canine athlete in field trials and hunt tests",
-      "Search and tracking partner",
-      "Active family companion"
+      "Versatile pointing and retrieving hunting dog",
+      "Field trial, hunt test, and tracking competitor",
+      "Agility and obedience sport partner",
+      "Devoted companion for highly active households"
     ]
   },
 
@@ -117,50 +118,44 @@ export const slovakian_rough_haired_pointer: Breed = {
     },
 
     coatType:
-      "Harsh, straight, and flat double coat. The topcoat is roughly 4 cm long, supported by a short, fine undercoat that sheds in the summer. It features a distinctive moustache on the lower muzzle and obliquely laying eyebrows.",
+      "Harsh, straight, flat double coat with an outer coat about 4 cm long and a short, fine undercoat usually shed in summer; softer moustache on the lower muzzle and marked slanted eyebrows",
 
     coatLength: "Short",
 
     coatColors: [
-      "Brown-shaded sable (referred to as 'grey')",
-      "Grey with lighter and darker shadings",
-      "Grey with white markings on the legs and chest",
-      "Grey with large white markings (speckled)"
+      "Brown-shaded sable ('grey') with lighter or darker shadings",
+      "Grey with white markings on the chest and legs",
+      "Grey with larger white markings or speckling"
     ],
 
     sheddingLevel:
-      "Moderate; sheds minimally compared to many double-coated breeds, with a seasonal blow of the fine undercoat in the summer",
+      "Low to moderate; sheds lightly most of the year with a heavier drop of the fine undercoat in summer",
 
     droolingLevel:
-      "Low; moderately developed, closely fitting lips prevent excessive drooling",
+      "Low; neat, closely fitting dark lips keep drooling minimal",
 
     distinctiveFeatures: [
-      "Rectangular, sturdy build that balances moderate strength with nobility",
-      "Height at the withers of 62 to 68 cm for males and 57 to 64 cm for females",
-      "Working weight of 50 to 65 pounds for both males and females in lean condition",
-      "Distinctive harsh, wiry 'grey' (sable/roan) coat with a fine undercoat",
-      "Facial furnishings including pronounced, obliquely laying eyebrows and a softer moustache",
-      "Rectangular skull with pronounced superciliary arches and a moderate stop",
-      "Large, dark nose with wide nostrils",
-      "Almond-shaped amber eyes expressing intelligence (puppies have azure blue eyes that transition with age)",
-      "Broad, rounded drop ears set above eye level",
-      "Strong, straight back with a broad, sufficiently long croup",
-      "Well-furnished tail typically carried horizontally in action",
-      "Rounded, tight feet with well-arched toes and dark pads"
+      "Sturdy, rectangular frame that is slightly longer than tall with noble, athletic lines",
+      "Harsh, flat grey wire coat paired with a softer muzzle moustache and distinct slanted eyebrows",
+      "Clean, moderately long head with clear brow ridges and a moderate stop",
+      "Large dark nose with wide nostrils",
+      "Almond-shaped amber eyes in adults; young puppies have blue eyes that darken with age",
+      "Broad, rounded drop ears set above eye level and covered in short, soft hair",
+      "Strong, level back with a deep chest and elastic, wrinkle-free grey skin",
+      "Well-coated tail hanging at rest and carried roughly level with the back when moving",
+      "Compact, rounded feet with well-arched toes and tough dark pads"
     ]
   },
 
   temperament: {
     traits: [
-      "Affectionate, cooperative, and deeply bonded with its family",
-      "Highly intelligent, biddable, and eager to please",
-      "Energetic, tireless, and driven by a strong hunting instinct outdoors",
-      "Calm and stable indoors when given adequate physical exercise",
-      "Reserved but polite with unfamiliar strangers, forming initial assessments before warming up",
-      "Sociable and peaceable with other dogs, particularly those of similar energy levels",
-      "Sensitive to harsh corrections, thriving under positive reinforcement",
-      "Prone to separation anxiety if left alone for extended periods without human contact",
-      "Alert and vocal toward novel stimuli or visitors without strong guarding aggression"
+      "Cooperative, obedient, and quick to pick up training",
+      "Deeply affectionate and closely attached to family members",
+      "Energetic, tireless, and driven by strong scent and hunting instincts outdoors",
+      "Polite yet somewhat reserved when first meeting unfamiliar people",
+      "Sensitive to harsh handling; responds best to upbeat, consistent guidance",
+      "Generally sociable with other active dogs when well socialized",
+      "Alert and attentive around home without heavy guarding aggression"
     ],
 
     scores: {
@@ -179,7 +174,7 @@ export const slovakian_rough_haired_pointer: Breed = {
   care: {
     exercise: {
       level:
-        "Very high; a tireless gundog requiring substantial daily aerobic exercise and engaging mental tasks",
+        "Very high; a hardworking pointing and retrieving dog that needs vigorous daily aerobic exercise paired with mental field tasks",
 
       minutesPerDay: {
         min: 90,
@@ -187,10 +182,10 @@ export const slovakian_rough_haired_pointer: Breed = {
       },
 
       activities: [
-        "Vigorous daily trail running, hiking, or off-leash running in secure areas",
-        "Water retrieving and swimming",
-        "Scent work, tracking games, and field trials",
-        "Agility, rally obedience, and canine sports"
+        "Brisk trail running, long hikes, and safe off-leash exercise in secure areas",
+        "Swimming and water retrieving",
+        "Tracking, scent games, and upland field work",
+        "Agility, rally, and obedience training"
       ]
     },
 
@@ -198,33 +193,32 @@ export const slovakian_rough_haired_pointer: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush once or twice weekly using a bristle brush or hound glove to remove dead hairs and maintain the wiry texture. Occasional hand-stripping or trimming helps preserve the coat's harsh quality.",
+        "Brush once or twice a week with a stiff bristle brush or rubber hound glove, increasing brushing during the summer undercoat shed; occasional hand-stripping preserves the harsh outer texture.",
 
       bathing:
-        "Bathe only when necessary to avoid softening the protective, weather-resistant wire coat.",
+        "Bathe only when genuinely dirty so the weather-resistant wire coat does not soften.",
 
       notes: [
-        "The fine undercoat typically drops in the summer, requiring slightly more frequent brushing during the transition.",
-        "Check the drop ears weekly for moisture or debris, especially after swimming.",
-        "Keep the facial moustache clean of food debris.",
-        "Trim fast-growing nails every two weeks.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Check and dry the rounded drop ears after swimming or wet brushwork to prevent trapped moisture.",
+        "Rinse and comb the moustache and beard periodically to keep food debris from building up.",
+        "Trim nails every two weeks so toes stay compact for running.",
+        "Brush teeth several times a week with canine enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Easy to moderate; highly intelligent and biddable, but sensitive, requiring a gentle, positive, and consistent approach",
+        "Easy to moderate; very bright and eager to work with its handler, yet sensitive enough that harsh corrections backfire",
 
       tips: [
-        "Use reward-based training and enthusiastic praise; harsh corrections will damage trust and cause the dog to shut down.",
-        "Provide structured tasks and mental stimulation to prevent boredom and destructive behavior.",
-        "Practice early recall training to manage strong prey drive in unfenced environments.",
-        "Incorporate retrieving and scent games into daily training."
+        "Build lessons around positive reinforcement, play, and clear, calm consistency.",
+        "Channel hunting drive into structured retrieving, tracking, and steadiness exercises.",
+        "Reinforce solid recall early before allowing off-leash freedom in open country.",
+        "Keep workouts varied so this clever dog does not grow bored."
       ],
 
       socialization:
-        "Introduce the puppy early to varied people, other dogs, and novel environments to ensure their naturally reserved demeanor matures into stable confidence."
+        "Provide calm, positive introductions to varied people, friendly dogs, traffic, and outdoor settings during puppyhood so natural reserve develops into steady confidence."
     },
 
     livingEnvironment: {
@@ -232,75 +226,76 @@ export const slovakian_rough_haired_pointer: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Cool and wet climates, where the dense wire coat provides excellent insulation",
-        "Warm climates, provided exercise occurs during cooler hours and ample fresh water is available"
+        "Well suited to temperate climates",
+        "Handles cool and damp field weather comfortably thanks to its harsh double coat",
+        "Tolerates warm weather better after shedding its summer undercoat, provided exercise happens in cooler hours with plenty of water"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; forms a very tight bond with its family and is susceptible to separation anxiety if left isolated for long workdays."
+        "Low to moderate; bonds closely with its people and can become anxious or restless if left alone for long daily stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active large sporting breeds, adjusted for seasonal hunting workload.",
+      "Complete, balanced large-breed diet formulated for active sporting dogs, adjusted for seasonal fieldwork demands",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily.",
+        "Three to four measured small meals daily until about six months of age.",
       adult:
-        "Two measured meals daily to support energy levels and reduce bloat risk.",
+        "Two measured meals per day to sustain lean muscle and reduce single-meal stomach load.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals daily tailored for lower activity and joint support."
     },
 
     guidelines:
-      "Measure rations carefully to maintain a lean, athletic body condition. Divide food into two meals and strictly restrict vigorous exercise for at least one hour before and after eating.",
+      "Measure daily portions to keep the dog lean and hard-muscled, adjusting calories upward during heavy hunting or running seasons. Divide daily intake into two meals and avoid intense running immediately before and after eating to help reduce bloat risk.",
 
     considerations: [
-      "Maintain a lean, muscular body to minimize stress on the joints.",
-      "Adjust caloric intake based on seasonal hunting or exercise levels.",
-      "Rest the dog around mealtimes to mitigate the risk of gastric dilatation-volvulus (bloat)."
+      "Keep weight lean to protect hips, elbows, and athletic stamina.",
+      "Schedule calm rest periods around mealtimes to lower gastric dilatation-volvulus risk.",
+      "Count training treats within the daily calorie allowance.",
+      "Provide fresh water continuously, especially during warm-weather fieldwork."
     ],
 
     note:
-      "Caloric needs vary significantly based on hunting activity, outdoor temperature, and daily exercise intensity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Confirm ideal daily calories with a veterinarian based on age, metabolism, and seasonal exercise load."
   },
 
   health: {
     overview:
-      "The Slovakian Rough-haired Pointer is a relatively robust and healthy sporting breed with a typical lifespan of 12 to 15 years. Health priorities include orthopedic screening for hip dysplasia, routine ear care for drop ears, and monitoring for eye conditions and gastric dilatation-volvulus (bloat).",
+      "The Slovakian Rough-haired Pointer is generally hardy and athletic, with a typical life expectancy of 12 to 15 years. Because the breed is rare worldwide, large-scale epidemiological data remain limited; responsible breeders prioritize screening for hip dysplasia, elbow dysplasia, and hereditary eye conditions such as progressive retinal atrophy (PRA) and cataracts. General large-breed and working-dog risks include gastric dilatation-volvulus (bloat), moisture-related ear infections, and occasional field injuries.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity of the hip joints leading to arthritis, monitored through pre-breeding screening",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested dogs",
-      "Chronic otitis externa — ear infections promoted by drop ears trapping moisture",
-      "Eye conditions — occasional reports of cataracts or other hereditary eye anomalies",
-      "Traumatic outdoor injuries — minor cuts or sprains sustained during vigorous fieldwork"
+      "Hip and elbow dysplasia — developmental joint conditions monitored through pre-breeding radiographic evaluations",
+      "Hereditary eye conditions — progressive retinal atrophy (PRA), cataracts, and eyelid conformation issues (entropion or ectropion) monitored via veterinary eye checks",
+      "Gastric dilatation-volvulus (bloat) — an acute, life-threatening stomach twisting risk associated with deep-chested large-breed conformation",
+      "Otitis externa (ear infections) — drop ears can hold moisture after swimming or wet fieldwork if not dried routinely",
+      "Field scrapes and sprains — minor cuts, paw-pad wear, or strains from dense brush and rugged terrain"
     ],
 
     preventiveCare: [
-      "Ensure breeding stock has certified radiographic hip clearances and veterinary eye examinations.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Thoroughly dry the drop ears after swimming or bathing.",
-      "Maintain a lean body condition to protect joint health.",
-      "Administer year-round parasite prevention."
+      "Confirm that breeding parents have documented hip and elbow evaluations and veterinary eye clearances.",
+      "Feed two smaller daily meals and keep vigorous running separated from mealtimes to help reduce bloat risk.",
+      "Dry the drop ears thoroughly after swimming or rain.",
+      "Keep weight lean and check paws and coat for thorns, burrs, or ticks after outdoor outings."
     ],
 
     recommendedScreenings: [
       "Radiographic hip dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a certified veterinary ophthalmologist"
+      "Radiographic elbow dysplasia evaluation prior to breeding",
+      "Annual eye examination by a veterinary ophthalmologist (screening for cataracts and progressive retinal atrophy)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has a complete 42-tooth scissor bite.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and schedule regular veterinary dental checks to keep the scissor bite and gums healthy.",
 
     earCare:
-      "Inspect the rounded drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution.",
+      "Inspect the rounded drop ears weekly and after every swim for dampness, wax, or redness, cleaning gently with a veterinarian-approved solution when needed.",
 
     skinCare:
-      "Part the wiry coat weekly to check the skin for external parasites or minor field scratches."
+      "Part the wire coat weekly during brushing to inspect the elastic skin for ticks, burrs, or brush scratches."
   },
 
   suitability: {
@@ -311,147 +306,134 @@ export const slovakian_rough_haired_pointer: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Highly active individuals, runners, and hunters who can provide 90 to 120 minutes of daily exercise",
-      "Families seeking an affectionate, cooperative, and robust companion",
-      "Canine sports enthusiasts involved in field trials, tracking, or agility",
-      "Homes with a securely fenced yard"
+      "Hunters, runners, and outdoor enthusiasts who can provide 90 to 120 minutes of vigorous daily activity",
+      "Active families wanting a deeply loyal, cooperative, and versatile companion",
+      "Handlers interested in field trials, tracking, swimming, or agility",
+      "Homes with a securely fenced yard and direct access to trails or open countryside"
     ],
 
     notIdealFor: [
-      "Sedentary individuals looking for a low-maintenance lap dog",
-      "Apartment dwellers without access to extensive outdoor running space",
-      "Owners who leave a dog home alone for long workdays",
-      "Those unwilling to manage a moderate-shedding wire coat and high exercise needs"
+      "Sedentary households or owners wanting a low-energy indoor companion",
+      "Apartment living without extensive daily outdoor running outlets",
+      "Owners who leave a dog alone for long workdays",
+      "Anyone unwilling to manage strong hunting instincts and high exercise demands"
     ]
   },
 
   funFacts: [
-    "The breed is often affectionately described as looking like a Weimaraner wearing a rough tweed jacket, reflecting both its ancestry and its distinctive wiry coat.",
-    "Koloman Slimák, the visionary Slovakian cynologist who developed the breed, sought to create the ultimate versatile gundog specifically tailored for the demanding post-WWII European hunting landscape.",
-    "While Slovakian Rough-haired Pointer puppies are born with striking azure blue eyes, they gradually transition to a warm amber color as they mature.",
-    "The breed's harsh topcoat is roughly 4 cm long, but it features a softer, shorter undercoat that it typically sheds completely during the hot summer months."
+    "Because of its grey coloring and harsh wiry coat, the breed is often nicknamed a 'Weimaraner in a tweed jacket.'",
+    "Slovakian Rough-haired Pointer puppies are born with bright blue eyes that gradually shift to warm amber as they grow up.",
+    "The breed was developed in the 1950s by Slovak cynologist Koloman Slimák by blending the Cesky Fousek, German Wirehaired Pointer, and Weimaraner.",
+    "Its double coat has a harsh ~4 cm outer layer over a short, fine undercoat that is typically shed during the summer months."
   ],
 
   faq: [
     {
-      question: "What is a Slovakian Rough-haired Pointer?",
+      question: "How big does a Slovakian Rough-haired Pointer get?",
       answer:
-        "The Slovakian Rough-haired Pointer is a versatile, robust pointing gundog developed in Slovakia, known for its weather-resistant grey wire coat, high intelligence, and tireless energy in the field and water."
-    },
-    {
-      question: "How does the Slovakian Rough-haired Pointer differ from the German Wirehaired Pointer and Weimaraner?",
-      answer:
-        "It combines traits of both: it has the distinctive grey color and sensitive, biddable intelligence of the Weimaraner, but possesses a harsh, wiry coat and robust facial furnishings (beard and eyebrows) similar to the German Wirehaired Pointer."
-    },
-    {
-      question: "How tall and heavy is a Slovakian Rough-haired Pointer?",
-      answer:
-        "Adult males stand 62 to 68 cm at the withers, and females stand 57 to 64 cm. According to kennel club profiles, their working weight typically ranges from 50 to 65 pounds."
+        "Adult males stand 62 to 68 cm at the shoulder and females stand 57 to 64 cm, with a typical working weight of 50 to 65 lb."
     },
     {
       question: "How long does a Slovakian Rough-haired Pointer live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "With good nutrition, lean weight management, and regular veterinary care, the breed typically lives 12 to 15 years."
     },
     {
-      question: "Do Slovakian Rough-haired Pointers shed a lot, and how are they groomed?",
+      question: "How is it different from a Weimaraner or German Wirehaired Pointer?",
       answer:
-        "They are moderate shedders. They require weekly brushing with a bristle brush to maintain their wire coat, and they shed their fine undercoat completely during the summer."
+        "It blends hallmarks of both ancestors: the distinctive grey coat color and cooperative sensitivity of the Weimaraner paired with the harsh wire coat, moustache, and rugged all-weather utility of wirehaired pointing breeds."
+    },
+    {
+      question: "How much exercise does a Slovakian Rough-haired Pointer need?",
+      answer:
+        "Plan on 90 to 120 minutes of vigorous daily exercise—such as trail running, swimming, retrieving, or scent work—to keep this athletic gundog calm and content indoors."
     },
     {
       question: "Can a Slovakian Rough-haired Pointer live in an apartment?",
       answer:
-        "Generally no. Due to their very high exercise needs, energetic nature, and requirement for off-leash running, they thrive best in a house with a securely fenced yard."
-    },
-    {
-      question: "Are Slovakian Rough-haired Pointers good family pets and good with children?",
-      answer:
-        "Yes, they are highly affectionate, cooperative, and deeply bonded with their families, making them patient and playful companions for children in active households."
-    },
-    {
-      question: "How much exercise does a Slovakian Rough-haired Pointer need each day?",
-      answer:
-        "The breed requires 90 to 120 minutes of vigorous daily physical activity, including trail running, swimming, field training, and off-leash exercise."
+        "Usually no. Its stamina, size, and strong drive to run and work outdoors suit a house with a securely fenced yard much better than apartment life."
     },
     {
       question: "What health screenings are recommended for breeding dogs?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip dysplasia and annual veterinary ophthalmologist eye exams."
+        "Recommended pre-breeding checks include hip and elbow dysplasia X-rays along with veterinary ophthalmologist eye exams to screen for cataracts and progressive retinal atrophy."
     }
   ],
 
   references: [
     "fci-slovakian-rough-haired-pointer-official-standard",
     "fci-slovakian-rough-haired-pointer-nomenclature",
+    "the-kennel-club-slovakian-rough-haired-pointer-standard",
     "akc-slovakian-wirehaired-pointer-breed-profile",
+    "natureserve-canis-lupus-familiaris",
     "wikimedia-slovakian-wire-haired-pointing-dog-rybnik",
-    "wikimedia-slovakian-wire-haired-pointing-dog-bella"
+    "wikimedia-slovakian-wire-haired-pointing-dog-bella",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Species taxonomy record: Canis lupus familiaris"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog subspecies taxonomy."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-slovakian-rough-haired-pointer-official-standard",
-          role: "verified",
-          locator: "Standard heading: SLOVENSKÝ HRUBOSRSTÝ STAVAČ"
-        },
-        {
           id: "fci-slovakian-rough-haired-pointer-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: WIREHAIRED SLOVAKIAN POINTER (320), Braque Slovaque à poil dur"
+          locator: "SLOVENSKÝ HRUBOSRSTÝ STAVAČ (OHAR), WIREHAIRED SLOVAKIAN POINTER, BRAQUE SLOVAQUE A POIL DUR, SLOWAKISCHER RAUHBART"
         },
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "History: Slovakian Wirehaired Pointers (Slovensky Hrubosrsty Stavac)"
+          locator: "Slovakian Wirehaired Pointer"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified across FCI Standard No. 320, FCI Nomenclature, and AKC."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-slovakian-rough-haired-pointer-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs, type 'Braque'; with working trial"
-        },
-        {
           id: "fci-slovakian-rough-haired-pointer-nomenclature",
           role: "verified",
-          locator: "Group 7, Section 1.1 Continental Pointing Dogs, type 'Braque', with working trial"
+          locator: "Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs ('Braque' Type), subject to a working trial"
         },
         {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
           role: "verified",
-          locator: "Foundation Stock Service (Sporting Group intent)"
+          locator: "Gundog Group (Imp)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Sporting"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group text avoids registry numbers and group titles."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-slovakian-rough-haired-pointer-official-standard",
-          role: "verified",
-          locator: "Country of origin of the breed: SLOVAKIA"
-        },
         {
           id: "fci-slovakian-rough-haired-pointer-nomenclature",
           role: "verified",
@@ -460,10 +442,15 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "History: originated in Czechoslovakia following World War II"
+          locator: "Originated in post-WWII Czechoslovakia in the late 1950s"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Slovakia"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -473,17 +460,31 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "General appearance, coat (~4 cm), colour ('grey' brown-shaded sable), and versatile field/woods/water utility"
+        },
+        {
+          id: "fci-slovakian-rough-haired-pointer-nomenclature",
+          role: "verified",
+          locator: "Definitive FCI recognition date: 1982-02-17"
+        },
+        {
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
+          role: "verified",
+          locator: "General appearance, characteristics, coat, and eyes"
         },
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Koloman Slimak, late 1950s), and Roles"
+          locator: "About the breed and history"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history (lists 1983 FCI recognition)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesized in original prose from FCI Standard No. 320 and AKC official records."
+      verifiedOn: "2026-11-26",
+      note: "Official FCI Nomenclature records definitive recognition on 1982-02-17 (The Dog API and RKC A-to-Z cite 1983). All user-facing prose is newly written."
     },
 
     physical: {
@@ -492,17 +493,21 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "Coat (~4 cm harsh straight outer coat, summer-shedding fine undercoat, moustache, slanted eyebrows), colour ('grey' brown-shaded sable only; other basic colours disqualifying), and conformation"
         },
         {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
           role: "verified",
-          locator: "General appearance details"
+          locator: "Coat, eyes (amber in adults, blue in young dogs), tail, and general appearance"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Conformation, harsh grey wire coat, moustache and eyebrows, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colors strictly follow FCI Standard No. 320 (other basic colors than brown-shaded sable/'grey' are disqualifying); generic colors from The Dog API are excluded."
     },
 
     "physical.height": {
@@ -511,12 +516,16 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "SIZE: Height at the withers: Males: 62 to 68 cm. Females: 57 to 64 cm."
+          locator: "Size: Height at withers — Males 62 to 68 cm; Females 57 to 64 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: Males 62–68 cm; Females 57–65 cm"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of centimetres (62-68 cm for males and 57-64 cm for females) exactly as specified in the official FCI Standard No. 320."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 320 height in cm (62–68 cm / 57–64 cm); The Dog API lists female maximum as 65 cm."
     },
 
     "physical.weight": {
@@ -525,12 +534,16 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "Weight: 50-65 pounds"
+          locator: "Weight: 50–65 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: Males 25–35 kg; Females 22–30 kg"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FCI Standard No. 320 specifies height without fixing a numerical weight. The stored 50 to 65 pounds for males and females represent canonical working ranges published by the AKC, preserved strictly in pounds per Rule 9."
+      verifiedOn: "2026-11-26",
+      note: "FCI Standard No. 320 does not fix a numeric weight; stored exact AKC profile weight in lb (50–65 lb). The Dog API lists 25–35 kg (male) and 22–30 kg (female)."
     },
 
     "physical.lifespanYears": {
@@ -539,28 +552,33 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-15 years"
+          locator: "Life Expectancy: 12–15 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 12–15 years"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Both AKC profile and The Dog API report 12–15 years."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
-        },
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "COAT: Undercoat short and fine. Normally looses it in the summer."
+          locator: "Short, fine undercoat normally shed in summer"
+        },
+        {
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
+          role: "verified",
+          locator: "Undercoat usually shed in summer"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -570,16 +588,11 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "Lips: Moderately developed; fitting closely, dark in colour"
-        },
-        {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Moderately developed, closely fitting dark lips"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Closely fitting lips prevent drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -588,15 +601,20 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "GENERAL APPEARANCE: He is obedient and easy to train."
+          locator: "Obedient and easy to train; versatile worker"
         },
         {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
           role: "verified",
-          locator: "Temperament: Affectionate, cooperative, and deeply bonded with family"
+          locator: "Characteristics: versatile worker, tractable and easy to train"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -606,12 +624,16 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed trait ratings"
+        },
+        {
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
+          role: "cited",
+          locator: "Tractable, versatile working temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented pointing gundog temperament, high trainability, and family affection."
+      note: "Editorial 1–5 scores grounded in working gundog temperament."
     },
 
     care: {
@@ -620,29 +642,28 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Exercise, grooming, training, and nutrition guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active pointing gundog management with wire-coat grooming and drop-ear care protocols."
+      note: null
     },
 
     "care.exercise.level": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
-          role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
-        },
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "GENERAL APPEARANCE: He must be fit and able to work on the plain, in the woods and in the water"
+          locator: "Fit to work on the plain, in the woods, and in the water"
+        },
+        {
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
+          role: "verified",
+          locator: "Versatile field, forest, and water worker"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -652,12 +673,11 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "Daily vigorous exercise and field work recommendations"
+          locator: "High daily exercise requirements for versatile pointers"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 90 to 120 minutes of daily activity reflects the exercise demands of an athletic, versatile gundog."
+      note: "Estimated 90–120 minutes of vigorous daily activity."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -666,12 +686,11 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "Large size, very high energy, and need for open movement"
+          locator: "High stamina and outdoor running needs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high physical energy, hunting drive, and outdoor endurance needs make apartment living unsuitable."
+      note: null
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -680,28 +699,23 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Active outdoor lifestyle and fenced yard recommendation"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "COAT: Harsh, straight and flat double coat; sheds undercoat in summer"
-        },
-        {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: well-suited to cool, temperate, and changing climates"
+          locator: "Harsh double coat with summer-shedding fine undercoat"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -711,7 +725,7 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; forms deep bonds with handlers"
+          locator: "People-oriented working companion"
         }
       ],
       verifiedOn: null,
@@ -724,25 +738,11 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for active sporting breeds"
+          locator: "Active sporting breed nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active large sporting breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for deep-chested breeds."
+      note: null
     },
 
     "health.overview": {
@@ -751,12 +751,16 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "Health overview, hip evaluations, eye exams, and bloat precautions"
+          locator: "Health: generally healthy breed; breeders screen for elbow and hip dysplasia, progressive retinal atrophy, and cataracts"
+        },
+        {
+          id: "fci-slovakian-rough-haired-pointer-official-standard",
+          role: "cited",
+          locator: "Disqualifying anatomical faults include entropion and ectropion"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesizes kennel club veterinary health data and sporting pointer priorities."
+      verifiedOn: "2026-11-26",
+      note: "Distinguishes breeder-screened orthopedic and ocular conditions from general deep-chested and working-dog risks."
     },
 
     "health.commonConditions": {
@@ -765,12 +769,16 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "Hip dysplasia, bloat, and ear infections"
+          locator: "Elbow and hip dysplasia, progressive retinal atrophy, cataracts"
+        },
+        {
+          id: "fci-slovakian-rough-haired-pointer-official-standard",
+          role: "cited",
+          locator: "Entropion and ectropion noted in faults"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
@@ -779,11 +787,11 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "Routine care, ear drying after swimming, weight control, and veterinary wellness checks"
+          locator: "Preventive screening and working-dog care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active sporting gundogs."
+      note: null
     },
 
     "health.recommendedScreenings": {
@@ -792,12 +800,11 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "Recommended evaluations: Hip evaluation and eye examination"
+          locator: "Responsible breeders screen for elbow and hip dysplasia, progressive retinal atrophy, and cataracts"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Screenings summarize published national kennel club protocols."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.dentalCare": {
@@ -806,11 +813,11 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: well developed, scissor bite"
+          locator: "Well-developed jaws, scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -819,24 +826,24 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "cited",
-          locator: "Ears: set above eye level, rounded flap, covered with short soft hair"
+          locator: "Rounded drop ears covered with short soft hair"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-slovakian-rough-haired-pointer-official-standard",
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
           role: "cited",
-          locator: "Skin: medium thickness, elastic, without folds; harsh double coat"
+          locator: "Grey, moderately thick, elastic, wrinkle-free skin and harsh double coat"
         }
       ],
       verifiedOn: null,
-      note: "General skin and wire-coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -845,30 +852,34 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Exercise, trainability, and family life"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and trainability."
+      note: "Editorial suitability ratings based on very high exercise demands and biddable temperament."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-slovakian-wirehaired-pointer-breed-profile",
-          role: "verified",
-          locator: "Koloman Slimak's post-WWII development, Cesky Fousek x Weimaraner x GWP genetics"
-        },
-        {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "Puppies have azure blue eyes that turn amber; distinctive moustache and eyebrows"
+          locator: "~4 cm harsh coat, summer-shedding undercoat, brown-shaded sable ('grey') colour"
+        },
+        {
+          id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
+          role: "verified",
+          locator: "Blue eyes in young dogs turning amber in adults"
+        },
+        {
+          id: "akc-slovakian-wirehaired-pointer-breed-profile",
+          role: "verified",
+          locator: "Post-WWII Czechoslovakian development"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -877,19 +888,18 @@ export const slovakian_rough_haired_pointer: Breed = {
         {
           id: "fci-slovakian-rough-haired-pointer-official-standard",
           role: "verified",
-          locator: "Origin, height (62-68 cm / 57-64 cm), wire coat, and colors"
+          locator: "Height (62–68 cm / 57–64 cm), coat, and colours"
         },
         {
           id: "akc-slovakian-wirehaired-pointer-breed-profile",
           role: "verified",
-          locator: "Weight (50-65 lbs), lifespan (12-15 years), grooming, apartment living, and exercise needs"
+          locator: "Weight (50–65 lb), lifespan (12–15 years), and health screenings (hips, elbows, PRA, cataracts)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FAQ answers synthesize verified standards and kennel club publications without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "All FAQ answers are written in original prose without naming registries or kennel clubs."
     }
   },
 
-  updatedOn: "2026-11-13"
+  updatedOn: "2026-11-26"
 };

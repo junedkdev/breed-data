@@ -7,17 +7,17 @@ export const lagotto_romagnolo: Breed = {
 
   alternateNames: [
     "Romagna Water Dog",
-    "Water Dog of Romagna",
+    "Italian Water Dog",
+    "Chien d'Eau Romagnol",
     "Lagotto"
   ],
 
-  group:
-    "Retrievers, Flushing Dogs, and Water Dogs; Section 3 — Water Dogs (also classified in the Sporting and Gundog groups)",
+  group: "Curly-coated water and truffle-searching dog",
 
   origin: {
     country: "Italy",
     region:
-      "Romagna sub-region (historically the lowlands of Comacchio and marshlands of Ravenna)"
+      "Romagna sub-region of Emilia-Romagna, historically the lowlands of Comacchio and marshlands of Ravenna"
   },
 
   images: [
@@ -27,7 +27,7 @@ export const lagotto_romagnolo: Breed = {
         "https://commons.wikimedia.org/wiki/File:Lagotto-romagnolo.jpg",
       title: "Lagotto-romagnolo.jpg",
       description:
-        "An adult Lagotto Romagnolo with a typical dense, curly coat outdoors.",
+        "An adult Lagotto Romagnolo outdoors displaying its dense, tightly curled coat.",
       creator: "XTY78",
       uploader: "XTY78",
       capturedOn: "2021-11-11",
@@ -36,9 +36,10 @@ export const lagotto_romagnolo: Breed = {
       height: 3024,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by XTY78, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Lagotto-romagnolo.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+        "Photo by XTY78, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Lagotto-romagnolo.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/.",
+      restrictions:
+        "CC BY-SA 4.0 requires attribution and ShareAlike distribution if adapted.",
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Lagotto_Romagnolo.jpg",
@@ -46,39 +47,40 @@ export const lagotto_romagnolo: Breed = {
         "https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg",
       title: "Lagotto Romagnolo.jpg",
       description:
-        "A close-up view of a Lagotto Romagnolo showcasing the distinctive woolly curls.",
+        "A close-up portrait of a nine-month-old male Lagotto Romagnolo showing woolly curls and facial furnishings.",
       creator: "Sandra Schmidt",
-      uploader: "Canecorsodog",
-      capturedOn: "2005-08-06",
-      uploadedOn: "2005-08-06",
+      uploader: "Caronna",
+      capturedOn: "2005-05-30",
+      uploadedOn: "2006-05-14",
       width: 450,
       height: 425,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Sandra Schmidt, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+        "Photo by Sandra Schmidt, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+      restrictions:
+        "CC BY-SA 3.0 requires attribution and ShareAlike distribution if adapted (also dual-licensed under GFDL).",
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "An ancient, highly intelligent Italian water retriever uniquely specialized for truffle hunting, celebrated for its dense, woolly, non-shedding curls, keen olfactory prowess, and tractable, affectionate nature.",
+      "A sturdy, curly-coated Italian water dog reshaped into a dedicated truffle-searching specialist, prized for its keen nose, low-shedding woolly curls, and affectionate, trainable nature.",
 
     description:
-      "The Lagotto Romagnolo is a small to medium-sized, powerfully built sporting dog of rustic appearance, designed to work tirelessly across varied terrain. Its hallmark is a dense, woolly, and tightly curled double coat that covers the entire body and head, providing impenetrable protection against cold water and thorny underbrush. The nearly square, mesomorphic frame features a deep chest, webbed paws adapted for swimming and digging, and a trapezoidal head with large, rounded eyes expressing alert intelligence. Uniquely among sporting breeds, generations of selective breeding have effectively overridden its original hunting instincts, ensuring the dog remains singularly focused on its work without being distracted by game. In the home, the Lagotto is remarkably tractable, undemanding, and deeply attached to its family, functioning as both an alert watchdog and a gentle companion.",
+      "Compact, rustic, and solidly muscled, the Lagotto Romagnolo has a nearly square body wrapped head to tail in tight, woolly ringlets backed by a water-repellent undercoat. Thick eyebrows, whiskers, and a beard frame large, rounded eyes that carry an alert, earnest look. Generations of focused breeding for scent work dialed back the breed's urge to chase wildlife, leaving an eager worker that stays locked onto underground odors rather than game trails. Indoors, the Lagotto is warm, adaptable, and deeply bonded to its people, acting as an attentive watchdog without heavy guarding aggression.",
 
     history:
-      "The Lagotto Romagnolo boasts a documented archaeological continuity spanning over two millennia, ranking among the oldest known water retrieving breeds. Its name derives from the Romagnolo dialect phrase 'càn lagòt', meaning 'water dog' or 'hunting dog in the marsh with curly and hispid fur'. For centuries, these dogs were the indispensable companions of Italian 'vallaroli' (lagoon hunters), expertly retrieving waterfowl from the vast, freezing marshlands of Ravenna and the lowlands of Comacchio. During the late nineteenth century, massive agricultural drainage projects transformed these historic marshes into arable farmland, rendering the traditional water dog obsolete. Adapting to the new landscape, the Lagotto was repurposed for its exceptional nose and became an unparalleled specialist in searching for truffles across the open country and hills of Romagna. Modern preservation efforts in the late twentieth century rescued the breed from decline, cementing its status as the world's only recognized purebred truffle hunter.",
+      "Water-retrieving dogs of this rustic curly-coated type worked for centuries across the marshes of Ravenna and the lowlands of Comacchio in Italy's Romagna region, where local dialect called them 'càn lagòt'—marsh water dogs. When wide-scale drainage projects converted those wetlands into farmland during the late nineteenth century, waterfowl retrieving faded away. Local handlers redirected the breed's remarkable scenting ability toward locating buried truffles in the woods and hills of Romagna. Dedicated Italian preservation work in the late twentieth century stabilized the population and established the Lagotto Romagnolo worldwide as a dedicated truffle-hunting breed.",
 
     originalPurpose:
-      "Retrieving waterfowl from the marshes and lagoons of the Romagna region in Italy, later transitioning to specialized truffle searching.",
+      "Retrieving waterfowl in the marshes of Romagna, later specialized for locating underground truffles",
 
     currentRoles: [
-      "Specialist truffle-searching dog",
-      "Versatile canine athlete in agility, obedience, and nosework",
-      "Vigilant home watchdog",
-      "Devoted and hypoallergenic family companion"
+      "Truffle-searching specialist",
+      "Nosework, tracking, agility, and obedience competitor",
+      "Alert household watchdog",
+      "Affectionate family companion"
     ]
   },
 
@@ -115,7 +117,7 @@ export const lagotto_romagnolo: Breed = {
     },
 
     coatType:
-      "Dense, woolly in texture, and tightly curled with an abundant water-repellent undercoat; the coat grows continuously without seasonal shedding and evenly covers the body, head, and tail.",
+      "Dense, woolly, tightly curled coat with a waterproof undercoat; grows continuously without heavy seasonal shedding and covers the body, head, and tail evenly",
 
     coatLength: "Medium",
 
@@ -123,40 +125,37 @@ export const lagotto_romagnolo: Breed = {
       "Off-white solid",
       "White with brown or orange patches",
       "Brown roan",
-      "Solid brown (in various shades) with or without white",
+      "Solid brown (various shades) with or without white",
       "Solid orange with or without white"
     ],
 
     sheddingLevel:
-      "Low; considered hypoallergenic as the coat does not shed seasonally and loose hairs are trapped within the curls until clipped or brushed",
+      "Low; the continuous-growing curly coat traps loose hairs inside the curls until brushed or clipped",
 
     droolingLevel:
-      "Low; rather tight lips covered with bristly moustache prevent excessive drooling",
+      "Low; neat, fairly tight lips framed by a bristly moustache keep drooling minimal",
 
     distinctiveFeatures: [
-      "Rustic, nearly square mesomorphic frame where trunk length is roughly equal to the height at the withers",
-      "Ideal height of 46 cm for males and 43 cm for females, with a 1 cm tolerance above or below the extremes",
-      "Dense, tightly curled, continuous-growing coat requiring regular clipping",
-      "Trapezoidal head shape with slightly diverging upper longitudinal axes of the skull and muzzle",
-      "Large, rounded eyes ranging from ochre to dark hazel and brown, featuring well-developed eyelashes",
-      "Medium-sized triangular drop ears with rounded tips, set just above the zygomatic arches",
-      "Strong jaws with a scissor or pincer bite (a slightly reverse scissor bite is also acceptable)",
-      "Webbed paws functioning perfectly for both soft soil digging and aquatic work",
-      "Scimitar-shaped tail set at medium height, raised when attentive but never curled into a ring over the back"
+      "Rustic, solidly built, nearly square frame with strong bone and deep chest",
+      "Tight, ring-shaped woolly curls paired with dense eyebrows, whiskers, and beard",
+      "Trapezoidal head with slightly diverging skull and muzzle planes",
+      "Large, rounded eyes ranging from ochre to dark brown with expressive lashes",
+      "Medium triangular drop ears with rounded tips and hair growing inside the ear leather",
+      "Strong jaws with a scissor, pincer, or slightly reverse scissor bite",
+      "Compact, webbed paws suited for both swimming and digging in soft woodland soil",
+      "Scimitar-shaped tail tapering toward the tip, carried higher when alert without curling tightly over the back"
     ]
   },
 
   temperament: {
     traits: [
-      "Tractable, keen, and highly responsive to training",
-      "Affectionate and deeply attached to its owner and family",
-      "Alert and observant, making a very capable watchdog",
-      "Intensely focused on scent work and digging tasks",
-      "Undemanding and calm indoors when physical and mental needs are met",
-      "Lacking strong prey drive; selectively bred to ignore game in favor of truffles",
-      "Reserved but polite with unfamiliar strangers",
-      "Sociable with other household pets when appropriately socialized",
-      "Energetic and eager when presented with a job or outdoor activity"
+      "Eager to learn, biddable, and responsive to gentle training",
+      "Warm, loyal, and closely attached to family members",
+      "Alert and vocal enough to serve as a reliable watchdog",
+      "Intensely driven to sniff, search, and dig when given a task",
+      "Minimal wildlife chase instinct compared with most sporting dogs",
+      "Polite yet slightly reserved with unfamiliar visitors",
+      "Generally friendly with other dogs and household pets when socialized early"
     ],
 
     scores: {
@@ -175,7 +174,7 @@ export const lagotto_romagnolo: Breed = {
   care: {
     exercise: {
       level:
-        "High; an intelligent, active sporting dog requiring daily physical exercise combined with rigorous olfactory and mental stimulation",
+        "High; an energetic scent-working dog that needs daily physical movement paired with mental and olfactory challenges",
 
       minutesPerDay: {
         min: 45,
@@ -183,11 +182,11 @@ export const lagotto_romagnolo: Breed = {
       },
 
       activities: [
-        "Daily brisk trail walks and woodland hikes",
-        "Scent work, tracking games, and simulated truffle hunting",
-        "Swimming and water retrieving in safe environments",
-        "Canine sports including agility, rally obedience, and nosework",
-        "Interactive digging challenges in a designated sandbox"
+        "Daily brisk walks and woodland trail outings",
+        "Scent games, hide-and-seek nosework, and amateur truffle searching",
+        "Swimming and water play in safe locations",
+        "Agility, rally, and obedience training",
+        "Approved digging enrichment in a dedicated yard sandbox"
       ]
     },
 
@@ -195,35 +194,33 @@ export const lagotto_romagnolo: Breed = {
       level: "High",
 
       brushing:
-        "Brush thoroughly once a week using a slicker brush and metal comb to separate curls and prevent matting down to the skin.",
+        "Comb and brush thoroughly at least once a week down to the skin to keep dense curls from felting into mats.",
 
       bathing:
-        "Bathe every four to six weeks using a mild canine shampoo; air dry or gently towel dry rather than blow-drying to allow the coat to form natural tight ringlets.",
+        "Bathe every four to six weeks with a gentle dog shampoo; towel blot and air dry so the natural tight ringlets reform cleanly.",
 
       notes: [
-        "The coat grows continuously and must be clipped completely down at least once a year, typically in the spring.",
-        "Regularly trim the hair around the eyes to ensure clear vision, and clip the sanitary areas for cleanliness.",
-        "Inspect the drop ears weekly; gently remove excess hair from the ear canal to promote airflow and prevent bacterial or yeast infections.",
-        "Check the webbed paws for debris, burrs, or mud compaction after working in the field.",
-        "Trim fast-growing nails every two to three weeks.",
-        "Brush teeth several times weekly using canine enzymatic toothpaste."
+        "Clip the entire coat down at least once a year, or maintain a tidy rustic trim every two to three months so curls stay manageable.",
+        "Keep hair trimmed around the eyes for clear sightlines and around sanitary areas for cleanliness.",
+        "Check the drop ears weekly and carefully clear excess hair from the ear canal to improve airflow and help prevent infections.",
+        "Rinse and inspect webbed paws for burrs, twigs, or packed mud after outdoor adventures.",
+        "Trim nails every two to three weeks and brush teeth several times a week."
       ]
     },
 
     training: {
       difficulty:
-        "Easy; highly intelligent, biddable, and eager to please, making them exceptionally responsive to positive reinforcement",
+        "Easy; bright, eager to cooperate, and quick to pick up cues when trained with upbeat positive methods",
 
       tips: [
-        "Use positive, reward-based training with high-value treats and enthusiastic praise.",
-        "Channel natural digging and scenting instincts into structured games rather than punishing the behavior.",
-        "Keep instructional lessons engaging and mentally challenging to satisfy their working heritage.",
-        "Socialize early and extensively to ensure their natural watchdog reserve does not develop into fearful shyness.",
-        "Although they have a low prey drive, basic recall and loose-leash training are essential for off-leash reliability."
+        "Use reward-based sessions with food treats, praise, and play rather than harsh corrections.",
+        "Give natural sniffing and digging instincts structured outlets such as scent boxes or nosework drills.",
+        "Vary training routines so this clever dog stays engaged and motivated.",
+        "Practice calm greetings and novel-environment confidence early so watchdog reserve stays poised rather than timid."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, friendly vaccinated dogs, household noises, vehicles, and varied outdoor environments. Structured socialization builds a confident, well-adjusted adult dog that handles novel situations gracefully."
+        "Start calm, positive socialization early with unfamiliar people, children, vaccinated dogs, traffic, and varied surfaces. Steady exposure helps the puppy mature into an assured, adaptable adult."
     },
 
     livingEnvironment: {
@@ -231,80 +228,79 @@ export const lagotto_romagnolo: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Cool and wet climates, where the dense, water-repellent double coat provides excellent insulation",
-        "Warm climates, provided the coat is kept clipped short, with adequate shade, air conditioning, and hydration available"
+        "Well suited to temperate climates",
+        "Handles cool and damp weather well thanks to its dense, waterproof curls and undercoat",
+        "Comfortable in warm weather when kept clipped short with shade, water, and indoor cooling"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply attached to its human family and prone to separation distress or boredom-induced digging if left isolated for long workdays without companionship."
+        "Low to moderate; thrives on human company and may bark or dig out of boredom if left alone for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-sized breeds, adjusted for age, working workload, and metabolic rate.",
+      "Complete, balanced diet formulated for active medium-sized dogs, tailored to age and daily activity level",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age.",
+        "Three to four measured small meals daily until about six months of age.",
       adult:
-        "Two measured meals daily to support steady energy levels and comfortable digestion.",
+        "Two measured meals per day for steady energy and comfortable digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals daily adjusted for lower calorie burn and joint comfort."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup to maintain a lean, athletic body condition. The dense coat can easily hide weight gain, so regular physical assessments (feeling for the ribs) are necessary. Divide daily food into two distinct meals and provide cool, clean drinking water continuously.",
+      "Weigh or measure rations carefully and feel under the thick curls regularly to confirm ribs remain easily felt beneath a light covering of fat. Split daily intake into two meals and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean body condition; excess weight places unnecessary stress on the joints.",
-      "Account for training treats within the total daily caloric allowance.",
-      "Wipe the bristly moustache and beard after meals and drinking to prevent moisture buildup and odor.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Check body condition by hand because dense curls can conceal gradual weight gain.",
+      "Count training treats within the daily calorie budget.",
+      "Wipe the beard and moustache after meals and drinking to prevent dampness and odor.",
+      "Avoid rich, fatty table scraps and transition new diets slowly over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on daily exercise intensity, nosework participation, and ambient temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Adjust portions with a veterinarian's guidance if the dog participates in heavy field work, swimming, or canine sports."
   },
 
   health: {
     overview:
-      "The Lagotto Romagnolo is a generally healthy and robust breed with an impressive life expectancy of 15 to 17 years. The breed benefits from strict genetic screening protocols established by parent clubs. Primary health priorities include DNA testing for Benign Familial Juvenile Epilepsy (BFJE) and Lagotto Storage Disease (LSD), alongside orthopedic screening for hip dysplasia and patellar luxation, and annual veterinary ophthalmic examinations.",
+      "The Lagotto Romagnolo is a resilient, long-lived breed with a typical life expectancy of 15 to 17 years. Two inherited autosomal recessive neurological conditions have been genetically identified in the breed and can be prevented through DNA screening of breeding parents: Benign Familial Juvenile Epilepsy (BFJE, linked to an LGI2 truncation) and Lagotto Storage Disease (LSD, linked to an ATG4D missense variant). Other health priorities include hip dysplasia, patellar luxation, hereditary eye conditions, and recurrent ear infections promoted by hair inside the ear canal.",
 
     commonConditions: [
-      "Benign Familial Juvenile Epilepsy (BFJE / LGI2 gene mutation) — a breed-specific neurological disorder causing focal seizures in puppies between 5 and 13 weeks of age, which typically resolve by adulthood, completely screenable via DNA testing",
-      "Lagotto Storage Disease (LSD) — a fatal, progressive neurodegenerative lysosomal storage disease resulting in cerebellar ataxia and behavioral changes, completely preventable through DNA testing",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis, monitored through pre-breeding radiographic screening",
-      "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, evaluated through clinical orthopedic examination",
-      "Ocular conditions — cataracts and other hereditary eye anomalies, monitored through annual certified veterinary ophthalmologist examinations",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by dense hair growth inside the ear canal, requiring diligent routine ear hygiene"
+      "Benign Familial Juvenile Epilepsy (BFJE) — an established autosomal recessive condition caused by an LGI2 gene truncation, producing focal seizures in puppies starting around 5 to 7 weeks of age that typically remit by about 4 months; preventable via DNA testing",
+      "Lagotto Storage Disease (LSD) — an established, fatal autosomal recessive neurodegenerative vacuolar storage disorder caused by an ATG4D gene missense variant (c.1288G>A), leading to progressive loss of coordination and behavioral changes; preventable via DNA testing",
+      "Hip dysplasia — developmental malformation of the hip joints that can progress to arthritis, monitored through pre-breeding X-rays",
+      "Patellar luxation — intermittent slipping of the kneecap evaluated through orthopedic examination",
+      "Hereditary eye disorders — cataracts and other ocular conditions monitored through annual veterinary ophthalmologist exams",
+      "Otitis externa (ear infections) — moisture and dense hair inside the drop ear canal can trap wax and promote bacterial or yeast buildup without routine care"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips, clinical clearances for patellas, annual specialist eye exams, and DNA clearances for BFJE and LSD.",
-      "Inspect the ears weekly; carefully remove excess hair from the ear canal to allow ventilation, and dry thoroughly after swimming or bathing.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Confirm that breeding parents have documented DNA clearances for BFJE and LSD, radiographic hip evaluations, patellar luxation checks, and specialist eye exams.",
+      "Inspect ears weekly, manage excess ear-canal hair gently, and dry ears thoroughly after swimming or bathing.",
+      "Maintain a lean, athletic weight throughout life to protect hips and knees.",
+      "Schedule annual veterinary wellness exams, parasite prevention, and dental checkups."
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Benign Familial Juvenile Epilepsy (BFJE / LGI2 gene)",
-      "DNA marker test for Lagotto Storage Disease (LSD)",
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Benign Familial Juvenile Epilepsy (BFJE / LGI2) DNA test",
+      "Lagotto Storage Disease (LSD / ATG4D) DNA test",
+      "Radiographic hip dysplasia evaluation prior to breeding",
+      "Orthopedic patellar luxation evaluation",
+      "Annual eye examination by a veterinary ophthalmologist"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete scissor, pincer, or slightly reverse scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week using canine enzymatic toothpaste and arrange periodic veterinary dental checks to keep gums healthy.",
 
     earCare:
-      "Inspect the drop ears weekly for wax accumulation, moisture, or redness. Because the inner auricle grows hair, gentle removal of excess hair and cleaning with a veterinarian-recommended ear solution is crucial.",
+      "Check the drop ears weekly for redness, odor, or wax. Gently clear excess hair growing inside the ear canal and clean with a veterinarian-approved ear wash as needed.",
 
     skinCare:
-      "Part the dense, woolly coat weekly during brushing to inspect the skin for external parasites, mats, or irritation. Ensure the thick coat dries completely down to the skin after bathing."
+      "Part the dense curls down to the skin during weekly brushing to catch early tangles, burrs, or skin irritation, and make sure the undercoat dries completely after baths or swims."
   },
 
   suitability: {
@@ -315,74 +311,63 @@ export const lagotto_romagnolo: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active individuals and families seeking an intelligent, highly trainable, and affectionate companion",
-      "Allergy sufferers seeking a low-shedding, hypoallergenic dog",
-      "Canine sports enthusiasts interested in nosework, agility, or tracking",
-      "Apartment or house dwellers who can provide daily physical and mental exercise",
-      "Owners willing to commit to regular brushing and annual professional coat clipping"
+      "Active owners and families wanting an affectionate, quick-learning companion",
+      "People who prefer a low-shedding curly coat (keeping in mind no dog is completely allergen-free)",
+      "Handlers interested in nosework, tracking, agility, or recreational truffle hunting",
+      "Apartment or house dwellers able to provide daily walks, mental games, and regular grooming"
     ],
 
     notIdealFor: [
-      "Sedentary individuals looking for a low-maintenance indoor lap dog without working drive",
-      "Households unwilling to invest time and budget into required grooming and clipping",
-      "Owners who leave a dog home alone in isolation for long workdays without mental stimulation",
-      "People seeking a fierce, aggressive territorial guard dog"
+      "Owners unwilling to budget time or money for weekly combing and regular coat clipping",
+      "Sedentary households wanting a low-energy lap dog with minimal enrichment needs",
+      "Homes where the dog will be left alone for long workdays without companionship",
+      "Anyone seeking an imposing personal protection or guard dog"
     ]
   },
 
   funFacts: [
-    "The Lagotto Romagnolo is the only recognized purebred dog in the world bred specifically for truffle hunting, an adaptation made after the great Italian marshlands were drained in the late nineteenth century.",
-    "The breed possesses a documented archaeological continuity spanning nearly 2,500 years, making it one of the oldest known water retrieving breeds in existence.",
-    "Unlike most sporting breeds, the Lagotto's hunting instinct for game has been genetically 'cancelled' over generations, ensuring the dog remains entirely focused on searching for truffles without being distracted by passing wildlife.",
-    "The name 'Lagotto' originates from the Romagnolo dialect word 'càn lagòt', which perfectly describes its original job: 'water dog' or 'hunting dog in the marsh with curly and hispid fur'.",
-    "The Lagotto is widely considered a hypoallergenic breed because its continuous-growing, tightly curled coat traps dander and does not undergo seasonal shedding."
+    "The Lagotto Romagnolo is widely recognized as the only purebred dog specialized specifically for truffle hunting.",
+    "Its name comes from the Romagnolo dialect expression 'càn lagòt', referring to a curly-coated marsh or water dog.",
+    "After nineteenth-century drainage projects turned the Ravenna marshes into farmland, local handlers shifted the breed from retrieving waterfowl to hunting prized underground truffles.",
+    "Generations of selective breeding for truffle searching dialed back the breed's game-chasing drive so working dogs stay focused on subterranean scent.",
+    "Despite a teddy-bear look, the Lagotto is a rugged, long-lived worker that commonly reaches 15 to 17 years of age."
   ],
 
   faq: [
     {
-      question: "What is a Lagotto Romagnolo?",
+      question: "How big does a Lagotto Romagnolo get?",
       answer:
-        "The Lagotto Romagnolo is an ancient Italian breed originally used as a water retriever, but today is world-renowned as a specialized truffle-hunting dog with a dense, curly, hypoallergenic coat and an affectionate, trainable nature."
-    },
-    {
-      question: "How tall and heavy is a Lagotto Romagnolo?",
-      answer:
-        "Adult males stand 43 to 48 cm at the withers and weigh 13 to 16 kg, while adult females stand 41 to 46 cm and weigh 11 to 14 kg."
+        "Adult males stand 43 to 48 cm at the shoulder and weigh 13 to 16 kg, while adult females stand 41 to 46 cm and weigh 11 to 14 kg."
     },
     {
       question: "How long does a Lagotto Romagnolo live?",
       answer:
-        "With proper nutrition, mental enrichment, and preventive veterinary care, the breed is notably long-lived, typically enjoying a healthy lifespan of 15 to 17 years."
+        "The breed is notably long-lived, with a typical life expectancy of 15 to 17 years."
     },
     {
-      question: "Do Lagotto Romagnolos shed a lot, and how are they groomed?",
+      question: "Do Lagotto Romagnolos shed much, and what grooming do they need?",
       answer:
-        "They are very low shedders and are considered hypoallergenic. Their woolly, curly coat grows continuously and must be brushed weekly to prevent matting, and clipped down completely at least once a year."
+        "They shed very little because loose hairs stay caught in their dense curls. However, their continuous-growing coat requires weekly combing to prevent mats and a full clip at least once a year."
     },
     {
       question: "Can a Lagotto Romagnolo live in an apartment?",
       answer:
-        "Yes, they can adapt well to apartment living provided they receive 45 to 60 minutes of daily physical exercise and, importantly, regular mental stimulation such as nosework or puzzle toys."
+        "Yes. Their compact medium size and adaptable nature suit apartment life well as long as they receive 45 to 60 minutes of daily exercise plus mental scent games."
     },
     {
-      question: "Are Lagotto Romagnolos good family pets and good with children?",
+      question: "Do Lagotto Romagnolos have a strong prey drive?",
       answer:
-        "Yes, they are exceptionally affectionate, tractable, and devoted to their families, making them patient and playful companions for respectful children."
+        "Generally no. Selective breeding for truffle searching reduced their urge to chase wildlife, though basic recall training is still important outdoors."
     },
     {
-      question: "Does the Lagotto Romagnolo have a high prey drive?",
+      question: "What are BFJE and Lagotto Storage Disease (LSD)?",
       answer:
-        "No. Generations of selective breeding for truffle hunting have effectively diminished their prey drive, meaning they are rarely distracted by small animals or game while working or walking."
+        "Benign Familial Juvenile Epilepsy (BFJE) is an inherited puppyhood seizure disorder that usually resolves by about four months of age, while Lagotto Storage Disease (LSD) is a serious, progressive inherited neurological condition. Both are autosomal recessive and can be avoided through DNA testing of breeding parents."
     },
     {
-      question: "What is BFJE in the Lagotto Romagnolo?",
+      question: "What health screenings should breeders complete?",
       answer:
-        "Benign Familial Juvenile Epilepsy (BFJE) is a breed-specific neurological condition where puppies experience focal seizures that usually disappear by adulthood; it is entirely preventable through responsible DNA testing by breeders."
-    },
-    {
-      question: "What health tests are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include DNA tests for BFJE and Lagotto Storage Disease (LSD), radiographic evaluations for hip dysplasia, clinical patellar luxation checks, and annual veterinary ophthalmologist eye exams."
+        "Recommended pre-breeding tests include DNA screening for BFJE and LSD, hip dysplasia X-rays, patellar luxation exams, and annual veterinary ophthalmologist eye checks."
     }
   ],
 
@@ -395,17 +380,25 @@ export const lagotto_romagnolo: Breed = {
     "lrca-lagotto-romagnolo-health",
     "ofa-lagotto-romagnolo-chic-requirements",
     "lagotto-romagnolo-bfje-lgi2-study",
+    "lagotto-romagnolo-lsd-atg4d-study-2015",
+    "natureserve-canis-lupus-familiaris",
     "wikimedia-lagotto-romagnolo-xty78",
-    "wikimedia-lagotto-romagnolo-sandra-schmidt"
+    "wikimedia-lagotto-romagnolo-sandra-schmidt",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Species taxonomy record: Canis lupus familiaris"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog subspecies taxonomy."
     },
 
     alternateNames: {
@@ -417,27 +410,27 @@ export const lagotto_romagnolo: Breed = {
           locator: "Standard heading: LAGOTTO ROMAGNOLO (Romagna Water Dog)"
         },
         {
-          id: "akc-lagotto-romagnolo-breed-profile",
+          id: "fci-lagotto-romagnolo-nomenclature",
           role: "verified",
-          locator: "Breed Information: Water Dog of Romagna, Lagotto"
+          locator: "French official name: CHIEN D'EAU ROMAGNOL"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Romagna Water Dog, Italian Water Dog, Lagotto"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified across FCI Standard No. 298 and AKC profile."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-lagotto-romagnolo-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 8 Retrievers - Flushing Dogs - Water Dogs; Section 3 Water Dogs"
-        },
-        {
           id: "fci-lagotto-romagnolo-nomenclature",
           role: "verified",
-          locator: "Group 8, Section 3 Water Dogs"
+          locator: "Group 8 Retrievers - Flushing Dogs - Water Dogs, Section 3 Water Dogs (working trial only for countries that requested it)"
         },
         {
           id: "akc-lagotto-romagnolo-breed-standard",
@@ -448,11 +441,15 @@ export const lagotto_romagnolo: Breed = {
           id: "dogs-australia-lagotto-romagnolo-standard",
           role: "verified",
           locator: "Group 3 (Gundogs)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Sporting"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group text avoids registry numbers and group titles."
     },
 
     origin: {
@@ -461,15 +458,15 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "ORIGIN: Italy; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: Italy; Romagna marshlands of Ravenna and lowlands of Comacchio"
         },
         {
-          id: "dogs-australia-lagotto-romagnolo-standard",
-          role: "verified",
-          locator: "History: Ancient breed in the lowlands of Comacchio and marshlands of Ravenna, Italy"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Romagna region, Italy"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -479,22 +476,21 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "General appearance, history, utilization, coat, and temperament (2026-10-02 revision)"
         },
         {
-          id: "akc-lagotto-romagnolo-breed-standard",
+          id: "akc-lagotto-romagnolo-breed-profile",
           role: "verified",
-          locator: "General Appearance: Small to medium-sized dog... dense, curly coat of wooly texture."
+          locator: "About the breed: curly coat, truffle-searching heritage, rugged worker"
         },
         {
-          id: "dogs-australia-lagotto-romagnolo-standard",
-          role: "verified",
-          locator: "History, General Appearance, Temperament"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesized in original prose from FCI Standard No. 298, Dogs Australia, and AKC official records."
+      verifiedOn: "2026-11-26",
+      note: "All user-facing overview prose is newly written in original wording."
     },
 
     physical: {
@@ -503,17 +499,21 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Proportions, head, tail, coat, accepted colours, and disqualifying faults (black coat/patches/pigmentation disqualified; 2026-10-02 revision)"
         },
         {
           id: "dogs-australia-lagotto-romagnolo-standard",
           role: "verified",
-          locator: "Head And Skull, Eyes, Ears, Mouth, Coat, Size"
+          locator: "Conformation, coat, and bite"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Conformation, square mesomorphic build, dense woolly coat, webbed paws, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colors follow the official FCI standard; generic colors from The Dog API (such as black, blue, brindle, merle) are excluded because black coat/patches are disqualifying in FCI Standard No. 298."
     },
 
     "physical.height": {
@@ -522,17 +522,16 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 43 - 48 cm (ideal height: 46 cm). Females: 41 - 46 cm (ideal height: 43 cm). Tolerance of 1 cm over or under."
+          locator: "Height at the withers: Males 43–48 cm (ideal 46 cm); Females 41–46 cm (ideal 43 cm); tolerance ±1 cm"
         },
         {
-          id: "dogs-australia-lagotto-romagnolo-standard",
-          role: "verified",
-          locator: "Height: 43 ±1 cm to 48 ±1 cm (males); 41 ±1 cm to 46 ±1 cm (females)"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: Males 43–48 cm; Females 41–46 cm"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of centimetres (43–48 cm for males and 41–46 cm for females) exactly as specified in the official FCI Standard No. 298."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 298 values in cm (matches The Dog API)."
     },
 
     "physical.weight": {
@@ -541,17 +540,16 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "Weight: Males: 13 - 16 kg. Females: 11 - 14 kg."
+          locator: "Weight: Males 13–16 kg; Females 11–14 kg"
         },
         {
-          id: "dogs-australia-lagotto-romagnolo-standard",
-          role: "verified",
-          locator: "Mass: 13 kg to 16 kg (males); 11 kg to 14 kg (females)"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: Males 13–16 kg; Females 11–14 kg"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of kilograms (13 to 16 kg for males and 11 to 14 kg for females) exactly as specified in the official FCI Standard No. 298."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 298 values in kg (matches The Dog API)."
     },
 
     "physical.lifespanYears": {
@@ -560,23 +558,23 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "lrca-lagotto-romagnolo-health",
           role: "verified",
-          locator: "The Lagotto Romagnolo is a healthy and robust dog with a life expectancy of 15 to 17 years."
+          locator: "Health Information: life expectancy of 15 to 17 years"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Supported by parent breed club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Verified from the Lagotto Romagnolo Club of America (The Dog API omitted lifespan)."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "COAT: of woolly texture, never twisted to form thin cords, semi-rough on the surface, with tight, ring-shaped curls... Coat does not shed naturally."
+          locator: "Coat: dense woolly curls that do not shed naturally"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -586,11 +584,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "Lips: The lips are not too thick; they are rather tight... covered with a long and rather bristly moustache."
+          locator: "Lips: rather tight, covered with bristly moustache"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Tight-fitting lips prevent drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -599,15 +597,20 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Tractable, undemanding, keen, affectionate, very attached to his owner and easy to train. Very good companion and excellent watchdog."
+          locator: "Behaviour/Temperament: tractable, undemanding, keen, affectionate, very attached to owner, easy to train, good watchdog"
         },
         {
           id: "dogs-australia-lagotto-romagnolo-standard",
           role: "verified",
-          locator: "Temperament: The former hunting instinct has been modified by genetic selection; hence his work is not distracted by the scent of game. Tractable, undemanding, keen, affectionate."
+          locator: "Modified hunting instinct for truffle work"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -617,12 +620,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "cited",
-          locator: "Temperament characteristics"
+          locator: "Temperament traits"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented working truffle dog temperament, high trainability, cancelled prey drive, and strong family affection."
+      note: "Editorial 1–5 ratings grounded in official breed temperament descriptions."
     },
 
     care: {
@@ -631,24 +633,28 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "lrca-lagotto-romagnolo-health",
           role: "cited",
-          locator: "Coat care, clipping, and exercise management"
+          locator: "Coat care, ear care, and exercise guidance"
+        },
+        {
+          id: "akc-lagotto-romagnolo-breed-profile",
+          role: "cited",
+          locator: "Grooming, training, and activity guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active sporting dog management with continuous-growing curly coat clipping and ear hygiene protocols."
+      note: null
     },
 
     "care.exercise.level": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Truffle dog with natural gift for searching."
+          locator: "Utilization: truffle-searching working dog"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -658,12 +664,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "akc-lagotto-romagnolo-breed-profile",
           role: "cited",
-          locator: "Daily exercise and scentwork recommendations"
+          locator: "Daily physical and scent-work exercise needs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 45 to 60 minutes of daily activity reflects the moderate-to-high exercise and olfactory demands of a working truffle dog."
+      note: "Estimated 45–60 minutes of daily exercise plus mental enrichment."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -672,12 +677,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "akc-lagotto-romagnolo-breed-profile",
           role: "cited",
-          locator: "Size and adaptability"
+          locator: "Medium size and adaptable indoor disposition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that compact size, tractable nature, and lack of shedding make apartment living highly suitable provided exercise needs are met."
+      note: null
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -686,23 +690,23 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "akc-lagotto-romagnolo-breed-profile",
           role: "verified",
-          locator: "Exercise and secure yard recommendations"
+          locator: "Active outdoor and scent-work lifestyle"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "COAT: Dense, woolly in texture, water-repellent undercoat"
+          locator: "Dense, curly, waterproof coat and undercoat"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -712,7 +716,7 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "cited",
-          locator: "BEHAVIOUR/TEMPERAMENT: Very attached to his owner"
+          locator: "Very attached to owner"
         }
       ],
       verifiedOn: null,
@@ -725,25 +729,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "akc-lagotto-romagnolo-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for medium active breeds"
+          locator: "Balanced medium-breed diet"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-sized sporting breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-lagotto-romagnolo-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
@@ -752,22 +742,26 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "lagotto-romagnolo-bfje-lgi2-study",
           role: "verified",
-          locator: "LGI2 truncation causes a remitting focal epilepsy (BFJE) in Lagotto Romagnolo dogs"
+          locator: "PLoS Genet 2011;7(7):e1002194 (PMID 21829378): LGI2 truncation causing remitting focal juvenile epilepsy"
         },
         {
-          id: "ofa-lagotto-romagnolo-chic-requirements",
+          id: "lagotto-romagnolo-lsd-atg4d-study-2015",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Eye examination, Patellar Luxation, BFJE DNA, LSD DNA"
+          locator: "PLoS Genet 2015;11(4):e1005169 (PMID 25875846): ATG4D missense variant (c.1288G>A; p.A430T) causing Lagotto Storage Disease"
         },
         {
           id: "lrca-lagotto-romagnolo-health",
           role: "verified",
-          locator: "Health Information: BFJE, Lagotto Storage Disease, Hips, Patellas, Eyes"
+          locator: "Life expectancy (15–17 years) and breed health overview"
+        },
+        {
+          id: "ofa-lagotto-romagnolo-chic-requirements",
+          role: "verified",
+          locator: "LRCA / OFA CHIC screening requirements"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesizes peer-reviewed genetics research with national health registry screening protocols."
+      verifiedOn: "2026-11-26",
+      note: "Distinguishes genetically established BFJE (LGI2) and LSD (ATG4D) disorders from orthopedic, ocular, and ear-canal care concerns."
     },
 
     "health.commonConditions": {
@@ -776,17 +770,21 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "lagotto-romagnolo-bfje-lgi2-study",
           role: "verified",
-          locator: "Benign Familial Juvenile Epilepsy (BFJE) pathology and LGI2 genetics"
+          locator: "BFJE onset (~7 weeks) and remission (~4 months), LGI2 truncation"
+        },
+        {
+          id: "lagotto-romagnolo-lsd-atg4d-study-2015",
+          role: "verified",
+          locator: "LSD neurodegeneration, ATG4D c.1288G>A in >2,300 Lagotto Romagnolo cohort"
         },
         {
           id: "ofa-lagotto-romagnolo-chic-requirements",
           role: "verified",
-          locator: "Lagotto Storage Disease (LSD), Hip dysplasia, Patellar luxation, Eye conditions"
+          locator: "Hip dysplasia, patellar luxation, and eye evaluations"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
@@ -795,11 +793,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "lrca-lagotto-romagnolo-health",
           role: "cited",
-          locator: "Preventive health, DNA testing verification, ear canal hair removal"
+          locator: "Pre-breeding testing and routine preventive care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to curly-coated water dogs."
+      note: null
     },
 
     "health.recommendedScreenings": {
@@ -808,12 +806,21 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "ofa-lagotto-romagnolo-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Patellar Luxation, CAER Eye examination, Benign Familial Juvenile Epilepsy (BFJE) DNA test, Lagotto Storage Disease (LSD) DNA test"
+          locator: "CHIC screening panel: Hip Dysplasia, Patellar Luxation, Eye/CAER, BFJE DNA, LSD DNA"
+        },
+        {
+          id: "lagotto-romagnolo-bfje-lgi2-study",
+          role: "verified",
+          locator: "Genetic basis of LGI2 BFJE DNA test"
+        },
+        {
+          id: "lagotto-romagnolo-lsd-atg4d-study-2015",
+          role: "verified",
+          locator: "Genetic basis of ATG4D LSD DNA test"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.dentalCare": {
@@ -822,11 +829,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong with almost straight branches, scissor or pincer bite, slightly reverse acceptable"
+          locator: "Jaws/teeth: strong jaws, scissor, pincer, or slightly reverse scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -835,16 +842,16 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "cited",
-          locator: "Ears: Medium-sized, triangular, drop. The inner part of the auricle is also covered with hair."
+          locator: "Ears: triangular drop ears with inner hair growth"
         },
         {
           id: "lrca-lagotto-romagnolo-health",
           role: "cited",
-          locator: "Ear hygiene, hair plucking, and inspection"
+          locator: "Ear canal hygiene"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears with internal hair growth."
+      note: null
     },
 
     "health.skinCare": {
@@ -853,11 +860,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "cited",
-          locator: "Coat texture and continuous growth requiring clipping"
+          locator: "Dense, continuously growing woolly coat"
         }
       ],
       verifiedOn: null,
-      note: "General skin and curly-coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -866,17 +873,11 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "cited",
-          locator: "Tractable, undemanding, affectionate companion"
-        },
-        {
-          id: "dogs-australia-lagotto-romagnolo-standard",
-          role: "cited",
-          locator: "Characteristics and lifestyle suitability"
+          locator: "Tractable, affectionate companion and working traits"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, hypoallergenic coat, and high trainability."
+      note: "Editorial suitability ratings based on size, coat care, and mental stimulation needs."
     },
 
     funFacts: {
@@ -885,16 +886,16 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Ravenna marsh water dog transitioned to truffle dog, hunting instinct genetically cancelled"
+          locator: "Romagna marshlands history, transition to truffle searching, modified hunting instinct"
         },
         {
-          id: "dogs-australia-lagotto-romagnolo-standard",
+          id: "lrca-lagotto-romagnolo-health",
           role: "verified",
-          locator: "Romagna dialect meaning (càn lagòt), only purebred specialized truffle searcher"
+          locator: "15–17 year life expectancy"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -903,24 +904,33 @@ export const lagotto_romagnolo: Breed = {
         {
           id: "fci-lagotto-romagnolo-official-standard",
           role: "verified",
-          locator: "Origin, height (43-48 cm / 41-46 cm), weight (13-16 kg / 11-14 kg), coat, and truffle hunting role"
+          locator: "Height (43–48 cm / 41–46 cm), weight (13–16 kg / 11–14 kg), coat, and temperament"
         },
         {
           id: "lrca-lagotto-romagnolo-health",
           role: "verified",
-          locator: "Lifespan (15-17 years), hypoallergenic shedding, and recommended health screenings (BFJE, LSD)"
+          locator: "Lifespan (15–17 years) and health overview"
         },
         {
-          id: "dogs-australia-lagotto-romagnolo-standard",
+          id: "lagotto-romagnolo-bfje-lgi2-study",
           role: "verified",
-          locator: "Lack of prey drive (cancelled hunting instinct), family suitability, and exercise"
+          locator: "BFJE (LGI2) juvenile remitting epilepsy"
+        },
+        {
+          id: "lagotto-romagnolo-lsd-atg4d-study-2015",
+          role: "verified",
+          locator: "LSD (ATG4D) storage disease"
+        },
+        {
+          id: "ofa-lagotto-romagnolo-chic-requirements",
+          role: "verified",
+          locator: "Recommended pre-breeding screenings"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "All FAQ entries are written in original prose without registry or source names."
     }
   },
 
-  updatedOn: "2026-11-13"
+  updatedOn: "2026-11-26"
 };

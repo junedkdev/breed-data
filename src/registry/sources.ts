@@ -17250,284 +17250,284 @@ export const sources = defineSources({
     note: "Verified photograph (3872 x 2592 px) of a large adult Cane Corso outdoors by Wili15 (Own work; captured 2014-04-17, cross-wiki uploaded to Commons 2017-12-17). Licensed under CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "fci-lagotto-romagnolo-official-standard": {
+"fci-lagotto-romagnolo-official-standard": {
     id: "fci-lagotto-romagnolo-official-standard",
     name: "FCI - Lagotto Romagnolo (Romagna Water Dog) Official Breed Standard No. 298",
     url: "https://www.fci.be/Nomenclature/Standards/298g08-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2016-01-06",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 298. Covers Italian origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 3 Water Dogs classification, nearly square proportions, dense woolly curly coat, cancelled hunting instinct for truffle searching, webbed paws, withers height (males 43-48 cm, females 41-46 cm, +/- 1 cm tolerance), and weight (males 13-16 kg, females 11-14 kg).",
+    publishedOn: "2026-10-02",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 298 (published 2026-10-02). Covers Italian origin, Group 8 Section 3 Water Dogs, dense woolly curly coat, accepted colours (black coat/patches/pigmentation disqualified), truffle-searching temperament, withers height (males 43-48 cm, ideal 46 cm; females 41-46 cm, ideal 43 cm; +/- 1 cm tolerance), and weight (males 13-16 kg, females 11-14 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-lagotto-romagnolo-nomenclature": {
+"fci-lagotto-romagnolo-nomenclature": {
     id: "fci-lagotto-romagnolo-nomenclature",
     name: "FCI - Lagotto Romagnolo Breed Nomenclature (No. 298)",
-    url: "https://www.fci.be/en/nomenclature/ROMAGNA-WATER-DOG-298.html",
+    url: "https://www.fci.be/en/nomenclature/LAGOTTO-ROMAGNOLO-298.html",
     type: "official_breed_standard",
-    publishedOn: "2016-01-06",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Italy as country of origin, Group 8 Section 3 classification, definitive recognition date (2005-07-06), and official multilingual name (Lagotto Romagnolo).",
+    publishedOn: "2026-10-02",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature confirming Italy as country of origin, Group 8 Section 3 Water Dogs, working trial only for countries that requested it, definitive recognition, English standard published 2026-10-02, and French official name CHIEN D'EAU ROMAGNOL.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "dogs-australia-lagotto-romagnolo-standard": {
+"dogs-australia-lagotto-romagnolo-standard": {
     id: "dogs-australia-lagotto-romagnolo-standard",
     name: "Dogs Australia (ANKC) - Lagotto Romagnolo Breed Standard",
     url: "https://dogsaustralia.org.au/members/breeds/breed-standards/Lagotto-Romagnolo",
     type: "official_breed_standard",
     publishedOn: "2019-11-12",
-    accessedOn: "2026-11-13",
-    note: "Official Australian National Kennel Council (Dogs Australia / ANKC) breed standard detailing Comacchio and Ravenna marshlands history, height limits (males 43-48 cm, females 41-46 cm), weight range (13-16 kg males, 11-14 kg females), and modified/cancelled hunting instinct for truffle searching.",
+    accessedOn: "2026-11-26",
+    note: "Official Dogs Australia (ANKC) breed standard (Group 3 Gundogs) detailing Comacchio and Ravenna marshlands history, height (43-48 cm / 41-46 cm), weight (13-16 kg / 11-14 kg), and modified hunting instinct.",
     publisher: "Dogs Australia"
   },
-  "akc-lagotto-romagnolo-breed-standard": {
+"akc-lagotto-romagnolo-breed-standard": {
     id: "akc-lagotto-romagnolo-breed-standard",
-    name: "American Kennel Club - Official Standard of the Lagotto Romagnolo",
+    name: "American Kennel Club - Official Standard for the Lagotto Romagnolo",
     url: "https://images.akc.org/pdf/breeds/standards/LagottoRomagnolo.pdf",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed standard (Sporting Group) establishing proportions, rustic appearance, dense woolly curly coat, scissor/pincer/reverse-scissor bite, and truffle-searching temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Sporting Group) covering rustic medium build, dense curly woolly coat, bite, and truffle-searching temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-lagotto-romagnolo-breed-profile": {
+"akc-lagotto-romagnolo-breed-profile": {
     id: "akc-lagotto-romagnolo-breed-profile",
     name: "American Kennel Club - Lagotto Romagnolo Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/lagotto-romagnolo/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed profile covering Italian water dog history, truffle specialization, lifespan, temperament, and hypoallergenic grooming requirements.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering Italian truffle-dog heritage, curly coat and facial furnishings, temperament, exercise, and grooming.",
     publisher: "American Kennel Club"
   },
-  "lrca-lagotto-romagnolo-health": {
+"lrca-lagotto-romagnolo-health": {
     id: "lrca-lagotto-romagnolo-health",
-    name: "Lagotto Romagnolo Club of America - Breed Education and Health",
-    url: "https://lagottoromagnoloclubofamerica.org/breed-education/",
+    name: "Lagotto Romagnolo Club of America - Health Information",
+    url: "https://lagottoromagnoloclubofamerica.org/health-information/",
     type: "breed_club",
-    publishedOn: "2026-01-21",
-    accessedOn: "2026-11-13",
-    note: "Official national parent club health and education portal documenting a 15 to 17-year lifespan, genetic diversity, Benign Familial Juvenile Epilepsy (BFJE), Lagotto Storage Disease (LSD), and mandatory pre-breeding CHIC screening protocols.",
+    publishedOn: "2026-01-20",
+    accessedOn: "2026-11-26",
+    note: "Official national parent club health page (updated URL to /health-information/) confirming a 15 to 17-year life expectancy and breed health priorities including BFJE, LSD, hips, patellas, and eyes.",
     publisher: "Lagotto Romagnolo Club of America"
   },
-  "ofa-lagotto-romagnolo-chic-requirements": {
+"ofa-lagotto-romagnolo-chic-requirements": {
     id: "ofa-lagotto-romagnolo-chic-requirements",
-    name: "Orthopedic Foundation for Animals - Lagotto Romagnolo CHIC Requirements",
-    url: "https://lagottoromagnoloclubofamerica.org/obtaining-a-chic-number/",
+    name: "Lagotto Romagnolo Club of America / OFA - CHIC Requirements",
+    url: "https://lagottoromagnoloclubofamerica.org/chic/",
     type: "veterinary",
     publishedOn: "2025-11-25",
-    accessedOn: "2026-11-13",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Lagotto Romagnolo as mandated by the LRCA, requiring Radiographic Hip Dysplasia evaluation, CAER Eye examination, Patellar Luxation, Benign Familial Juvenile Epilepsy (BFJE) DNA test, and Lagotto Storage Disease (LSD) DNA test.",
-    publisher: "Orthopedic Foundation for Animals"
+    accessedOn: "2026-11-26",
+    note: "Official LRCA / OFA Canine Health Information Center (CHIC) testing requirements page (updated URL to /chic/): Hip Dysplasia, Patellar Luxation, Eye/CAER examination, Benign Familial Juvenile Epilepsy (BFJE) DNA test, and Lagotto Storage Disease (LSD) DNA test.",
+    publisher: "Lagotto Romagnolo Club of America / Orthopedic Foundation for Animals"
   },
-  "lagotto-romagnolo-bfje-lgi2-study": {
+"lagotto-romagnolo-bfje-lgi2-study": {
     id: "lagotto-romagnolo-bfje-lgi2-study",
     name: "LGI2 Truncation Causes a Remitting Focal Epilepsy in Dogs (PLoS Genet 2011)",
     url: "https://pubmed.ncbi.nlm.nih.gov/21829378/",
     type: "scientific",
-    publishedOn: "2011-08-01",
-    accessedOn: "2026-11-13",
-    note: "Peer-reviewed scientific study (Seppälä et al., PLoS Genet 2011;7(7):e1002194, PMID 21829378) identifying an autosomal recessive mutation in the LGI2 gene responsible for Benign Familial Juvenile Epilepsy (BFJE) in Lagotto Romagnolo dogs.",
+    publishedOn: "2011-07-28",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (Seppälä et al., PLoS Genet 2011 Jul;7(7):e1002194, Epub 2011-07-28, PMID 21829378) identifying an autosomal recessive LGI2 truncation causing Benign Familial Juvenile Epilepsy (onset ~7 weeks, remitting by ~4 months) in Lagotto Romagnolo dogs.",
     publisher: "PLoS Genetics / PubMed"
   },
-  "wikimedia-lagotto-romagnolo-xty78": {
+"wikimedia-lagotto-romagnolo-xty78": {
     id: "wikimedia-lagotto-romagnolo-xty78",
     name: "Wikimedia Commons - File:Lagotto-romagnolo.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Lagotto-romagnolo.jpg",
     type: "other",
     publishedOn: "2021-11-11",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (4032 x 3024 px) of an adult Lagotto Romagnolo with a typical dense, curly coat outdoors by XTY78 (captured and uploaded 2021-11-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (4032 x 3024 px) of an adult Lagotto Romagnolo outdoors by XTY78 (Own work; captured and uploaded 2021-11-11). Licensed under CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-lagotto-romagnolo-sandra-schmidt": {
+"wikimedia-lagotto-romagnolo-sandra-schmidt": {
     id: "wikimedia-lagotto-romagnolo-sandra-schmidt",
     name: "Wikimedia Commons - File:Lagotto Romagnolo.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg",
     type: "other",
-    publishedOn: "2005-08-06",
-    accessedOn: "2026-11-13",
-    note: "Photograph (450 x 425 px) providing a close-up view of a Lagotto Romagnolo's distinctive woolly curls by Sandra Schmidt (uploaded by Canecorsodog, 2005-08-06). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2006-05-14",
+    accessedOn: "2026-11-26",
+    note: "Verified portrait (450 x 425 px) of a 9-month-old male Lagotto Romagnolo ('Manolo dei Silvanbull') by Sandra Schmidt (EXIF captured 2005-05-30; first uploaded to de.wikipedia 2005-08-06 by Canecorsodog; transferred to Commons 2006-05-14 by Caronna). Dual-licensed under CC BY-SA 3.0 and GFDL.",
     publisher: "Wikimedia Commons"
   },
-  "fci-slovakian-rough-haired-pointer-official-standard": {
+"fci-slovakian-rough-haired-pointer-official-standard": {
     id: "fci-slovakian-rough-haired-pointer-official-standard",
     name: "FCI - Slovakian Wire-haired Pointing Dog (Slovenský hrubosrstý stavač) Official Breed Standard No. 320",
-    url: "http://www.fci.be/nomenclature/Standards/320g07-en.pdf",
+    url: "https://www.fci.be/Nomenclature/Standards/320g07-en.pdf",
     type: "official_breed_standard",
     publishedOn: "1996-07-24",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 320 (valid standard dated 1995-01-06, published 1996-07-24). Covers Slovakian origin, Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, rectangular proportions, harsh 'grey' wire coat with moustache, withers height (males 62-68 cm, females 57-64 cm), and versatile gundog utility.",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 320 (valid standard dated 1995-01-06, English publication 1996-07-24; upgraded URL to HTTPS). Covers Slovakia origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) with working trial, harsh ~4 cm double coat with summer-shedding fine undercoat, brown-shaded sable ('grey') colour (other basic colours disqualifying), withers height (males 62-68 cm, females 57-64 cm), and versatile field/woods/water utility.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-slovakian-rough-haired-pointer-nomenclature": {
+"fci-slovakian-rough-haired-pointer-nomenclature": {
     id: "fci-slovakian-rough-haired-pointer-nomenclature",
     name: "FCI - Slovakian Wire-haired Pointing Dog Breed Nomenclature (No. 320)",
     url: "https://www.fci.be/en/nomenclature/WIREHAIRED-SLOVAKIAN-POINTER-320.html",
     type: "official_breed_standard",
     publishedOn: "1996-07-24",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Slovakia as country of origin, Group 7 Section 1.1 classification with working trial, definitive recognition date (1982-02-17), and official multilingual names (Slovenský hrubosrstý stavač, Wirehaired Slovakian Pointer, Braque Slovaque à poil dur).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature confirming Slovakia origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type), subject to a working trial, definitive recognition 1982-02-17, valid standard 1995-01-06, English publication 1996-07-24, and multilingual names (Slovenský hrubosrstý stavač (Ohar), Wirehaired Slovakian Pointer, Braque Slovaque à poil dur, Slowakischer Rauhbart).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-slovakian-wirehaired-pointer-breed-profile": {
+"akc-slovakian-wirehaired-pointer-breed-profile": {
     id: "akc-slovakian-wirehaired-pointer-breed-profile",
     name: "American Kennel Club - Slovakian Wirehaired Pointer Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/slovakian-wirehaired-pointer/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed profile (Foundation Stock Service) covering Czechoslovakian post-WWII history, weight (50-65 lbs / approx. 22-30 kg), lifespan (12-15 years), temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Foundation Stock Service) covering post-WWII Czechoslovakian origins, weight (50-65 lb), lifespan (12-15 years), temperament, and recommended health screenings (elbow and hip dysplasia, progressive retinal atrophy, cataracts).",
     publisher: "American Kennel Club"
   },
-  "wikimedia-slovakian-wire-haired-pointing-dog-rybnik": {
+"wikimedia-slovakian-wire-haired-pointing-dog-rybnik": {
     id: "wikimedia-slovakian-wire-haired-pointing-dog-rybnik",
     name: "Wikimedia Commons - File:Wyzel slowacki szorstkowlosy rybnik-kamien pl.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Wyzel_slowacki_szorstkowlosy_rybnik-kamien_pl.jpg",
     type: "other",
     publishedOn: "2008-02-04",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (2588 x 2208 px) of a Slovakian Wire-haired Pointing Dog standing outdoors at a dog show in Rybnik-Kamień, Poland, by Pleple2000 (captured 2007-10-07, uploaded 2008-02-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (2588 x 2208 px) of an adult Slovakian Rough-haired Pointer at a dog show in Rybnik-Kamień, Poland, by Pleple2000 (Own work; captured 2007-10-07, uploaded 2008-02-04). Licensed under CC BY-SA 4.0 (also dual-licensed under GFDL).",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-slovakian-wire-haired-pointing-dog-bella": {
+"wikimedia-slovakian-wire-haired-pointing-dog-bella": {
     id: "wikimedia-slovakian-wire-haired-pointing-dog-bella",
     name: "Wikimedia Commons - File:Bella z Milhostovskych poli.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Bella_z_Milhostovskych_poli.jpg",
     type: "other",
     publishedOn: "2006-06-01",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (2560 x 1920 px) of a Slovakian Wire-haired Pointing Dog (Bella z Milhostovských polí) by Martina Vernerová / Ing. Urban Michal (captured 2005-10-09, uploaded 2006-06-01). Released into the Public Domain on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (2560 x 1920 px) of a female Slovakian Rough-haired Pointer ('Bella z Milhostovských polí') by Martina Vernerová / Ing. Urban Michal (EXIF captured 2005-10-09, uploaded 2006-06-01 by Prskavka~commonswiki). Released into the Public Domain (PD-self) on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-thai-bangkaew-dog-official-standard": {
+"fci-thai-bangkaew-dog-official-standard": {
     id: "fci-thai-bangkaew-dog-official-standard",
     name: "FCI - Thai Bangkaew Dog Official Breed Standard No. 358",
     url: "https://www.fci.be/Nomenclature/Standards/358g05-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2022-07-04",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 358 (valid standard dated 2022-07-04). Covers Thai origin, Group 5 Spitz and primitive type, Section 5 Asian Spitzes and related breeds classification without working trial, square proportions, double coat with neck ruff, and withers height (males 46-55 cm, females 41-50 cm).",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 358 (valid standard dated 2011-04-14, English publication 2022-07-04). Covers Thailand origin (Bangkaew village, Phitsanulok province), Group 5 Section 5 Asian Spitzes without working trial, 1:1 square proportions, double coat with neck ruff and plumed tail, white-with-patches colours (all-white is a severe fault), and ideal height (males 46-55 cm, females 41-50 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-thai-bangkaew-dog-nomenclature": {
+"fci-thai-bangkaew-dog-nomenclature": {
     id: "fci-thai-bangkaew-dog-nomenclature",
     name: "FCI - Thai Bangkaew Dog Breed Nomenclature (No. 358)",
     url: "https://www.fci.be/en/nomenclature/THAI-BANGKAEW-DOG-358.html",
     type: "official_breed_standard",
     publishedOn: "2022-07-04",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Thailand as country of origin, Group 5 Section 5 classification without working trial, definitive recognition date (2022-06-21), and official multilingual name (Thai Bangkaew Dog).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature confirming Thailand origin, Group 5 Section 5 without working trial, provisional acceptance 2011-04-14, definitive acceptance 2022-06-21, English publication 2022-07-04, and French name BANGKAEW DE THAILANDE.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "kath-thai-bangkaew-dog-breed-standard": {
+"kath-thai-bangkaew-dog-breed-standard": {
     id: "kath-thai-bangkaew-dog-breed-standard",
-    name: "Kennel Club of Thailand (KATH) - Thai Bangkaew Dog Breed Standard",
+    name: "Kennel Association of Thailand (KATH) - Thai Bangkaew Dog Breed Standard",
     url: "https://kathailand.org/thaibangkaew/?lang=en",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official country-of-origin breed standard and profile published by the Kennel Club of Thailand, confirming Phitsanulok heritage, square proportions, protective temperament, and coat color patch requirements.",
+    accessedOn: "2026-11-26",
+    note: "Country-of-origin breed standard and heritage page published by the Kennel Association of Thailand.",
     publisher: "Kennel Association of Thailand"
   },
-  "wikimedia-thai-bangkaew-dog-1-canarian": {
+"wikimedia-thai-bangkaew-dog-1-canarian": {
     id: "wikimedia-thai-bangkaew-dog-1-canarian",
     name: "Wikimedia Commons - File:Thai Bangkaew Dog 1.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Thai_Bangkaew_Dog_1.jpg",
     type: "other",
-    publishedOn: "2016-12-04",
-    accessedOn: "2026-11-13",
-    note: "Photograph (600 x 545 px) of an adult male Thai Bangkaew Dog standing outdoors by Canarian (captured and uploaded 2016-12-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publishedOn: "2016-12-05",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (600 x 545 px) of a sable-and-white male Thai Bangkaew Dog outdoors by Canarian (Own work; captured 2016-12-04, uploaded 2016-12-05). Licensed under CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "fci-shih-tzu-official-standard": {
+"fci-shih-tzu-official-standard": {
     id: "fci-shih-tzu-official-standard",
     name: "FCI - Shih Tzu Official Breed Standard No. 208",
     url: "https://www.fci.be/Nomenclature/Standards/208g09-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2026-10-06",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 208 (valid standard dated 2026-09-08, published 2026-10-06). Covers Tibetan origin, Great Britain patronage, Group 9 Companion and Toy Dogs, Section 5 Tibetan breeds classification without working trial, chrysanthemum face, long dense double coat, height at withers (not more than 27 cm), and weight (4.5-8 kg).",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 208 (valid standard dated 2026-09-08, published 2026-10-06). Covers Tibet (China) origin, Great Britain patronage, Group 9 Section 5 Tibetan breeds without working trial, long dense non-curly coat with moderate non-woolly undercoat (hair not affecting vision/movement), all colours permissible except merle (unacceptable), height not more than 27 cm, and weight 4.5-8 kg (ideal 4.5-7.5 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-shih-tzu-nomenclature": {
+"fci-shih-tzu-nomenclature": {
     id: "fci-shih-tzu-nomenclature",
     name: "FCI - Shih Tzu Breed Nomenclature (No. 208)",
     url: "https://www.fci.be/en/nomenclature/SHIH-TZU-208.html",
     type: "official_breed_standard",
     publishedOn: "2026-10-06",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Tibet (China) as country of origin, Great Britain as patron, Group 9 Section 5 classification without working trial, definitive recognition date (1957-12-16), and official multilingual name (Shih Tzu).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature confirming Tibet (China) origin, Great Britain patronage, Group 9 Section 5 without working trial, definitive recognition 1957-12-16, valid standard 2026-09-08, and English publication 2026-10-06.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-shih-tzu-breed-standard": {
+"akc-shih-tzu-breed-standard": {
     id: "akc-shih-tzu-breed-standard",
     name: "American Kennel Club - Official Standard of the Shih Tzu",
     url: "https://images.akc.org/pdf/breeds/standards/ShihTzu.pdf",
     type: "official_breed_standard",
     publishedOn: "1989-05-09",
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed standard (Toy Group, effective May 9, 1989) establishing sturdy toy proportions, flowing double coat, undershot or level bite, arrogant carriage, and sweet companion temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Toy Group, effective 1989-05-09) establishing sturdy toy proportions, flowing double coat, undershot or level bite, and outgoing, trusting companion temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-shih-tzu-breed-profile": {
+"akc-shih-tzu-breed-profile": {
     id: "akc-shih-tzu-breed-profile",
     name: "American Kennel Club - Shih Tzu Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/shih-tzu/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed profile covering Tibetan and Ming Dynasty royal history, 14 foundational dogs, weight (9-16 lbs), lifespan (10-18 years), apartment adaptability, temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering Tibetan/imperial China history, 14 foundational dogs, weight (9-16 lb), lifespan (10-18 years), heat intolerance, poor swimming ability, grooming, and breeder health screenings (hip dysplasia, patellar luxation, cataracts, PRA, retinal detachment, corneal exposure/dryness).",
     publisher: "American Kennel Club"
   },
-  "astc-shih-tzu-health": {
+"astc-shih-tzu-health": {
     id: "astc-shih-tzu-health",
     name: "American Shih Tzu Club - Health Testing and CHIC",
     url: "https://www.shihtzu.org/astc_chic",
     type: "breed_club",
-    publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official national parent club portal confirming official CHIC participation and detailing recommended pre-breeding health testing, particularly CAER eye examinations and OFA patellar luxation checks.",
+    publishedOn: "2021-08-15",
+    accessedOn: "2026-11-26",
+    note: "Official national parent club announcement confirming Shih Tzu participation in the OFA CHIC program (August 2021) and recommending eye and patellar luxation screening.",
     publisher: "American Shih Tzu Club"
   },
-  "ofa-shih-tzu-chic-requirements": {
+"ofa-shih-tzu-chic-requirements": {
     id: "ofa-shih-tzu-chic-requirements",
     name: "Orthopedic Foundation for Animals - Shih Tzu CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=SH",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Shih Tzu, mandating CAER Eye examination and Clinical Patellar Luxation evaluation.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Shih Tzu: Eye examination (CAER) and Clinical Patellar Luxation evaluation.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "charlie-pet-health-shih-tzu": {
+"charlie-pet-health-shih-tzu": {
     id: "charlie-pet-health-shih-tzu",
     name: "Charlie Pet Health - Shih Tzu health: kidneys, eyes and breathing",
     url: "https://charliepethealth.com/resources/breed-shih-tzu.html",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Veterinary resource documenting breed-specific health risks in Shih Tzus, including Juvenile Renal Dysplasia (JRD), urinary stones, corneal ulcers, and Brachycephalic Airway Obstructive Syndrome (BOAS).",
+    accessedOn: "2026-11-26",
+    note: "Veterinary resource covering brachycephalic breathing (BOAS), corneal ulcers, dry eye, Juvenile Renal Dysplasia (JRD), and urinary stones in Shih Tzu.",
     publisher: "Charlie Pet Health"
   },
-  "wikimedia-shih-tzu-coupe-lion": {
+"wikimedia-shih-tzu-coupe-lion": {
     id: "wikimedia-shih-tzu-coupe-lion",
     name: "Wikimedia Commons - File:Shih tzu-Coupe-lion.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Shih_tzu-Coupe-lion.jpg",
     type: "other",
     publishedOn: "2021-03-26",
-    accessedOn: "2026-11-13",
-    note: "Photograph (651 x 925 px) of an adult Shih Tzu displaying a short 'puppy cut' or 'lion cut' standing outdoors by Pouchkine75 (uploaded 2021-03-26). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (651 x 925 px) of an adult Shih Tzu outdoors in a short trim by Pouchkine75 (Own work; captured and uploaded 2021-03-26). Licensed under CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-shih-tzu-star-of-buddha": {
+"wikimedia-shih-tzu-star-of-buddha": {
     id: "wikimedia-shih-tzu-star-of-buddha",
     name: "Wikimedia Commons - File:Shih Tzu - Star of Buddha.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Shih_Tzu_-_Star_of_Buddha.jpg",
     type: "other",
-    publishedOn: "2023-05-07",
-    accessedOn: "2026-11-13",
-    note: "Photograph (953 x 1267 px) featuring a close-up of a Shih Tzu's face and a white 'Star of Buddha' forehead marking by Avesterfelt (uploaded 2023-05-07). Dedicated to the Public Domain under Creative Commons CC0 1.0 Universal License on Wikimedia Commons.",
+    publishedOn: "2024-05-02",
+    accessedOn: "2026-11-26",
+    note: "Verified close-up portrait (953 x 1267 px) of a Shih Tzu with a white forehead blaze by Avesterfelt (Own work; captured 2023-05-07, uploaded and edited on Commons 2024-05-02). Dedicated to the Public Domain under CC0 1.0.",
     publisher: "Wikimedia Commons"
   },
   "fci-presa-canario-official-standard": {
@@ -24546,6 +24546,446 @@ export const sources = defineSources({
     accessedOn: "2026-11-26",
     note: "Peer-reviewed study (Kolicheski et al., J Vet Intern Med 2017 Jan;31(1):149-157, Epub 2016-12-23, PMID 28008682, PMCID PMC5259623, DOI 10.1111/jvim.14632) identifying a homozygous PPT1 splice donor mutation (c.124+1G>A) causing CLN1-type Neuronal Ceroid Lipofuscinosis in a Cane Corso dog.",
     publisher: "Journal of Veterinary Internal Medicine / PubMed"
+  },
+  "lagotto-romagnolo-lsd-atg4d-study-2015": {
+    id: "lagotto-romagnolo-lsd-atg4d-study-2015",
+    name: "A Missense Change in the ATG4D Gene Links Aberrant Autophagy to a Neurodegenerative Vacuolar Storage Disease (PLoS Genet 2015)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/25875846/",
+    type: "scientific",
+    publishedOn: "2015-04-15",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (Kyöstilä et al., PLoS Genet 2015 Apr 15;11(4):e1005169, PMID 25875846) identifying an autosomal recessive ATG4D missense variant (c.1288G>A; p.A430T) causing Lagotto Storage Disease in a cohort of >2,300 Lagotto Romagnolo dogs.",
+    publisher: "PLoS Genetics / PubMed"
+  },
+  "fci-field-spaniel-official-standard": {
+    id: "fci-field-spaniel-official-standard",
+    name: "FCI - Field Spaniel Official Breed Standard No. 123",
+    url: "https://www.fci.be/Nomenclature/Standards/123g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 123 (published 2026-10-06). Covers Great Britain origin, Group 8 Section 2 Flushing Dogs classification with working trial, rough-shooting / country-dweller utilization (not suitable for city), unusually docile/active/sensitive/independent temperament, noble chiselled head, dark hazel almond eyes, low-set feathered ears, ribcage 2/3 body length, low-set tail (natural to hocks or previously docked 1/3), long flat glossy silky weatherproof coat (clean hock to ground), eight accepted colours (black, black & tan, blue roan, blue roan & tan, liver, liver & tan, liver roan, liver roan & tan; white/roan on chest acceptable in solids), withers height (approx. 46 cm for both sexes), and weight (18-25 kg for both sexes).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-field-spaniel-nomenclature": {
+    id: "fci-field-spaniel-nomenclature",
+    name: "FCI - Field Spaniel Breed Nomenclature (No. 123)",
+    url: "https://www.fci.be/en/nomenclature/FIELD-SPANIEL-123.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 2 Flushing Dogs classification with working trial, definitive acceptance date (1954-12-27), valid standard publication date (2026-10-06), and official breed name (Field Spaniel).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "rkc-spaniel-field-breed-standard": {
+    id: "rkc-spaniel-field-breed-standard",
+    name: "The Royal Kennel Club - Spaniel (Field) Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/gundog/spaniel-field/",
+    type: "official_breed_standard",
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin Royal Kennel Club breed standard (Gundog Group, updated August 1, 2025) for Spaniel (Field) establishing conformation, temperament, coat texture, and accepted colours.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-spaniel-field-breed-profile": {
+    id: "rkc-spaniel-field-breed-profile",
+    name: "The Royal Kennel Club - Spaniel (Field) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/gundog/spaniel-field/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming Vulnerable Native Breed status, country lifestyle, medium size, more than 2 hours daily exercise, grooming more than once weekly, shedding, eight accepted colours, Breed Watch Category 1 status, and Best Practice health tests (BVA/KC Elbow Dysplasia, BVA/KC/ISDS Eye Scheme, and BVA/KC Hip Dysplasia).",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-field-spaniel-official-standard": {
+    id: "akc-field-spaniel-official-standard",
+    name: "American Kennel Club - Official Standard of the Field Spaniel",
+    url: "https://images.akc.org/pdf/breeds/standards/FieldSpaniel.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2020-06-30",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Sporting Group; approved April 6, 2020, effective June 30, 2020). Establishes 7:6 length-to-height proportion, ideal height (18 inches dogs, 17 inches bitches, +/- 1 inch acceptable), single water-repellent glossy coat, close-fitting clean non-pendulous lips, scissor or level bite (scissor preferred), large rounded webbed feet, and docked or natural low-set tail.",
+    publisher: "American Kennel Club"
+  },
+  "akc-field-spaniel-breed-profile": {
+    id: "akc-field-spaniel-breed-profile",
+    name: "American Kennel Club - Field Spaniel Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/field-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile documenting sweet/fun-loving/sensitive 'thinking dog' temperament, Phineas Bullock history, height (18 in male, 17 in female), weight (35-50 pounds), life expectancy (12-13 years), 'Food Spaniels' food motivation, weekly brushing (no body clipping), ear checks, frequent toothbrushing, and breeding-stock testing across orthopaedics, thyroid, eyes, cardiac, and late-onset seizures.",
+    publisher: "American Kennel Club"
+  },
+  "akc-field-spaniel-history-2022": {
+    id: "akc-field-spaniel-history-2022",
+    name: "American Kennel Club - Field Spaniel History: A Type Brought Back From Extinction (2022)",
+    url: "https://www.akc.org/expert-advice/dog-breeds/field-spaniel-history-a-type-brought-back-from-extinction/",
+    type: "kennel_club",
+    publishedOn: "2022-05-09",
+    accessedOn: "2026-11-26",
+    note: "Published AKC historical feature (May 9, 2022) documenting the 1900 25-pound weight division between Cockers and Fields ('before breakfast a Cocker, after breakfast a Field'), the late-1800s 'cucumber or caterpillar' exaggeration era, and the mid-20th-century rescue of the breed.",
+    publisher: "American Kennel Club"
+  },
+  "fssa-field-spaniel-health": {
+    id: "fssa-field-spaniel-health",
+    name: "Field Spaniel Society of America (FSSA) - Health & CHIC Overview",
+    url: "https://www.fieldspanielsocietyofamerica.org/health/",
+    type: "breed_club",
+    publishedOn: "2020-04-21",
+    accessedOn: "2026-11-26",
+    note: "Official US parent breed club health overview confirming typical lifespan (11-15 years), close genetic relatedness due to rarity, 2003 FSSA health survey (446 dogs), CHIC database participation (eyes, hips, thyroid), and ongoing Data Collection for Late Onset Seizure Disorder.",
+    publisher: "Field Spaniel Society of America"
+  },
+  "fssa-field-spaniel-health-issues": {
+    id: "fssa-field-spaniel-health-issues",
+    name: "Field Spaniel Society of America (FSSA) - Health Issues in Field Spaniels",
+    url: "https://www.fieldspanielsocietyofamerica.org/health-issues-in-field-spaniels/",
+    type: "breed_club",
+    publishedOn: "2020-04-20",
+    accessedOn: "2026-11-26",
+    note: "Official FSSA health monograph detailing polygenic hip dysplasia (OFA/PennHIP), fairly common hypothyroidism (and possible autoimmune link with anemia/sterility), eye issues (retinal folds, ectropion, entropion, very rare PRA), heart defects, and suspected polygenic epilepsy.",
+    publisher: "Field Spaniel Society of America"
+  },
+  "fssa-health-committee-2023-cardiac": {
+    id: "fssa-health-committee-2023-cardiac",
+    name: "Field Spaniel Society of America (FSSA) - Health Committee Update: Advanced Cardiac CHIC Requirement (2023)",
+    url: "https://www.fieldspanielsocietyofamerica.org/health-committee-september-2023/",
+    type: "breed_club",
+    publishedOn: "2023-09-14",
+    accessedOn: "2026-11-26",
+    note: "Official FSSA Health Committee announcement (September 14, 2023) elevating the Field Spaniel CHIC cardiac clearance requirement to Advanced Cardiac (cardiologist echocardiogram) to detect subtle heart murmurs missed by basic auscultation.",
+    publisher: "Field Spaniel Society of America"
+  },
+  "skk-field-spaniel-profile": {
+    id: "skk-field-spaniel-profile",
+    name: "Svenska Kennelklubben (SKK) - Field spaniel Rasprofil",
+    url: "https://www.skk.se/hundraser/field-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Field spaniel confirming height (~46 cm), weight (18-25 kg), solid liver as most common colour, slow physical and mental maturation (females 2-3 years, males ~4 years), monthly paw/inner-ear trimming, peaceful yet mildly stubborn dignified character (rarely barks; reserved with strangers, never shy), 1950s English Springer Spaniel outcross revival, and hip dysplasia (HD) occurrence.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-field-spaniel-profile": {
+    id: "scc-field-spaniel-profile",
+    name: "Société Centrale Canine (SCC) - Field spaniel",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/field-spaniel",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile confirming height (~46 cm), weight (18-25 kg), gentle sensitive owner-oriented character, unsuitability for apartment living (requiring a garden and generous exercise), and historic crosses with Sussex, Basset, and English Springer Spaniels.",
+    publisher: "Société Centrale Canine"
+  },
+  "pmc-syrja-2025-field-spaniel-cesd-lal": {
+    id: "pmc-syrja-2025-field-spaniel-cesd-lal",
+    name: "Cholesterol Ester Storage Disease in Two Field Spaniels With Lysosomal Acid Lipase Deficiency (JVIM 2025)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12380722/",
+    type: "scientific",
+    publishedOn: "2025-08-26",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed University of Helsinki clinical, enzymatic, and lipidomic case report by Syrjä, Ylenius, Kråkström, Dickens, Rautala, Huupponen, Eriksson, and Viitanen (J Vet Intern Med 2025 Sep-Oct;39(5):e70223, PMID 40859629, PMC12380722) documenting Lysosomal Acid Lipase (LAL) deficiency causing Cholesterol Ester Storage Disease (CESD) in two unrelated Field Spaniels.",
+    publisher: "Journal of Veterinary Internal Medicine / National Library of Medicine (PMC)"
+  },
+  "pmc-robinson-1996-field-spaniel-coat-colour": {
+    id: "pmc-robinson-1996-field-spaniel-coat-colour",
+    name: "Inheritance of coat colour in the field spaniel dog (Genetics Selection Evolution 1996)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2708312/",
+    type: "scientific",
+    publishedOn: "1996-09-15",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed genetics paper by Roy Robinson (Genet Sel Evol 1996 Sep 15;28(3):285-288, PMC2708312) analyzing the Mendelian inheritance of black, liver, tan-point, and roan coat colours in the Field Spaniel.",
+    publisher: "Genetics Selection Evolution / National Library of Medicine (PMC)"
+  },
+  "wikimedia-field-liver1-canarian": {
+    id: "wikimedia-field-liver1-canarian",
+    name: "Wikimedia Commons - File:Field-liver1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Field-liver1.jpg",
+    type: "other",
+    publishedOn: "2021-07-31",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1790 x 1504 px) of an adult solid liver Field Spaniel outdoors by Canarian (EXIF capture date 2021-07-31 on Sony DSLR-A350, uploaded 2021-07-31). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-field-liverwhite1-canarian": {
+    id: "wikimedia-field-liverwhite1-canarian",
+    name: "Wikimedia Commons - File:Field-liverwhite1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Field-liverwhite1.jpg",
+    type: "other",
+    publishedOn: "2021-07-31",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1527 x 1377 px) of an adult liver-roan Field Spaniel standing outdoors in profile by Canarian (EXIF capture date 2021-07-31, uploaded 2021-07-31). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "the-kennel-club-slovakian-rough-haired-pointer-standard": {
+    id: "the-kennel-club-slovakian-rough-haired-pointer-standard",
+    name: "The Royal Kennel Club - Slovakian Rough Haired Pointer (Imp) Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/gundog/slovakian-rough-haired-pointer-imp/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club breed standard (Gundog Group, updated 2025-04-01) covering general appearance, versatile field/forest/water characteristics, double coat (~4 cm harsh outer coat, summer-shedding undercoat), amber adult / blue young eyes, and tail carriage.",
+    publisher: "The Royal Kennel Club"
+  },
+  "fci-pumi-official-standard": {
+    id: "fci-pumi-official-standard",
+    name: "FCI - Pumi Official Breed Standard No. 56",
+    url: "https://www.fci.be/Nomenclature/Standards/056g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2000-09-13",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 56 (valid standard dated 2000-04-06, English publication dated 2000-09-13, translated by Mrs. C. Seidler and Mrs. Elke Peper). Covers Hungarian origin (17th–18th century primitive Puli crossed with imported German and French prick-eared terrier-type dogs; independent breed since early 20th century), Group 1 Section 1 Sheepdogs classification without working trial, apartment-capable active family/sport dog utilization, 1:1 square proportions, 50-55° neck angle (45% of height), 55° shoulder layback (100-110° angle), terrier-like narrow head, barely visible stop, always-black nose, tight lips, reverse-V ears tipped forward in upper third, wide-circle tail (7-12 cm wiry underside hair; docking/bobtail banned), curly 4-7 cm solid coat (grey born black, black, fawn/fakó, white), withers height (dogs 41-47 cm, ideal 43-45 cm; bitches 38-44 cm, ideal 40-42 cm), and weight (dogs 10-15 kg, ideal 12-13 kg; bitches 8-13 kg, ideal 10-11 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-pumi-nomenclature": {
+    id: "fci-pumi-nomenclature",
+    name: "FCI - Pumi Breed Nomenclature (No. 56)",
+    url: "https://www.fci.be/en/nomenclature/Pumi-56.html",
+    type: "official_breed_standard",
+    publishedOn: "2000-09-13",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Hungary as country of origin, Group 1 Section 1 Sheepdogs classification without working trial, definitive acceptance date (1954-08-11), valid standard date (2000-04-06), English publication date (2000-09-13), four colour varieties (grey, black, fawn/fakó, white), and official breed name (Pumi).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-pumi-official-standard": {
+    id: "akc-pumi-official-standard",
+    name: "American Kennel Club - Official Standard of the Pumi",
+    url: "https://images.akc.org/pdf/breeds/standards/Pumi.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Herding Group, eligible July 1, 2016) establishing medium alert agile Hungarian herding conformation, ideal weight (dogs 27-29 pounds, bitches 22-24 pounds), height limits (disqualification >1/2 inch beyond range), corkscrew-curled coat, and semi-erect tipped ears.",
+    publisher: "American Kennel Club"
+  },
+  "akc-pumi-breed-profile": {
+    id: "akc-pumi-breed-profile",
+    name: "American Kennel Club - Pumi Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/pumi/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile documenting 1815 first printed mention of 'Pumi', 1972 first Finnish imports (most popular Hungarian herding dog in Finland), July 1, 2016 AKC Herding Group entry, life expectancy (12-13 years), 50/50 soft-and-harsh coat composition, combing every 3-6 weeks followed by wetting and air-drying (no blow-dryer), non-shedding indoor coat, bark management, fetch/agility/obedience aptitude, and health screening for hips, elbows, patellas, DM, and eyes.",
+    publisher: "American Kennel Club"
+  },
+  "rkc-hungarian-pumi-breed-standard": {
+    id: "rkc-hungarian-pumi-breed-standard",
+    name: "The Royal Kennel Club - Hungarian Pumi Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/pastoral/hungarian-pumi/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club breed standard (Pastoral Group, updated April 1, 2025) under the UK designation 'Hungarian Pumi', covering conformation, terrier-like herding character, and coat.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-hungarian-pumi-breed-profile": {
+    id: "rkc-hungarian-pumi-breed-profile",
+    name: "The Royal Kennel Club - Hungarian Pumi Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/pastoral/hungarian-pumi/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming 1960 modern standard milestone, small house and small/medium garden suitability, weekly grooming, Sheds No, lifespan over 12 years, Breed Watch Category 1 status, and Good Practice pre-breeding tests (BVA/KC Elbow Dysplasia Scheme and BVA/KC Hip Dysplasia Scheme).",
+    publisher: "The Royal Kennel Club"
+  },
+  "kennelliitto-pumi-breed-profile": {
+    id: "kennelliitto-pumi-breed-profile",
+    name: "Suomen Kennelliitto - Pumi Rotuesittely ja PEVISA",
+    url: "https://www.kennelliitto.fi/koirarotu/pumi/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Finnish Kennel Club (Suomen Kennelliitto) breed profile confirming height (41-47 cm males, 38-44 cm females), weight (10-15 kg males, 8-13 kg females), average lifespan (12-15 years), urban/apartment adaptability despite barkiness, weekly combing and continuous scissor-trimmed coat growth, mandatory PEVISA hip radiographs and eye exams (<=36 months old at mating), plus club recommendations for knees (patellar luxation and cruciate ligament care), elbows, spine, and PLL DNA testing.",
+    publisher: "Suomen Kennelliitto - Finska Kennelklubben ry"
+  },
+  "skk-pumi-breed-profile": {
+    id: "skk-pumi-breed-profile",
+    name: "Svenska Kennelklubben (SKK) - Pumi Rasprofil",
+    url: "https://www.skk.se/hundraser/pumi/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Pumi confirming height (41-47 cm males, 38-44 cm females), weight (10-15 kg males, 8-13 kg females), koala-like face, 4-7 cm dirt-repelling non-shedding curly coat requiring periodic combing and trimming, calm indoor behaviour with vocal herding bark, stranger reserve, and generally healthy status with hip dysplasia (HD) occurring.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-pumi-breed-profile": {
+    id: "scc-pumi-breed-profile",
+    name: "Société Centrale Canine (SCC) - Pumi",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/pumi",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile for Pumi confirming height (41-47 cm males, 38-44 cm females), weight (10-15 kg males, 8-13 kg females), black-born grey colour transition, hand-grooming, affectionate yet stranger-wary watchdog character, and apartment adaptability with ample exercise.",
+    publisher: "Société Centrale Canine"
+  },
+  "hpca-pumi-health": {
+    id: "hpca-pumi-health",
+    name: "Hungarian Pumi Club of America (HPCA) - Pumi Health & CHIC Requirements",
+    url: "https://pumiclub.org/about-the-pumi/pumi-health/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official US parent breed club health portal detailing OFA/CHIC required pre-breeding screenings (Hip Dysplasia X-ray, Patellar Luxation certification, Primary Lens Luxation DNA test citing Scandinavian cases, and Degenerative Myelopathy DNA test) alongside optional ACVO eye exam, elbow dysplasia X-ray, DNA repository, and rule against breeding two carriers together.",
+    publisher: "Hungarian Pumi Club of America"
+  },
+  "pmc-sod1-dm-allele-frequencies-8304418": {
+    id: "pmc-sod1-dm-allele-frequencies-8304418",
+    name: "Allele and genotype frequencies of the SOD1 gene polymorphism associated with canine degenerative myelopathy across breeds (PMC8304418)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8304418/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed veterinary genetics compilation (PMID 34316194, PMC8304418) reporting SOD1:c.118G>A Degenerative Myelopathy genotype and allele frequencies in the Pumi (0.88 G/G clear, 0.13 G/A heterozygous carriers, 0.00 A/A homozygotes; mutant A allele frequency 0.06).",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "wikimedia-pumi-grey-canarian": {
+    id: "wikimedia-pumi-grey-canarian",
+    name: "Wikimedia Commons - File:Pumi grey.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Pumi_grey.jpg",
+    type: "other",
+    publishedOn: "2016-11-14",
+    accessedOn: "2026-11-26",
+    note: "Photograph (600 x 522 px) of an adult grey female Pumi by Canarian (EXIF capture date 2016-11-13 on Sony DSLR-A350, uploaded 2016-11-14). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-pumi-agility-frantsei-ble": {
+    id: "wikimedia-pumi-agility-frantsei-ble",
+    name: "Wikimedia Commons - File:Pumi-agility.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Pumi-agility.jpg",
+    type: "other",
+    publishedOn: "2020-11-19",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (5743 x 3829 px) of a Pumi clearing an agility jump by Frantseï Blè (EXIF capture date 2019-11-20 on Canon EOS M50, uploaded to Wikimedia Commons 2020-11-19). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "akc-thai-bangkaew-breed-profile": {
+    id: "akc-thai-bangkaew-breed-profile",
+    name: "American Kennel Club - Thai Bangkaew Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/thai-bangkaew/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC Foundation Stock Service breed profile (accepted July 2023) covering height (18-21 in / 16-19 in), weight (40-43 lb / 35-40 lb), life expectancy (14-17 years), 1983 'Bang Kaew Khuen Thin' revival by Dr. Nisit Tangtrakarnpong, grooming tools (avoid bladed deshedders), moderate exercise, gentle training, and health priorities (early-onset eye conditions/PRA and precautionary hip testing).",
+    publisher: "American Kennel Club"
+  },
+  "thai-bangkaew-erg-study-2015": {
+    id: "thai-bangkaew-erg-study-2015",
+    name: "Normal clinical electroretinography parameters for poodle, Labrador retriever, Thai ridgeback, and Thai Bangkaew (J Vet Sci 2015)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/25269713/",
+    type: "scientific",
+    publishedOn: "2014-09-30",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (J Vet Sci 2015;16(1):67-74, Epub 2014-09-30, PMID 25269713, PMCID PMC4367151, DOI 10.4142/jvs.2015.16.1.67) documenting distinct normal electroretinography (ERG) implicit times in Thai Bangkaew Dogs.",
+    publisher: "Journal of Veterinary Science / PubMed"
+  },
+  "akc-rat-terrier-official-standard": {
+    id: "akc-rat-terrier-official-standard",
+    name: "American Kennel Club - Official Standard of the Rat Terrier",
+    url: "https://images.akc.org/pdf/breeds/standards/RatTerrier.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2010-07-01",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Terrier Group; approved November 11, 2009, effective July 1, 2010). Establishes two size divisions at the withers (Miniature 10 to 13 inches; Standard over 13 up to 18 inches; <10 in or >18 in over 6 months disqualified), body depth equal to elbow-to-ground height, smooth blunt wedge head, clean tight lips, scissor preferred / level bite acceptable, erect / semi-erect tipped / button ears (cropped disqualified), docked / natural bobtail / natural long tail, short smooth shiny coat with intact whiskers (kink, curl, or genetic hairlessness disqualified), pied patterning (solid non-white, <1 in white, brindle, and merle disqualified), and non-sparring, devoted, easily trained temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-rat-terrier-breed-profile": {
+    id: "akc-rat-terrier-breed-profile",
+    name: "American Kennel Club - Rat Terrier Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/rat-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile documenting 19th-century US farm-ratting origins, 2013 AKC Terrier Group recognition, height (10-13 in miniature, 13-18 in standard), weight (10-25 pounds), life expectancy (12-18 years), friendly/inquisitive/lovable temperament, occasional barking, moderate shedding, lure coursing and agility aptitude, and national breed club recommended health tests (Patella Evaluation, Hip Evaluation, Cardiac Exam, and Primary Lens Luxation DNA Test).",
+    publisher: "American Kennel Club"
+  },
+  "rtca-about-the-rat-terrier": {
+    id: "rtca-about-the-rat-terrier",
+    name: "Rat Terrier Club of America (RTCA) - About the Rat Terrier",
+    url: "https://ratterrierclubofamerica.org/about-the-rat-terrier",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC parent breed club overview confirming US origin, Theodore Roosevelt naming legend, two size divisions (10-13 in miniature, 13-18 in standard), weight (10-25 pounds), life expectancy (12-18 years), and compact, portable companion nature.",
+    publisher: "Rat Terrier Club of America"
+  },
+  "rtca-health-and-genetics": {
+    id: "rtca-health-and-genetics",
+    name: "Rat Terrier Club of America (RTCA) - Health & Genetics",
+    url: "https://ratterrierclubofamerica.org/health-genetics",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official parent breed club health and genetics portal detailing OFA Rat Terrier CHIC program requirements, breed-specific owner/breeder health survey links, and OFA Rat Terrier health testing statistics.",
+    publisher: "Rat Terrier Club of America"
+  },
+  "rtca-find-a-rat-terrier": {
+    id: "rtca-find-a-rat-terrier",
+    name: "Rat Terrier Club of America (RTCA) - Finding a Rat Terrier & Pre-Breeding Health Screening",
+    url: "https://ratterrierclubofamerica.org/find-a-rat-terrier",
+    type: "breed_club",
+    publishedOn: "2021-07-01",
+    accessedOn: "2026-11-26",
+    note: "Official RTCA buyer guide and Health & Genetics Committee summary detailing consistent puppy obedience, public socialization, breeding age >=2 years, genetic carrier testing, OFA hips and elbows X-rays, patellar luxation checks, veterinary ophthalmologist eye exams, and cardiac evaluations (noting cardiologist exams are preferred due to reported heart issues in the breed).",
+    publisher: "Rat Terrier Club of America"
+  },
+  "ofa-rat-terrier-chic-requirements": {
+    id: "ofa-rat-terrier-chic-requirements",
+    name: "Orthopedic Foundation for Animals (OFA) - Rat Terrier CHIC Program",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=RT",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) breed screening registry page for the Rat Terrier (code RT), maintained jointly with the Rat Terrier Club of America.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "ofa-primary-lens-luxation": {
+    id: "ofa-primary-lens-luxation",
+    name: "Orthopedic Foundation for Animals (OFA) - Primary Lens Luxation (PLL) DNA Testing",
+    url: "https://ofa.org/primary-lens-luxation/",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official OFA veterinary genetics resource (with University of Missouri-Columbia College of Veterinary Medicine) explaining Primary Lens Luxation (zonular ligament weakness, secondary uveitis and glaucoma, typical clinical onset 4-8 years) and cheek-swab DNA screening for affected terrier breeds including the Rat Terrier.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "pubmed-pettigrew-2007-rat-terrier-tpo-chg": {
+    id: "pubmed-pettigrew-2007-rat-terrier-tpo-chg",
+    name: "CNS hypomyelination in Rat Terrier dogs with congenital goiter and a mutation in the thyroid peroxidase gene (Veterinary Pathology 2007)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/17197623/",
+    type: "scientific",
+    publishedOn: "2007-01-01",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study by Pettigrew, Fyfe, Gregory, Lipsitz, de Lahunta, Summers, and Shelton (Vet Pathol 2007 Jan;44(1):50-56, PMID 17197623) documenting central nervous system hypomyelination and congenital goiter in Rat Terrier dogs caused by a mutation in the thyroid peroxidase (TPO) gene shared with Toy Fox Terriers.",
+    publisher: "Veterinary Pathology / PubMed"
+  },
+  "omia-canine-congenital-hypothyroidism-tpo": {
+    id: "omia-canine-congenital-hypothyroidism-tpo",
+    name: "OMIA (Online Mendelian Inheritance in Animals) - Congenital Hypothyroidism with Goiter (TPO) in Canis lupus familiaris (OMIA 000536-9615)",
+    url: "https://omia.org/OMIA000536/9615/",
+    type: "scientific",
+    publishedOn: "2022-05-22",
+    accessedOn: "2026-11-26",
+    note: "Curated veterinary genetics database entry (OMIA000536/9615, edited by Dr. John C. Fyfe) confirming the autosomal-recessive TPO nonsense mutation (c.331C>T; p.Arg111Ter) on CFA17 causing Congenital Hypothyroidism with Goiter (CHG) in Rat Terriers and Toy Fox Terriers and documenting DNA test availability.",
+    publisher: "Online Mendelian Inheritance in Animals (University of Sydney)"
+  },
+  "wikimedia-amberina-the-rat-terrier-jadenschaul": {
+    id: "wikimedia-amberina-the-rat-terrier-jadenschaul",
+    name: "Wikimedia Commons - File:Amberina the Rat Terrier.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Amberina_the_Rat_Terrier.jpg",
+    type: "other",
+    publishedOn: "2024-08-31",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (3070 x 2456 px) of an adult Rat Terrier with a natural undocked tail by Jadenschaul (captured 2020-10-19, uploaded 2024-08-31). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-rat-terrier-bree-bailey": {
+    id: "wikimedia-rat-terrier-bree-bailey",
+    name: "Wikimedia Commons - File:Rat Terrier.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Rat_Terrier.jpg",
+    type: "other",
+    publishedOn: "2007-02-19",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1280 x 960 px) of an adult male Rat Terrier by Flickr user Bree Bailey (EXIF capture date 2006-09-28 on Fujifilm FinePix S602 Zoom, uploaded to Wikimedia Commons by Pharaoh Hound on 2007-02-19, license reviewed by FlickreviewR on 2007-04-08). Licensed under CC BY-SA 2.0 Generic.",
+    publisher: "Wikimedia Commons"
   },
 });
 
