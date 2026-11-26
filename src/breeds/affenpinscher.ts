@@ -8,78 +8,76 @@ export const affenpinscher: Breed = {
   alternateNames: [
     "Monkey Terrier",
     "Monkey Dog",
-    "Diablotin Moustachu",
-    "Griffon Singe"
+    "Ape Terrier",
+    "Zwergaffenpinscher",
+    "Diablotin Moustachu"
   ],
 
-  group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 1.1 — Pinschers (without working trial; also classified in the Toy and Companion Dog groups)",
+  group: "Pinscher, schnauzer, and toy companion dogs",
 
   origin: {
     country: "Germany",
-    region:
-      "Southern Germany"
+    region: "Southern Germany"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Affenpinscher_01.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/An_Affenpinscher.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Affenpinscher_01.jpg",
-      title: "Affenpinscher 01.jpg",
+        "https://commons.wikimedia.org/wiki/File:An_Affenpinscher.jpg",
+      title: "An Affenpinscher.jpg",
       description:
-        "An adult black Affenpinscher standing outdoors, showing its rough, wiry coat and distinctive monkey-like facial expression.",
-      creator: "Ernst Vikne",
+        "A black Affenpinscher portrait showing its rough, wiry facial furnishings, bristly eyebrows, and dark round eyes.",
+      creator: "Lori Branham",
       uploader: "Flickr upload bot",
-      capturedOn: "2007-08-11",
-      uploadedOn: "2008-01-26",
-      width: 1779,
-      height: 1419,
-      licenseId: "cc-by-sa-2.0",
+      capturedOn: "2009-02-10",
+      uploadedOn: "2014-03-02",
+      width: 3318,
+      height: 2212,
+      licenseId: "cc-by-2.0",
       attribution:
-        "Photo by Ernst Vikne, Wikimedia Commons, CC BY-SA 2.0. Source: https://commons.wikimedia.org/wiki/File:Affenpinscher_01.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Lori Branham, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:An_Affenpinscher.jpg. License: https://creativecommons.org/licenses/by/2.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-16"
+      metadataCheckedOn: "2026-11-26"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Affenpinscher.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Affenpinscher_breed.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Affenpinscher.jpg",
-      title: "Affenpinscher.jpg",
+        "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg",
+      title: "Affenpinscher breed.jpg",
       description:
-        "A close-up view of a black Affenpinscher's face, highlighting the prominent beard, bushy eyebrows, and domed skull.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+        "An adult Affenpinscher photographed outdoors, highlighting its compact square build and shaggy wire coat.",
+      creator: "Futurebreak",
+      uploader: "Futurebreak",
+      capturedOn: "2023-08-24",
+      uploadedOn: "2026-07-08",
+      width: 3024,
+      height: 4032,
+      licenseId: "cc0-1.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Affenpinscher.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Futurebreak, Wikimedia Commons, CC0 1.0 Public Domain Dedication. Source: https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg. License: https://creativecommons.org/publicdomain/zero/1.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-16"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A sturdy, wire-haired, and comically serious toy breed of German origin, celebrated for its monkey-like facial expression, bold terrier attitude, and unwavering loyalty as an indoor companion.",
+      "A sturdy, wiry-coated toy companion from Germany known for its expressive monkey-like face, bold ratter heritage, and comically serious charm.",
 
     description:
-      "The Affenpinscher is a compact, rough-coated toy dog built with a square, solid frame that belies its small size. Its most defining characteristic is its striking, monkey-like face (from which it derives its name), framed by a prominent bristly beard, bushy eyebrows, and a crown of harsh hair radiating away from its round skull. The dark, round, forward-facing eyes project a highly intelligent, inquisitive, and comically serious expression. The body is covered in a dense, rough, and harsh wire coat that is traditionally pure black, though slight brown or grey shading can occur. Unlike many delicate toy breeds, the Affenpinscher possesses a robust, sturdy constitution and a bold, fearless 'big dog' attitude, originally developed to aggressively dispatch rats in German stables and kitchens. Today, it thrives as a deeply affectionate, highly entertaining, and watchful family companion that expects to be treated with respect.",
+      "The Affenpinscher is a compact, square-built small dog with solid bone and none of the fragile look seen in more delicate toy breeds. Its trademark face features coarse eyebrows, a bristly beard, and stiff hair fanning out around a round skull and short muzzle, giving it an unmistakably inquisitive, monkey-like look. Dark, round eyes gaze straight ahead with a solemn yet mischievous spark. A dense, harsh wire coat covers the body, traditionally pure black in its homeland though shades such as gray, silver, red, black and tan, and belge also appear in other regions. Bred originally to clear rodents from barns and kitchens, it pairs an alert, fearless streak with warm loyalty and entertaining antics at home.",
 
     history:
-      "Tracing its origins to the seventeenth century, the Affenpinscher is one of the oldest toy breeds developed in Central Europe, particularly in Southern Germany. Originally, these rough-coated, tenacious terriers were bred slightly larger than their modern descendants to serve as working ratters on farms, in stables, and in village kitchens, aggressively eradicating rodents. Over time, their distinctive 'monkey-like' faces and comical, bold personalities endeared them to the upper classes, and they were gradually bred down in size to serve as indoor companions and lap warmers for ladies, while still retaining their fierce mousing instincts. The Affenpinscher is a foundational breed, heavily influencing the development of the Miniature Schnauzer and the Brussels Griffon. The breed gained international recognition in the early twentieth century. Although its numbers declined significantly during World War II, dedicated enthusiasts successfully revived the bloodlines, preserving the breed's rugged appearance and courageous spirit.",
+      "Small rough-coated ratters of Affenpinscher type were working across southern Germany by the seventeenth century, guarding stables, granaries, and household kitchens from mice and rats. Over time, breeders in cities such as Munich and Berlin refined these plucky utility dogs into smaller indoor companions without losing their fearless edge. The breed also helped shape related European dogs, including the Brussels Griffon and the Miniature Schnauzer. Numbers fell sharply during the world wars of the twentieth century, yet dedicated German and international breeders rebuilt the lines and preserved the breed's distinctive shaggy face and bold spirit.",
 
     originalPurpose:
-      "Tenacious working ratter tasked with eradicating rodents in German stables, kitchens, and granaries, later transitioning to a companion lap dog.",
+      "Farm, stable, and household ratter later adapted into an alert indoor companion.",
 
     currentRoles: [
-      "Vigilant indoor alarm watchdog",
-      "Entertaining and devoted household companion",
-      "Conformation show competitor",
-      "Canine athlete in agility, obedience, and barn hunt events"
+      "Loyal and entertaining indoor family companion",
+      "Alert home watchdog",
+      "Competitor in small-dog agility, obedience, and barn hunt sports"
     ]
   },
 
@@ -116,46 +114,48 @@ export const affenpinscher: Breed = {
     },
 
     coatType:
-      "Harsh, rough, and dense wire coat; the facial hair forms distinct, bristly eyebrows, a prominent beard, and a crown of hair standing radially away from the skull.",
+      "Dense, harsh, rough wire coat with stiffer, standing hair around the head forming bushy eyebrows, a full beard, cheek tufts, and a wreath around the eyes.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Pure black (black undercoat and black topcoat)",
-      "Some regional standards tolerate a slightly greyish or brownish cast, but pure black is heavily favored internationally"
+      "Pure black with a black undercoat (traditional homeland preference)",
+      "Gray",
+      "Silver",
+      "Red",
+      "Black and tan",
+      "Belge (red mixed with black, brown, or white hairs)",
+      "A small white chest spot occasionally appears; large white patches are uncommon"
     ],
 
     sheddingLevel:
-      "Low; the harsh wire coat sheds very little when maintained properly through regular brushing and light hand-stripping",
+      "Low; the harsh wire coat drops minimal loose hair when brushed regularly and tidied periodically",
 
     droolingLevel:
-      "Low; the short, tight-fitting, and completely black-pigmented lips prevent excessive drooling",
+      "Low; tight, black-edged lips keep drooling minimal",
 
     distinctiveFeatures: [
-      "Square, compact, and sturdy toy silhouette with no hint of delicate or fragile bone structure",
-      "Height at the withers of 25 to 30 cm for both males and females",
-      "Working weight of 4 to 6 kg, feeling solid and surprisingly heavy for its diminutive size",
-      "Domed skull with a short, straight muzzle and a distinct stop, covered in harsh, radial hair",
-      "Slightly undershot bite where the lower jaw protrudes just past the upper jaw, but the teeth must not be visible when the mouth is closed",
-      "Dark, round, and prominent (but not bulging) forward-facing eyes surrounded by a ring of black hair",
-      "V-shaped drop ears set high on the skull (or traditionally cropped into erect points in regions where legally permitted)",
-      "Strong, short back that slopes slightly downward from the withers to the rear",
-      "Tail set high and carried upward in a sickle curve, often covered in harsh hair",
-      "Straight, heavily boned forelegs and well-angulated hindquarters ending in short, round cat-like feet"
+      "Compact, square, sturdy frame measuring 25 to 30 cm at the shoulder and weighing roughly 4 to 6 kg",
+      "Round, domed head with a short straight muzzle, distinct stop, and straggly radial facial hair creating a monkey-like expression",
+      "Slightly undershot jaw with tight black lips that conceal the teeth and tongue when closed",
+      "Dark, round, forward-looking eyes ringed with coarse hair",
+      "High-set V-shaped drop ears carried close to the head (natural or cropped where permitted)",
+      "Short, strong back and high-set tail carried upward in a gentle curve",
+      "Straight, well-boned front legs and compact, round, cat-like paws with black nails",
+      "Light, fluent, confident gait carried with comic seriousness"
     ]
   },
 
   temperament: {
     traits: [
-      "Bold, fearless, and self-confident, often displaying a strong 'big dog' attitude",
-      "Highly intelligent, observant, and quick to learn, though notoriously stubborn if bored",
-      "Deeply affectionate, loyal, and entertaining with its immediate family",
-      "Comically serious in its demeanor, expecting to be treated with dignity",
-      "Naturally alert and highly vigilant, acting as a reliable alarm barker",
-      "Suspicious and aloof with unfamiliar strangers, requiring time to warm up",
-      "Possesses a very high prey drive toward mice, rats, and small running pets",
-      "Does not tolerate teasing, rough handling, or chaotic environments well",
-      "Fiercely protective of its food, toys, and sleeping areas"
+      "Bold, fearless, and self-assured well beyond its small stature",
+      "Inquisitive, bright, and quick to pick up cues when lessons stay fun",
+      "Deeply devoted, affectionate, and comical with its household",
+      "Alert and quick to sound the alarm when something feels out of place",
+      "Reserved around unfamiliar visitors until it decides to warm up",
+      "Independent and persistent, occasionally showing a quick spark of temper if provoked",
+      "Strong chasing instinct around rodents and small scurrying pets",
+      "Uncomfortable with rough play, teasing, or having toys and food snatched away"
     ],
 
     scores: {
@@ -167,14 +167,14 @@ export const affenpinscher: Breed = {
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 4
+      energy: 3
     }
   },
 
   care: {
     exercise: {
       level:
-        "Moderate; a lively and active indoor companion that requires daily structured physical outlets but tires quickly on long treks due to its small size and short muzzle",
+        "Moderate; lively and playful indoors, needing daily walks and mental games without long endurance runs in hot weather",
 
       minutesPerDay: {
         min: 30,
@@ -182,10 +182,10 @@ export const affenpinscher: Breed = {
       },
 
       activities: [
-        "Daily brisk neighborhood walks on a sturdy leash",
-        "Interactive indoor games such as fetch or hide-and-seek",
-        "Canine sports including barn hunt, earthdog trials, or low-jump agility",
-        "Supervised exploration in a securely fenced yard"
+        "Brisk daily neighborhood walks on a secure leash",
+        "Short indoor fetch, puzzle toys, and trick games",
+        "Small-dog sports such as agility, rally, or barn hunt",
+        "Supervised sniffing and play in a securely fenced yard"
       ]
     },
 
@@ -193,34 +193,34 @@ export const affenpinscher: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush thoroughly two to three times a week using a slicker brush and metal comb to prevent mats in the harsh, wiry double coat, paying special attention to the thick facial beard and leg furnishings.",
+        "Brush and comb two to three times per week with a slicker brush and metal comb, paying close attention to the beard, eyebrows, and leg furnishings to stop mats.",
 
       bathing:
-        "Bathe only when necessary using a harsh-coat or texturizing canine shampoo to prevent softening the rugged, weather-resistant wire hair.",
+        "Bathe only as needed with a mild dog shampoo that preserves the crisp, wiry coat texture.",
 
       notes: [
-        "The coat requires light hand-stripping or plucking of dead hairs every few months to maintain its harsh texture and deep black color; clipping the coat will make it soft and greyish.",
-        "Keep the hair neatly trimmed around the eyes to prevent corneal irritation, while preserving the characteristic bushy eyebrows.",
-        "Inspect the V-shaped drop ears weekly, gently wiping the canals with an approved veterinary cleanser.",
-        "Trim the fast-growing dark nails every two to three weeks to maintain compact, cat-like feet.",
-        "Brush teeth daily with canine enzymatic toothpaste to combat rapid tartar buildup."
+        "Tidy the shaggy outline every two to three months through light hand-stripping or careful blending; frequent close clipping softens the coat and can fade deep black hair.",
+        "Keep stray hairs trimmed away from the eyes so they do not irritate the surface.",
+        "Check and gently clean the V-shaped drop ears each week to prevent wax buildup.",
+        "Trim dark nails every two to three weeks to keep the compact paws healthy.",
+        "Brush teeth daily to counter tartar accumulation in the short jaw."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent and capable of learning complex tasks, but distinctly stubborn, independent, and easily bored by repetition",
+        "Moderate; sharp-minded and willing to engage with a trusted handler, yet independent and quickly bored by monotonous drills",
 
       tips: [
-        "Use reward-based, positive reinforcement training with high-value food treats; they will completely ignore a harsh or angry handler.",
-        "Keep training sessions very short (3 to 5 minutes), fast-paced, and entertaining to maintain the dog's focus.",
-        "Begin impulse-control and 'quiet' commands early to manage their naturally high alertness and propensity for alarm barking.",
-        "Never provoke or tease the dog; they have strong terriër instincts and will fiercely defend their personal space or toys.",
-        "Housebreaking can be slow; use strict crate training schedules and constant supervision."
+        "Keep sessions short—around three to five minutes—upbeat, and varied using small food rewards.",
+        "Teach a calm 'quiet' cue early to channel its watchful alarm barking.",
+        "Approach house-training with a firm routine, crate management, and steady patience.",
+        "Avoid harsh scolding or physical corrections, which make this proud breed defensive or uncooperative.",
+        "Supervise carefully around small household pets such as hamsters or birds due to its ratter instincts."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, calm vaccinated dogs, and urban noises. Extensive socialization ensures their natural boldness and suspicion of strangers does not escalate into sharp, defensive snapping."
+        "Introduce puppies early and positively to new people, steady dogs, and city sounds so natural watchfulness stays balanced and confident rather than snappy."
     },
 
     livingEnvironment: {
@@ -229,79 +229,78 @@ export const affenpinscher: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool climates, where the dense wire coat provides excellent insulation",
-        "Highly sensitive to extreme heat and humidity due to its shortened muzzle; requires air conditioning and severely restricted outdoor time during summer heatwaves"
+        "Cool climates where the dense wire coat helps insulate the body",
+        "Sensitive to high heat and humidity because of its shortened muzzle; keep indoors with air conditioning during hot spells"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; bonds intensely with its family and is prone to separation anxiety, excessive barking, or destructive chewing if left isolated for long workdays."
+        "Low to moderate; bonds tightly with its household and does best when not left alone for long stretches every day."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated specifically for small or toy breeds, carefully portioned to prevent obesity.",
+      "Complete, balanced small-breed dog food measured carefully to maintain a lean, solid build.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age to prevent hypoglycemia.",
+        "Three to four small, measured meals per day until six months of age to maintain steady blood sugar.",
       adult:
-        "Two measured meals daily to support digestion and steady energy levels.",
+        "Two measured meals per day to support even energy and healthy weight.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals per day matched to slower metabolism."
     },
 
     guidelines:
-      "Measure daily rations strictly using a digital kitchen scale. Toy breeds have tiny frames, and even an extra half-kilogram of body weight places dangerous strain on their knees, back, and respiratory system. Divide daily food into two distinct meals, and provide cool, clean drinking water continuously.",
+      "Measure every meal accurately because even small amounts of excess weight place heavy strain on tiny knees, hips, and airways. Keep fresh, cool drinking water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; obesity severely exacerbates breathing difficulties and joint luxation.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Ensure fresh water is always available, particularly in warm environments, as short-muzzled dogs pant less efficiently.",
-      "Wipe the bristly facial beard after meals and drinking to prevent moisture buildup and unpleasant odor."
+      "Check body condition regularly so ribs remain easy to feel under a thin covering.",
+      "Count training treats within the daily calorie budget.",
+      "Provide cool water immediately after walks, especially in warm weather when shorter-muzzled dogs cool down less efficiently.",
+      "Wipe the facial beard clean after meals to keep skin dry and odor-free."
     ],
 
     note:
-      "Caloric needs vary based on age, metabolism, and daily indoor activity level. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Adjust daily portions with a veterinarian based on age, activity level, and body condition."
   },
 
   health: {
     overview:
-      "The Affenpinscher is a relatively robust and long-lived toy breed, generally enjoying a lifespan of 12 to 15 years. However, its small size and slightly shortened (brachycephalic) facial structure predispose it to specific anatomical challenges. Primary health priorities focus on orthopedic screening for patellar luxation, protecting the vulnerable prominent eyes, maintaining strict dental hygiene, and screening for congenital cardiac issues.",
+      "The Affenpinscher is generally a sturdy, long-lived small breed with a typical lifespan of 12 to 15 years and no single inherited disease unique only to the breed. Even so, toy-breed orthopedic and ocular concerns—especially patellar luxation and cataracts or other eye changes—warrant routine screening, alongside awareness of hip issues, heart murmurs in older dogs, dental crowding, and heat sensitivity from its shortened muzzle.",
 
     commonConditions: [
-      "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, causing a 'skipping' gait and potential arthritis, monitored through veterinary orthopedic screening",
-      "Legg-Calvé-Perthes disease — spontaneous degeneration of the femoral head in the hip joint of young toy breeds, requiring surgical intervention",
-      "Brachycephalic Airway Obstructive Syndrome (BOAS) — anatomical abnormalities causing restricted airflow and heat intolerance, though typically less severe than in extremely flat-faced breeds like Pugs",
-      "Corneal ulcers and eye injuries — the large, round, forward-facing eyes are vulnerable to scratches from rough play or tall grass",
-      "Periodontal disease — severe tartar buildup and gingivitis caused by overcrowded teeth in the short jaw, requiring lifelong veterinary dental care",
-      "Cardiac conditions — occasional reports of murmurs or structural heart anomalies, monitored through veterinary exams",
-      "Umbilical hernias — frequently occurring developmental defects where abdominal fat protrudes through the navel, often benign"
+      "Patellar luxation — intermittent slipping of the kneecap common across toy breeds and a primary orthopedic screening focus",
+      "Ocular conditions (including cataracts and surface eye injuries) — monitored through routine specialist eye exams, with prominent forward-facing eyes also vulnerable to accidental scratches",
+      "Hip dysplasia and Legg-Calvé-Perthes disease — developmental hip joint disorders reported in small and toy breeds, monitored optionally by breeders via radiographs",
+      "Cardiac anomalies and age-related mitral valve disease — heart murmurs or structural valve changes observed in some small dogs as they age, checked during routine veterinary auscultation",
+      "Brachycephalic airway heat sensitivity — mildly shortened muzzle can make cooling via panting less efficient in hot, humid weather, though generally less severe than in extremely flat-faced breeds",
+      "Periodontal disease — crowded teeth in the compact, slightly undershot jaw encourage faster plaque and gum inflammation without regular brushing",
+      "Chiari-like malformation and syringomyelia — investigated in scientific craniometric studies of brachycephalic toy breeds including Affenpinschers, though clinical prevalence appears lower than in breeds with more severely flattened skulls"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified clinical clearances for patellas, cardiac health, and specialist eye examinations.",
-      "Strictly avoid exposing the dog to extreme heat or humidity to prevent respiratory distress (heatstroke).",
-      "Use a well-fitted body harness rather than a neck collar to prevent pressure on the fragile trachea.",
-      "Maintain a lean weight and use pet stairs for furniture to minimize mechanical stress on the knees and hips.",
-      "Wipe the facial beard regularly and keep hair trimmed away from the eyes to prevent corneal irritation.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed eye and patella evaluations, plus optional hip and cardiac checks where available.",
+      "Avoid strenuous outdoor play in hot or humid weather and provide cool shade or air conditioning.",
+      "Use a snug chest harness rather than a neck collar to keep pressure off the windpipe.",
+      "Maintain a lean body weight and limit repeated jumps off high furniture to protect knees and hips.",
+      "Keep facial hair tidy around the eyes and schedule yearly veterinary checkups and dental cleanings."
     ],
 
     recommendedScreenings: [
       "Clinical patellar luxation orthopedic evaluation by a veterinarian",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Congenital cardiac examination by a veterinarian"
+      "Ophthalmic examination by a board-certified veterinary ophthalmologist",
+      "Optional hip dysplasia, Legg-Calvé-Perthes, elbow, and cardiac evaluations for breeding dogs"
     ],
 
     dentalCare:
-      "Brush teeth daily using canine enzymatic toothpaste. The breed has a slightly undershot jaw with severely overcrowded teeth, leading to rapid plaque accumulation; schedule regular professional veterinary dental cleanings.",
+      "Brush teeth daily with canine enzymatic toothpaste and schedule regular veterinary dental cleanings to manage plaque in the compact, slightly undershot jaw.",
 
     earCare:
-      "Inspect the V-shaped drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution.",
+      "Check the drop ears weekly for redness, moisture, or wax buildup, cleaning gently with a veterinarian-approved solution.",
 
     skinCare:
-      "Part the dense, harsh coat weekly during brushing to inspect the skin for external parasites, mats, or irritation. Preserve natural weather-repelling oils by avoiding harsh or frequent bathing."
+      "Part the dense wire coat during weekly brushing to check skin health and prevent mats, avoiding overly frequent bathing that strips natural coat oils."
   },
 
   suitability: {
@@ -312,91 +311,101 @@ export const affenpinscher: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Adults, seniors, or couples seeking a highly entertaining, fiercely loyal, and protective indoor companion",
-      "Apartment or condominium dwellers looking for an alert watchdog with low outdoor exercise requirements",
-      "Individuals who appreciate a bold, independent, and terrier-like canine personality",
-      "Owners willing to commit to regular brushing and occasional hand-stripping of a wire coat",
-      "Homes without young children, toddlers, or small running pets"
+      "Adults, couples, or seniors wanting a loyal, lively, and comical indoor companion",
+      "Apartment dwellers looking for a compact, low-shedding watchdog with moderate exercise needs",
+      "Owners who enjoy an independent, feisty personality with a sense of humor",
+      "People willing to keep up with regular brushing and occasional coat tidying",
+      "Calm households without toddlers or loose small rodent pets"
     ],
 
     notIdealFor: [
-      "Families with toddlers or young children who might play roughly, tease the dog, or invade its sleeping space",
-      "Highly active individuals seeking a jogging, hiking, or strenuous outdoor sporting partner",
-      "First-time dog owners unaccustomed to managing stubbornness and resource guarding",
-      "Individuals living in un-air-conditioned homes in extremely hot, humid climates",
-      "Owners seeking a highly sociable dog park companion that mixes freely with unfamiliar dogs"
+      "Families with young children who might tease, squeeze, or handle a small dog roughly",
+      "Long-distance runners or hikers wanting a high-endurance outdoor partner",
+      "First-time owners expecting effortless obedience without patience and consistency",
+      "Hot, humid homes lacking dependable indoor air conditioning",
+      "Households keeping free-roaming pet rodents or birds"
     ]
   },
 
   funFacts: [
-    "The breed's name directly translates from German: 'Affen' means monkey or ape, and 'Pinscher' means terrier, perfectly describing this 'Monkey Terrier'.",
-    "In France, the breed is affectionately nicknamed the 'Diablotin Moustachu', which translates to the 'Mustached Little Devil', a nod to both its bristly face and its mischievous, spirited personality.",
-    "The Affenpinscher is one of the oldest toy breeds in existence, and it served as a primary foundation breed in the creation of two other famous European breeds: the Miniature Schnauzer and the Brussels Griffon.",
-    "Despite their tiny size (weighing roughly 10 pounds), Affenpinschers possess the ferocious heart of a working ratter, entirely fearless and known to stand their ground against much larger dogs or perceived threats.",
-    "In 2013, an Affenpinscher named 'Banana Joe' made international headlines by winning Best in Show at the prestigious Westminster Kennel Club Dog Show."
+    "In German, 'Affen' means monkey or ape and 'Pinscher' refers to a terrier-like dog, giving the breed its classic 'Monkey Terrier' nickname.",
+    "French admirers long dubbed the breed 'Diablotin Moustachu'—the 'Mustached Little Devil'—for its whiskered face and cheeky personality.",
+    "One of Europe's older toy breeds, the Affenpinscher played a direct foundational role in developing the Brussels Griffon and influenced the Miniature Schnauzer.",
+    "Despite weighing just 4 to 6 kg, it still carries the fearless ratter heart bred to clear rats from seventeenth-century stables and kitchens.",
+    "Its neat, jaunty strut and solemn expression give the breed a famously serious, almost comical self-importance."
   ],
 
   faq: [
     {
-      question: "What is an Affenpinscher?",
+      question: "What kind of dog is an Affenpinscher?",
       answer:
-        "The Affenpinscher is a small, rough-coated, and sturdy German toy breed famous for its comical, monkey-like facial expression, bold terrier attitude, and history as an expert ratter."
+        "The Affenpinscher is a sturdy, wire-coated German toy dog recognized by its expressive monkey-like face, bold ratter heritage, and loyal, entertaining personality."
     },
     {
-      question: "How tall and heavy is an Affenpinscher?",
+      question: "How big does an Affenpinscher get?",
       answer:
-        "Adults stand 25 to 30 cm at the withers and typically weigh between 4 and 6 kg, possessing a surprisingly solid, heavy-boned frame for their diminutive size."
+        "Adults stand 25 to 30 cm tall at the shoulder and weigh roughly 4 to 6 kg, with a solid, square build."
     },
     {
       question: "How long does an Affenpinscher live?",
       answer:
-        "With proper nutrition, strict weight management, and preventive veterinary care, the breed typically enjoys a long, healthy lifespan of 12 to 15 years."
+        "With lean weight management, dental care, and routine veterinary checkups, an Affenpinscher typically lives 12 to 15 years."
     },
     {
-      question: "Do Affenpinschers shed a lot, and how are they groomed?",
+      question: "Do Affenpinschers shed much, and how should they be groomed?",
       answer:
-        "They are very low shedders. Their harsh, wiry coat requires brushing two to three times a week to prevent mats, and it must be periodically hand-stripped or plucked to maintain its rough texture and pure black color."
+        "They shed very little. Brush and comb the harsh wire coat two to three times a week to prevent tangles, and tidy it every couple of months by light hand-stripping or blending."
     },
     {
-      question: "Can an Affenpinscher live in an apartment?",
+      question: "Are Affenpinschers good apartment dogs?",
       answer:
-        "Yes, they are excellent apartment dogs. Their small size and moderate exercise requirements make them well-suited for urban living, though they are alert alarm barkers."
+        "Yes. Their compact size, low shedding, and moderate daily exercise needs fit apartment life well, though early training helps manage their alert watchdog barking."
     },
     {
       question: "Are Affenpinschers good with children?",
       answer:
-        "Generally no. Because of their proud, independent terrier nature, they do not tolerate teasing, rough handling, or having their toys taken, making them best suited to adult-only homes or families with older, respectful children."
+        "Usually they do best in adult homes or with calm, older children who respect their space, as they dislike rough play, teasing, or grabbing."
     },
     {
       question: "Are Affenpinschers hard to train?",
       answer:
-        "They are highly intelligent but can be notoriously stubborn and independent. Training requires patience, very short, fun sessions, and high-value treats, as they quickly lose interest in repetitive commands."
+        "They are smart and willing to work with a bonded owner, yet independent and easily bored. Short, lively sessions with tasty rewards work far better than repetitive drills."
     },
     {
-      question: "What are the main health concerns for an Affenpinscher?",
+      question: "What health issues should Affenpinscher owners watch for?",
       answer:
-        "Primary health concerns include slipping kneecaps (patellar luxation), severe dental issues due to overcrowded teeth, eye injuries, and some breathing sensitivity in extreme heat due to their shortened muzzles."
+        "Affenpinschers are generally hardy, but owners and breeders watch for patellar luxation, eye conditions such as cataracts, hip issues, dental crowding, and overheating in hot weather."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-affenpinscher-official-standard",
     "fci-affenpinscher-nomenclature",
     "akc-affenpinscher-breed-standard",
     "akc-affenpinscher-breed-profile",
     "aca-affenpinscher-health",
     "ofa-affenpinscher-chic-requirements",
-    "wikimedia-affenpinscher-01-ernst-vikne",
-    "wikimedia-affenpinscher-lilly-m"
+    "ofa-legg-calve-perthes",
+    "pmc-affenpinscher-craniometric-2017",
+    "the-dog-api",
+    "wikimedia-an-affenpinscher-lori-branham",
+    "wikimedia-affenpinscher-breed-futurebreak"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxonomic listing: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-26",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Canis lupus familiaris is the verified domestic-dog taxonomic label used across the catalog."
     },
 
     alternateNames: {
@@ -410,11 +419,16 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "History: Monkey Terrier, Monkey Dog, Diablotin Moustachu"
+          locator: "About the Breed and History: Monkey Dog, Monkey Terrier, Diablotin Moustachu"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Monkey Terrier, Monkey Dog, Ape Terrier, Zwergaffenpinscher"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Verified across FCI Standard No. 186 and AKC profile."
+      verifiedOn: "2026-11-26",
+      note: "Cross-checked across FCI Standard No. 186, AKC breed profile, and The Dog API."
     },
 
     group: {
@@ -423,17 +437,22 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 2 Pinscher and Schnauzer- Molossoid breeds- Swiss Mountain and Cattle Dogs; Section 1 Pinscher and Schnauzer type; Without working trial"
+          locator: "CLASSIFICATION F.C.I.: Group 2 Pinscher and Schnauzer - Molossoid and Swiss Mountain and Cattledogs; Section 1 Pinscher and Schnauzer type, Subsection Pinscher; Without working trial"
         },
         {
           id: "akc-affenpinscher-breed-standard",
           role: "verified",
           locator: "Toy Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Toy"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label states Pinscher, schnauzer, and toy companion dogs without registry or section identifiers."
     },
 
     origin: {
@@ -442,10 +461,20 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "ORIGIN: Germany; BRIEF HISTORICAL SUMMARY"
+          locator: "COUNTRY OF ORIGIN: Germany; BRIEF HISTORICAL SUMMARY (Southern Germany)"
+        },
+        {
+          id: "fci-affenpinscher-nomenclature",
+          role: "verified",
+          locator: "Country of origin: Germany"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Germany"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -460,12 +489,17 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (17th century ratters, Diablotin Moustachu), and Roles"
+          locator: "About the Breed, History (17th-century German ratters, Munich/Berlin development, Brussels Griffon/Miniature Schnauzer ties)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesized in original prose from FCI Standard No. 186 and AKC official records."
+        "Written in original prose from FCI Standard No. 186, AKC records, and cross-checked against The Dog API."
     },
 
     physical: {
@@ -474,17 +508,17 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "HEAD, EYES, EARS, BODY, TAIL, LIMBS, GAIT/MOVEMENT, COAT, COLOUR (pure black with black undercoat), SIZE AND WEIGHT"
         },
         {
           id: "akc-affenpinscher-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color, Gait"
+          locator: "General Appearance, Body, Tail, Forequarters, Hindquarters, Coat, Color (black, gray, silver, red, black and tan, or belge), Gait"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Conformation, heavy bone for a toy breed, monkey-like facial expression, harsh black coat, and distinctive features follow official standards."
+        "Notes both FCI Standard No. 186's pure black color requirement and AKC's broader accepted palette (black, gray, silver, red, black and tan, belge); excludes generic non-breed variants from The Dog API (e.g., liver, merle, brindle, pied, white)."
     },
 
     "physical.height": {
@@ -493,12 +527,22 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Dogs and bitches 25 to 30 cm."
+          locator: "SIZE AND WEIGHT: Height at withers: Dogs and bitches: 25 to 30 cm"
+        },
+        {
+          id: "akc-affenpinscher-breed-standard",
+          role: "cited",
+          locator: "Preferred height at the withers is 9 1/2 to 11 1/2 inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 23-29 cm"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of centimetres (25 to 30 cm) exactly as specified in the official FCI Standard No. 186."
+        "Preserved in exact published centimetres (25 to 30 cm) from FCI Standard No. 186 (country-of-origin standard). AKC specifies 9.5 to 11.5 inches and The Dog API lists converted 23-29 cm."
     },
 
     "physical.weight": {
@@ -507,12 +551,22 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "Weight: Dogs and bitches app. 4 to 6 kg."
+          locator: "SIZE AND WEIGHT: Weight: Dogs and bitches: appr. 4 to 6 kg"
+        },
+        {
+          id: "akc-affenpinscher-breed-profile",
+          role: "cited",
+          locator: "Weight: 7-10 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: 3.2-4.5 kg"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of kilograms (4 to 6 kg) exactly as specified in the official FCI Standard No. 186."
+        "Preserved in exact published kilograms (4 to 6 kg) from FCI Standard No. 186. AKC breed profile lists 7-10 pounds and The Dog API lists converted 3.2-4.5 kg."
     },
 
     "physical.lifespanYears": {
@@ -522,10 +576,15 @@ export const affenpinscher: Breed = {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
           locator: "Life Expectancy: 12-15 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 12-15 years"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Consistent across AKC breed profile and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -534,7 +593,7 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (1/5)"
+          locator: "Shedding and grooming profile"
         },
         {
           id: "fci-affenpinscher-official-standard",
@@ -542,7 +601,7 @@ export const affenpinscher: Breed = {
           locator: "COAT: Hair: The body coat should be harsh and dense."
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -552,16 +611,16 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "Lips: Tight-fitting to the jaws. Edges of lips are black."
+          locator: "Lips: Close-fitting to the jaws; black pigment."
         },
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Tight, fully pigmented lips prevent excessive drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -570,15 +629,20 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Fearless, alert, persistent and devoted, sometimes with quick-tempered passion. He is an agreeable family dog in all aspects."
+          locator: "BEHAVIOUR/TEMPERAMENT: Fearless, alert, persistent and devoted, sometimes with quick-tempered passion."
         },
         {
           id: "akc-affenpinscher-breed-standard",
           role: "verified",
-          locator: "Temperament: General demeanor is comical and entertaining. The Affenpinscher is generally quiet, but can become vehemently excited when threatened or attacked, and is fearless toward any aggressor."
+          locator: "Temperament: game, alert, inquisitive, loyal, affectionate, generally quiet, fearless toward any aggressor"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Confident, alert, playful, loyal, courageous"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -588,12 +652,12 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented terrier-like toy temperament, high independence, extreme boldness, and moderate energy."
+        "Editorial 1–5 ratings informed by AKC trait scales and official temperament descriptions."
     },
 
     care: {
@@ -602,12 +666,12 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, and Nutrition guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active toy companion management with intense wire-coat grooming (hand-stripping) and brachycephalic heat-stress precautions."
+        "Practical companion care combining wire-coat upkeep, short positive training sessions, and warm-weather precautions."
     },
 
     "care.exercise.level": {
@@ -616,7 +680,7 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Energy Level (3/5); Exercise Needs (3/5)"
+          locator: "Energy Level: Somewhat Active / moderate daily exercise"
         },
         {
           id: "fci-affenpinscher-official-standard",
@@ -624,7 +688,7 @@ export const affenpinscher: Breed = {
           locator: "UTILIZATION: House and Companion Dog"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -634,12 +698,12 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations for small energetic breeds"
+          locator: "Moderate daily walking and indoor play guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 30 to 45 minutes of daily activity reflects the moderate exercise demands of a sturdy, active toy companion."
+        "Estimated 30 to 45 minutes daily suited to an active small companion."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -648,10 +712,10 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5); small size suited for indoor life"
+          locator: "Compact indoor companion suited to apartment living"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -661,10 +725,10 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Exercise and indoor supervision recommendations"
+          locator: "Supervised outdoor play and secure fencing recommendations"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -672,17 +736,17 @@ export const affenpinscher: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-affenpinscher-official-standard",
-          role: "verified",
-          locator: "COAT: Harsh, dense double coat provides some insulation"
-        },
-        {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: extremely sensitive to heat due to shortened face; must be kept cool"
+          locator: "Health: shorter-faced breed can experience breathing difficulty in hot weather if permitted to overheat"
+        },
+        {
+          id: "fci-affenpinscher-official-standard",
+          role: "verified",
+          locator: "COAT: Harsh, dense body coat"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -692,7 +756,7 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; deeply attached to its family"
+          locator: "Loyal household companion temperament"
         }
       ],
       verifiedOn: null,
@@ -705,12 +769,11 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for toy breeds, strict portion control"
+          locator: "Nutrition: age-appropriate complete dog food and weight monitoring"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for toy breeds highly prone to obesity and joint stress."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -719,30 +782,30 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Small-breed life-stage feeding guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for toy breeds to prevent hypoglycemia."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-affenpinscher-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Eye Examination, Patellar Luxation"
-        },
-        {
           id: "aca-affenpinscher-health",
           role: "verified",
-          locator: "Health Testing: Patellas, Hearts, Eyes, Legg-Calve-Perthes"
+          locator: "ACA Official Health Statement: CHIC Eye and Patella testing, optional hip/elbow/Legg-Calve-Perthes/heart testing, and no known breed-unique inherited malfunction"
+        },
+        {
+          id: "akc-affenpinscher-breed-profile",
+          role: "verified",
+          locator: "Health: generally healthy; screen for luxating patella, heart anomalies, vision problems, hip dysplasia; heat sensitivity"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesizes parent club veterinary health records, national health registry screening protocols, and toy breed clinical data."
+        "Reflects parent club health statement and distinguishes core screening targets from optional checks and broader toy-breed risks."
     },
 
     "health.commonConditions": {
@@ -751,17 +814,26 @@ export const affenpinscher: Breed = {
         {
           id: "aca-affenpinscher-health",
           role: "verified",
-          locator: "Patellar Luxation, Legg-Calve-Perthes, Cardiac issues, Vision issues"
+          locator: "Eyes, patellas, hips, elbows, Legg-Calve-Perthes, and heart evaluations"
         },
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Hernias, Dental disease, BOAS (breathing difficulties in heat)"
+          locator: "Luxating patella, heart anomalies, vision problems, hip dysplasia, hot-weather breathing difficulty"
+        },
+        {
+          id: "ofa-legg-calve-perthes",
+          role: "verified",
+          locator: "Legg-Calve-Perthes disease in miniature and toy breeds"
+        },
+        {
+          id: "pmc-affenpinscher-craniometric-2017",
+          role: "verified",
+          locator: "Craniometric analysis of brachycephalic hindbrain and Chiari-like malformation / syringomyelia risk factors including Affenpinscher"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
@@ -770,16 +842,16 @@ export const affenpinscher: Breed = {
         {
           id: "aca-affenpinscher-health",
           role: "cited",
-          locator: "Routine care, eye protection, joint management, heat avoidance"
+          locator: "Pre-breeding health screening and puppy-buyer verification"
         },
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Harness usage, dental hygiene, and strict weight control"
+          locator: "Heat avoidance, weight management, and routine veterinary care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to shortened-muzzle toy breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
@@ -788,17 +860,17 @@ export const affenpinscher: Breed = {
         {
           id: "ofa-affenpinscher-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: CAER Eye examination, Clinical Patellar Luxation"
+          locator: "CHIC requirements for Affenpinscher (AF): Patella Evaluation and Ophthalmologist Evaluation"
         },
         {
           id: "aca-affenpinscher-health",
           role: "verified",
-          locator: "Recommended health testing: Cardiac, Legg-Calve-Perthes"
+          locator: "Required CHIC tests (eyes and patellas) plus optional OFA hip, elbow, Legg-Calve-Perthes, and heart evaluations"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Matches the official Affenpinscher Club of America health statement and AKC Toy Group health-testing directory."
     },
 
     "health.dentalCare": {
@@ -807,16 +879,16 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: Lower jaw protrudes beyond the upper jaw and is turned slightly upward. The teeth should be set as straight as possible in a full row."
+          locator: "Jaws/teeth: slightly undershot lower jaw"
         },
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Routine dental care and early periodontal disease risk in short muzzles"
+          locator: "Small-breed dental hygiene"
         }
       ],
       verifiedOn: null,
-      note: "Strict home dental hygiene guidelines for a breed highly prone to periodontal disease."
+      note: null
     },
 
     "health.earCare": {
@@ -825,16 +897,16 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "cited",
-          locator: "Ears: Set on high, pointing forward, V-shaped, inner edges lying close to the head"
+          locator: "EARS: High-set V-shaped drop ears"
         },
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and weekly inspection"
+          locator: "Weekly ear checks and cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -843,16 +915,16 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "cited",
-          locator: "Skin: Tight-fitting over the whole body"
+          locator: "SKIN: Close fitting over the whole body"
         },
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "Wire coat brushing and hand-stripping"
+          locator: "Wire-coat brushing and skin checks"
         }
       ],
       verifiedOn: null,
-      note: "General skin and harsh wire-coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -861,12 +933,12 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, family compatibility, and daily care profile"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, extreme independence, and intolerance for rough child play."
+        "Editorial suitability assessment based on size, moderate exercise needs, bold temperament, and intolerance of rough handling."
     },
 
     funFacts: {
@@ -875,11 +947,21 @@ export const affenpinscher: Breed = {
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Monkey Terrier translation, Diablotin Moustachu nickname, Banana Joe 2013 Best in Show, Schnauzer/Griffon foundation"
+          locator: "German 'monkey dog' translation, 'Diablotin Moustachu' nickname, Brussels Griffon/Miniature Schnauzer ties, 1600s ratter heritage"
+        },
+        {
+          id: "akc-affenpinscher-breed-standard",
+          role: "verified",
+          locator: "GAIT: comic seriousness"
+        },
+        {
+          id: "fci-affenpinscher-official-standard",
+          role: "verified",
+          locator: "WEIGHT: appr. 4 to 6 kg"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Verified historical folklore and foundation facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -888,24 +970,24 @@ export const affenpinscher: Breed = {
         {
           id: "fci-affenpinscher-official-standard",
           role: "verified",
-          locator: "Origin, height (25-30 cm), weight (4-6 kg), coat, and colors"
+          locator: "Origin, height (25-30 cm), weight (4-6 kg), coat"
         },
         {
           id: "akc-affenpinscher-breed-profile",
           role: "verified",
-          locator: "Lifespan (12-15 years), apartment living, housebreaking difficulty, child suitability, and grooming"
+          locator: "Lifespan (12-15 years), apartment suitability, training, child suitability, and grooming"
         },
         {
           id: "aca-affenpinscher-health",
           role: "verified",
-          locator: "Main health concerns (Patellas, BOAS) and recommended health screening panel"
+          locator: "Primary health screening focus (patellas, eyes, hips, heart)"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and veterinary data without naming registries in prose."
+        "Synthesized in original wording without naming registries or source organizations."
     }
   },
 
-  updatedOn: "2026-11-16"
+  updatedOn: "2026-11-26"
 };

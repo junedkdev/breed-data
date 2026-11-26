@@ -17740,164 +17740,144 @@ export const sources = defineSources({
     note: "Photograph (1280 x 1202 px) of a fawn Pekingese by Dirk (originally posted to Flickr as Bailey; captured 2007-11-22, uploaded by Flickr upload bot 2008-10-21). Licensed under CC BY 2.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-affenpinscher-official-standard": {
+"fci-affenpinscher-official-standard": {
     id: "fci-affenpinscher-official-standard",
     name: "FCI - Affenpinscher Official Breed Standard No. 186",
     url: "https://www.fci.be/Nomenclature/Standards/186g02-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2009-09-02",
-    accessedOn: "2026-11-16",
-    note: "Official English FCI Standard No. 186 (valid standard dated 2007-03-06, published 2009-09-02). Covers German origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 1.1 Pinschers classification without working trial, monkey-like expression, pure black harsh wire coat, and withers height (25-30 cm).",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 186 (valid standard dated 2009-03-26, English PDF published 2009-09-02). Covers German origin, Group 2 Section 1.1 Pinschers without working trial, monkey-like expression, pure black harsh wire coat with black undercoat, height 25-30 cm, and weight approx. 4-6 kg.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-affenpinscher-nomenclature": {
+"fci-affenpinscher-nomenclature": {
     id: "fci-affenpinscher-nomenclature",
     name: "FCI - Affenpinscher Breed Nomenclature (No. 186)",
     url: "https://www.fci.be/en/nomenclature/AFFENPINSCHER-186.html",
     type: "official_breed_standard",
     publishedOn: "2009-09-02",
-    accessedOn: "2026-11-16",
-    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 1.1 classification without working trial, definitive recognition date (1955-07-15), and official multilingual name (Affenpinscher).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 1 Subsection Pinscher without working trial, definitive recognition date (1955-07-15), and valid standard date (2009-03-26).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-affenpinscher-breed-standard": {
+"akc-affenpinscher-breed-standard": {
     id: "akc-affenpinscher-breed-standard",
     name: "American Kennel Club - Official Standard of the Affenpinscher",
     url: "https://images.akc.org/pdf/breeds/standards/Affenpinscher.pdf",
     type: "official_breed_standard",
     publishedOn: "2000-01-12",
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed standard (Toy Group, effective January 12, 2000) establishing square toy proportions, harsh wiry coat, monkey-like facial expression, slightly undershot bite, and comical but fearless terrier temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Toy Group) establishing preferred height (9.5 to 11.5 inches), square proportions, harsh wiry coat, acceptable colors (black, gray, silver, red, black and tan, or belge), slightly undershot bite, and game, alert temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-affenpinscher-breed-profile": {
+"akc-affenpinscher-breed-profile": {
     id: "akc-affenpinscher-breed-profile",
     name: "American Kennel Club - Affenpinscher Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/affenpinscher/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed profile covering German ratter history, 'Monkey Dog' / 'Diablotin Moustachu' nicknames, weight (7-10 lbs), lifespan (12-15 years), apartment adaptability, temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering 17th-century German ratter history, height (9-11.5 inches), weight (7-10 pounds), lifespan (12-15 years), temperament, training, grooming, and health screening overview.",
     publisher: "American Kennel Club"
   },
-  "aca-affenpinscher-health": {
+"aca-affenpinscher-health": {
     id: "aca-affenpinscher-health",
-    name: "Affenpinscher Club of America - Health and CHIC Information",
-    url: "https://www.affenpinscher.org/health.html",
+    name: "Affenpinscher Club of America - Official Breed Club Health Statement",
+    url: "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/21143127/Affenpinscher_health-statement_2017.pdf",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official national parent club health portal documenting structural health risks including Patellar Luxation, Legg-Calve-Perthes, Cardiac anomalies, and mandatory CHIC pre-breeding screenings.",
+    accessedOn: "2026-11-26",
+    note: "Official Affenpinscher Club of America health statement hosted by AKC, specifying CHIC required tests (eyes and OFA patellas), optional breeder evaluations (hips, elbows, Legg-Calve-Perthes, and heart), and noting no known breed-specific genetic malfunction.",
     publisher: "Affenpinscher Club of America"
   },
-  "ofa-affenpinscher-chic-requirements": {
+"ofa-affenpinscher-chic-requirements": {
     id: "ofa-affenpinscher-chic-requirements",
     name: "Orthopedic Foundation for Animals - Affenpinscher CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=AF",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Affenpinscher, mandating CAER Eye examination and Clinical Patellar Luxation evaluation.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Affenpinscher (AF): Patella Evaluation and Ophthalmologist Evaluation.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-affenpinscher-01-ernst-vikne": {
-    id: "wikimedia-affenpinscher-01-ernst-vikne",
-    name: "Wikimedia Commons - File:Affenpinscher 01.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Affenpinscher_01.jpg",
-    type: "other",
-    publishedOn: "2008-01-26",
-    accessedOn: "2026-11-16",
-    note: "High-resolution photograph (1779 x 1419 px) of an adult black Affenpinscher standing outdoors by Ernst Vikne (captured 2007-08-11, uploaded by Flickr upload bot 2008-01-26). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
-  },
-  "wikimedia-affenpinscher-lilly-m": {
-    id: "wikimedia-affenpinscher-lilly-m",
-    name: "Wikimedia Commons - File:Affenpinscher.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Affenpinscher.jpg",
-    type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-16",
-    note: "High-resolution photograph (2592 x 1944 px) featuring a close-up of a black Affenpinscher's monkey-like face by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
-  },
-  "fci-dachshund-official-standard": {
+"fci-dachshund-official-standard": {
     id: "fci-dachshund-official-standard",
     name: "FCI - Dachshund Official Breed Standard No. 148",
     url: "https://www.fci.be/Nomenclature/Standards/148g04-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2022-03-14",
-    accessedOn: "2026-11-16",
-    note: "Official English FCI Standard No. 148 (valid standard dated 2021-05-25, published 2022-03-14). Covers German origin, Group 4 Dachshunds classification with working trial, low-to-ground elongated build, three coat varieties, and classification by chest circumference rather than fixed weight limits.",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 148 (published 2022-03-14). Covers German origin, Group 4 Dachshunds with working trial, elongated low-to-ground build, Smooth-haired, Wire-haired, and Long-haired varieties, color patterns (including Dapple/Merle and Brindle), and classification by chest circumference.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-dachshund-nomenclature": {
+"fci-dachshund-nomenclature": {
     id: "fci-dachshund-nomenclature",
     name: "FCI - Dachshund Breed Nomenclature (No. 148)",
     url: "https://www.fci.be/en/nomenclature/DACHSHUND-148.html",
     type: "official_breed_standard",
     publishedOn: "2022-03-14",
-    accessedOn: "2026-11-16",
-    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 4 classification with working trial, definitive recognition date (1955-01-01), and official multilingual names (Dachshund, Dackel, Teckel).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 4 classification with working trial, definitive recognition, English/French/German names (Dachshund, Teckel), and standard publication date (2022-03-14).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-dachshund-breed-standard": {
+"akc-dachshund-breed-standard": {
     id: "akc-dachshund-breed-standard",
     name: "American Kennel Club - Official Standard of the Dachshund",
     url: "https://images.akc.org/pdf/breeds/standards/Official_Standard_Dachshund.pdf",
     type: "official_breed_standard",
     publishedOn: "2018-01-01",
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed standard (Hound Group) establishing weight limits (Standard usually 16 to 32 pounds; Miniature 11 pounds and under), elongated conformation, robust muscular development, and fearless hunting temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Hound Group) establishing weight bands (standard usually 16 to 32 pounds; miniature 11 pounds and under), three coat varieties, accepted colors/patterns (including wild boar, dapple, brindle, piebald), and disqualifications.",
     publisher: "American Kennel Club"
   },
-  "akc-dachshund-breed-profile": {
+"akc-dachshund-breed-profile": {
     id: "akc-dachshund-breed-profile",
     name: "American Kennel Club - Dachshund Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/dachshund/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed profile covering German badger-hunting history, weight (11-32 lbs), height (5-9 inches overall), lifespan (12-16 years), apartment adaptability, temperament, IVDD precautions, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering German badger-hunting history, height (8-9 in standard, 5-6 in miniature), weight (16-32 lb standard, 11 lb & under miniature), lifespan (12-16 years), recommended health tests (Patella, Cardiac, Ophthalmologist), grooming, and back-care guidance.",
     publisher: "American Kennel Club"
   },
-  "dca-health-statement": {
+"dca-health-statement": {
     id: "dca-health-statement",
-    name: "Dachshund Club of America - Health Statement and Guidelines",
+    name: "Dachshund Club of America - Official Health Statement",
     url: "https://www.akc.org/wp-content/uploads/2022/08/Dachshunds-Health-Statemnt-rev-May-2022.pdf",
     type: "breed_club",
     publishedOn: "2022-05-18",
-    accessedOn: "2026-11-16",
-    note: "Official national parent club health portal documenting structural health risks including IVDD, Patellar Luxation, CAER Eye examinations (PRA), Cardiac auscultation, and mandatory CHIC pre-breeding screenings.",
+    accessedOn: "2026-11-26",
+    note: "Official Dachshund Club of America Health Statement (revised May 2022) specifying CHIC screening protocols (Patella evaluation at 12+ months, ACVO/CAER eye exam within 2 years prior to breeding, Basic Cardiac exam at 12+ months and within 2 years prior to breeding) and breeder consideration of Lafora disease, IVDD, and PRA.",
     publisher: "Dachshund Club of America"
   },
- "ofa-dachshund-chic-requirements": {
+"ofa-dachshund-chic-requirements": {
     id: "ofa-dachshund-chic-requirements",
     name: "Orthopedic Foundation for Animals - Dachshund CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=DH",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Dachshund, mandating CAER Eye examination, Clinical Patellar Luxation evaluation, and Basic Cardiac examination.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Dachshund (DH): Patella Evaluation, Cardiac Exam, and Ophthalmologist Evaluation.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-dachshund-wire-haired-lilly-m": {
+"wikimedia-dachshund-wire-haired-lilly-m": {
     id: "wikimedia-dachshund-wire-haired-lilly-m",
     name: "Wikimedia Commons - File:Wire-haired Dachshund R 01.JPG",
     url: "https://commons.wikimedia.org/wiki/File:Wire-haired_Dachshund_R_01.JPG",
     type: "other",
     publishedOn: "2007-06-27",
-    accessedOn: "2026-11-16",
-    note: "High-resolution photograph (2592 x 1814 px) of an adult wire-haired Dachshund standing outdoors by Lilly M (captured 2007-06-10, uploaded 2007-06-27). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "High-resolution portrait photograph (1814 x 2592 px) of a wire-haired Dachshund by Lilly M (Małgorzata Miłaszewska; captured 2007-06-10, uploaded 2007-06-27). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-dachshund-smooth-coated-kmoney56": {
+"wikimedia-dachshund-smooth-coated-kmoney56": {
     id: "wikimedia-dachshund-smooth-coated-kmoney56",
     name: "Wikimedia Commons - File:Dachshund smooth-coated Dachshund.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Dachshund_smooth-coated_Dachshund.jpg",
     type: "other",
-    publishedOn: "2007-02-27",
-    accessedOn: "2026-11-16",
-    note: "Photograph (1280 x 851 px) featuring a smooth-coated brown Dachshund sitting on grass by kmoney56 (captured 2007-02-04, uploaded by Pharaoh Hound 2007-02-27). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
+    publishedOn: "2007-05-20",
+    accessedOn: "2026-11-26",
+    note: "Photograph (1280 x 851 px) of a smooth-coated brown Dachshund by kmoney56 (originally posted to Flickr as Franklin; captured 2007-02-04, uploaded by Pharaoh Hound 2007-05-20). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
   "fci-schnauzer-official-standard": {
@@ -25306,6 +25286,336 @@ export const sources = defineSources({
     accessedOn: "2026-11-26",
     note: "High-resolution photograph (1316 x 1206 px) of an adult orange-and-white male Ariège Pointer outdoors by Canarian (EXIF capture date 2020-01-25 on Sony DSLR-A350, uploaded 2020-01-27). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
+  },
+  "ofa-legg-calve-perthes": {
+    id: "ofa-legg-calve-perthes",
+    name: "Orthopedic Foundation for Animals - Legg-Calve-Perthes Disease",
+    url: "https://ofa.org/diseases/other-phenotypic-evaluations/legg-calve-perthes/",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "OFA veterinary disease overview of Legg-Calve-Perthes disease (avascular necrosis of the femoral head) in miniature and toy breeds.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "pmc-affenpinscher-craniometric-2017": {
+    id: "pmc-affenpinscher-craniometric-2017",
+    name: "Craniometric Analysis of the Hindbrain and Craniocervical Junction in Toy Breeds (PMC)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5266279/",
+    type: "scientific",
+    publishedOn: "2017-01-25",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed craniometric study including the Affenpinscher evaluating brachycephalic cranial conformation and risk factors for Chiari-like malformation and syringomyelia.",
+    publisher: "PubMed Central"
+  },
+  "wikimedia-an-affenpinscher-lori-branham": {
+    id: "wikimedia-an-affenpinscher-lori-branham",
+    name: "Wikimedia Commons - File:An Affenpinscher.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:An_Affenpinscher.jpg",
+    type: "other",
+    publishedOn: "2014-03-02",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (3318 x 2212 px) of a black Affenpinscher by Lori Branham (captured 2009-02-10, uploaded via Flickr upload bot 2014-03-02). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-affenpinscher-breed-futurebreak": {
+    id: "wikimedia-affenpinscher-breed-futurebreak",
+    name: "Wikimedia Commons - File:Affenpinscher breed.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg",
+    type: "other",
+    publishedOn: "2026-07-08",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (3024 x 4032 px) of an adult Affenpinscher by Futurebreak (captured 2023-08-24, uploaded 2026-07-08). Dedicated to the public domain under CC0 1.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-small-munsterlander-official-standard": {
+    id: "fci-small-munsterlander-official-standard",
+    name: "FCI - Kleiner Münsterländer (Small Münsterländer) Official Breed Standard No. 102",
+    url: "https://www.fci.be/Nomenclature/Standards/102g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2019-11-14",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 102 (valid standard dated 2019-09-04, English publication dated 2019-11-14). Covers German origin (1912 Heidewachtelhunde club founding, 1921 Dr. Friedrich Jungklaus first standard), Group 7 Section 1.2 Continental Pointing Dogs (Spaniel type) classification with working trial, versatile hunting utilization, 1:1 skull-to-muzzle ratio, elbow-to-ground ~ elbow-to-withers, solid brown nose, short tight brown lips, 42-tooth scissor bite (+/- 2 P1 permissible), 110° shoulder angle, dense medium water-repellent coat, brown-and-white / brown roan coloration with permissible 'Jungklaus' tan markings, disqualifications (ectropion, entropion, distichiasis, >4 cm height deviation), and withers height (dogs 54 cm, bitches 52 cm, +/- 2 cm within standard). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-small-munsterlander-nomenclature": {
+    id: "fci-small-munsterlander-nomenclature",
+    name: "FCI - Kleiner Münsterländer Breed Nomenclature (No. 102)",
+    url: "https://www.fci.be/en/nomenclature/KLEINER-MUNSTERLANDER-102.html",
+    type: "official_breed_standard",
+    publishedOn: "2019-11-14",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 7 Section 1.2 Continental Pointing Dogs (Spaniel type) classification with working trial, definitive acceptance date (1955-02-14), English standard publication date (2019-11-14), and official multilingual names (Kleiner Münsterländer, Petit Epagneul de Münster).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "vklm-zuchtordnung-2019": {
+    id: "vklm-zuchtordnung-2019",
+    name: "Verband für Kleine Münsterländer e.V. (KlM) - Zuchtordnung (Stand 01.07.2019)",
+    url: "https://kleine-muensterlaender.org/media/2019/06/ZO-komplett-mit-Anh%C3%A4ngen-Stand-01.07.2019.pdf",
+    type: "breed_club",
+    publishedOn: "2019-07-01",
+    accessedOn: "2026-11-26",
+    note: "Official German parent breed club (Verband für Kleine Münsterländer e.V.) breeding regulations effective 1 July 2019 establishing versatile hunting breeding goals, official abbreviation 'KlM', minimum form/coat evaluation over 15 months, hip dysplasia (HD) radiographic screening above 12 months, central puppy/health tracking, mandatory reporting of hereditary disease symptoms, and breeding exclusion of dogs exhibiting hereditary disorders.",
+    publisher: "Verband für Kleine Münsterländer e.V."
+  },
+  "klm-international-minutes-2019": {
+    id: "klm-international-minutes-2019",
+    name: "Verband Kleine Münsterländer International (KlM-I) e.V. - Executive Board Minutes (September 2019)",
+    url: "https://klm-international.info/media/2019/12/Minutes-KlM-I-Executive-Board-September-2019.pdf",
+    type: "breed_club",
+    publishedOn: "2019-10-29",
+    accessedOn: "2026-11-26",
+    note: "Official international parent breed club (KlM-I) Executive Board summary (meeting 19 September 2019, published 29 October 2019) affirming versatile before-and-after-the-shot hunting standards and documenting Germany's ongoing Ectopic Ureter Project in Kleiner Münsterländer.",
+    publisher: "Verband Kleine Münsterländer International e.V."
+  },
+  "rkc-small-munsterlander-breed-standard": {
+    id: "rkc-small-munsterlander-breed-standard",
+    name: "The Royal Kennel Club - Small Munsterlander (Imp) Interim Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/gundog/small-munsterlander-imp/",
+    type: "official_breed_standard",
+    publishedOn: "2026-08-01",
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club interim breed standard (Gundog Group, published August 1, 2026; breed on Imported Breed Register since 2005) confirming 1870 North German Munsterland documentation, 1921 Dr. Friedrich Jungklaus standard, 11:10 body length-to-height ratio, brown-and-white / brown roan coloration with white tail tip and permissible tan markings, and size (dogs 52-56 cm, bitches 50-54 cm). Omits weight.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-small-munsterlander-breed-profile": {
+    id: "rkc-small-munsterlander-breed-profile",
+    name: "The Royal Kennel Club - Small Munsterlander (Imp) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/gundog/small-munsterlander-imp/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming medium size, country lifestyle, small house and small/medium garden suitability, up to 1 hour daily baseline exercise, weekly grooming, Sheds Yes, Brown & White and Brown Roan standard colours, and Breed Watch Category 1 status.",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-small-munsterlander-breed-profile": {
+    id: "akc-small-munsterlander-breed-profile",
+    name: "American Kennel Club - Small Munsterlander Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/small-munsterlander/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Miscellaneous Class; parent club Small Munsterlander Club of America) documenting intelligent/devoted/self-confident character, height (20.5-21 inches), weight (40-60 pounds), life expectancy (12-14 years), moderate shedding, eager-to-please trainability, only-to-alert barking, slow mental maturation to ~2 years of age, outdoor supervision to prevent wandering/self-hunting, and national breed club recommended Hip and Elbow Certification.",
+    publisher: "American Kennel Club"
+  },
+  "skk-kleiner-munsterlander-profile": {
+    id: "skk-kleiner-munsterlander-profile",
+    name: "Svenska Kennelklubben (SKK) - Kleiner münsterländer Rasprofil",
+    url: "https://www.skk.se/hundraser/kleiner-munsterlander/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile confirming Münsterland origin, 1960s Swedish arrival, height (approx. 54 cm males, 52 cm females), winter paw-fur trimming, easy brushing, social family/dog nature with mild stubbornness, unsuitability solely as a companion dog, and health note confirming robust health with hip dysplasia (HD) occurring.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "skk-kleiner-munsterlander-ras-2024": {
+    id: "skk-kleiner-munsterlander-ras-2024",
+    name: "Svenska Vorstehklubben / SKK - Rasspecifik avelsstrategi (RAS) Kleiner Münsterländer",
+    url: "https://www.skk.se/contentassets/b7826503260f4a80bea7b17e29a2afef/ras-kleiner-munsterlander.pdf?timestamp=20240125125712",
+    type: "breed_club",
+    publishedOn: "2024-01-25",
+    accessedOn: "2026-11-26",
+    note: "Official Swedish breed-specific breeding strategy (RAS, published via SKK, timestamp 2024-01-25) documenting mandatory pre-breeding HD screening (goal >=50% litter HD X-rayed, no HD E), growing ED radiographic monitoring, and low-frequency occurrences of food/mite allergies (typically onset <3 yr), hypothyroidism (typically onset 2-3 yr or late-onset >8 yr), ectopic ureter, and epilepsy—all strictly excluded from breeding.",
+    publisher: "Svenska Vorstehklubben / Svenska Kennelklubben"
+  },
+  "scc-petit-epagneul-de-munster-profile": {
+    id: "scc-petit-epagneul-de-munster-profile",
+    name: "Société Centrale Canine (SCC) - Petit épagneul de Münster (Petit Münsterländer)",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/petit-epagneul-de-munster",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile for Petit épagneul de Münster (Kleiner Münsterländer) confirming German origin, continental spaniel-type pointing versatility, height (54 cm males, 52 cm females, +/- 2 cm), and attentive family-friendly character.",
+    publisher: "Société Centrale Canine"
+  },
+  "pmc-sweden-hd-ed-2026-13261803": {
+    id: "pmc-sweden-hd-ed-2026-13261803",
+    name: "Prevalence of hip and elbow dysplasia in young adult dogs in Sweden (2026)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13261803/",
+    type: "scientific",
+    publishedOn: "2026-01-04",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed Swedish radiographic epidemiological study (published January 4, 2026, PMID 41485113, PMC13261803) reporting hip dysplasia screening outcomes across 441 young adult Kleiner Münsterländers in Sweden: 355 (80.5%) graded normal and 57 (12.9%) graded mild dysplasia (screened cohort).",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "pmc-body-weight-heritability-10276637": {
+    id: "pmc-body-weight-heritability-10276637",
+    name: "Heritability and genetic trend of body weight in dogs of different breeds (PMC10276637)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10276637/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed quantitative genetics study (PMC10276637) estimating body weight heritability alongside hip dysplasia screening records across purebred dogs, reporting a body-weight heritability of 0.34 for the Kleiner Münsterländer.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "wikimedia-kleiner-munsterlander-4028mdk09": {
+    id: "wikimedia-kleiner-munsterlander-4028mdk09",
+    name: "Wikimedia Commons - File:Kleiner Münsterländer.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Kleiner_M%C3%BCnsterl%C3%A4nder.jpg",
+    type: "other",
+    publishedOn: "2009-10-10",
+    accessedOn: "2026-11-26",
+    note: "Photograph (924 x 552 px) of an adult Small Münsterländer (Kleiner Münsterländer) outdoors by 4028mdk09 (captured 2009-10-09, uploaded 2009-10-10, colour-cleaned 2017-04-23). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-kleiner-munsterlander-2-canarian": {
+    id: "wikimedia-kleiner-munsterlander-2-canarian",
+    name: "Wikimedia Commons - File:Kleiner Münsterländer aka Small Munsterlander 2.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Kleiner_M%C3%BCnsterl%C3%A4nder_aka_Small_Munsterlander_2.JPG",
+    type: "other",
+    publishedOn: "2014-06-01",
+    accessedOn: "2026-11-26",
+    note: "Photograph (744 x 527 px) of an adult brown-and-white male Small Münsterländer standing outdoors by Canarian (EXIF capture date 2013-06-29 on Sony DSLR-A350, uploaded 2014-06-01). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "akc-american-foxhound-official-standard": {
+    id: "akc-american-foxhound-official-standard",
+    name: "American Kennel Club - Official Standard for the American Foxhound",
+    url: "https://images.akc.org/pdf/breeds/standards/AmericanFoxhound.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-03-01",
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin AKC breed standard (Hound Group; approved January 11, 2011, effective March 1, 2011). Establishes withers height (dogs 23 to 28 inches, bitches 21 to 26 inches), fairly long slightly domed head, moderately low long fine broad ears reaching nearly to nose tip, 3-inch springy flank, straight well-boned forelegs, foxlike compact feet, gaily carried tail with slight brush, close hard medium-length hound coat, and any-colour allowance. Omits weight.",
+    publisher: "American Kennel Club"
+  },
+  "akc-american-foxhound-breed-profile": {
+    id: "akc-american-foxhound-breed-profile",
+    name: "American Kennel Club - American Foxhound Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/american-foxhound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile documenting 1886 AKC recognition, Virginia heritage, weight (65-70 pounds male, 60-65 pounds female), life expectancy (11-13 years), independent/easy-going/sweet-tempered character, friendliness with children, dogs, and cats, 1 to 2 hours of daily exercise, strict on-leash advice, weekly brushing, drop-ear care, and breed health considerations including hip dysplasia and thrombocytopathy. (Summary box still displays older 22-25 / 21-24 in height figures).",
+    publisher: "American Kennel Club"
+  },
+  "akc-hound-group-health-testing": {
+    id: "akc-hound-group-health-testing",
+    name: "American Kennel Club - Hound Group Health Testing Requirements (American Foxhound)",
+    url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/hound-group-health-testing-requirements/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC Bred with H.E.A.R.T. Hound Group registry table confirming that the national breed club currently lists no mandatory recommended health tests for the American Foxhound.",
+    publisher: "American Kennel Club"
+  },
+  "akc-george-washington-foxhounds-2020": {
+    id: "akc-george-washington-foxhounds-2020",
+    name: "American Kennel Club - By George: A Founding Father and His American Foxhounds (2020)",
+    url: "https://www.akc.org/expert-advice/dog-breeds/by-george-washington-american-foxhounds/",
+    type: "kennel_club",
+    publishedOn: "2020-05-26",
+    accessedOn: "2026-11-26",
+    note: "Published AKC historical article (May 26, 2020) documenting Robert Brooke's 1650 arrival in Maryland with British hounds and George Washington's Mount Vernon breeding program crossing colonial hounds with French staghounds gifted by the Marquis de Lafayette (1785) and Irish hounds.",
+    publisher: "American Kennel Club"
+  },
+  "akc-state-dogs-virginia-2021": {
+    id: "akc-state-dogs-virginia-2021",
+    name: "American Kennel Club - Celebrate the 4th with 5 State Dogs (Virginia: American Foxhound, 2021)",
+    url: "https://www.akc.org/expert-advice/lifestyle/5-state-dogs/",
+    type: "kennel_club",
+    publishedOn: "2021-04-20",
+    accessedOn: "2026-11-26",
+    note: "Published AKC feature (April 20, 2021) confirming 1886 AKC recognition and Virginia's 1966 statutory designation of the American Foxhound as its official State Dog.",
+    publisher: "American Kennel Club"
+  },
+  "fci-american-foxhound-official-standard": {
+    id: "fci-american-foxhound-official-standard",
+    name: "FCI - American Foxhound Official Breed Standard No. 303",
+    url: "https://www.fci.be/Nomenclature/Standards/303g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1998-03-05",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 303 (valid standard dated 1979-11-02, English publication dated 1998-03-05). Covers US origin, Group 6 Section 1.1 Large-sized Hounds classification with working trial, large soft pleading brown/hazel eyes, clean throat free of dewlap, chest narrower in proportion to depth than English Foxhound (28 in girth in a 23 in hound; 3 in flank), close hard medium-length coat in any colour, and earlier withers height bounds (dogs 22-25 in / 56-63.5 cm, bitches 21-24 in / 53-61 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-american-foxhound-nomenclature": {
+    id: "fci-american-foxhound-nomenclature",
+    name: "FCI - American Foxhound Breed Nomenclature (No. 303)",
+    url: "https://www.fci.be/en/nomenclature/AMERICAN-FOXHOUND-303.html",
+    type: "official_breed_standard",
+    publishedOn: "1998-03-05",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming the United States as country of origin, Group 6 Section 1.1 Large-sized Hounds classification with working trial, definitive acceptance date (1979-11-02), standard publication date (1998-03-05), and official multilingual name (American Foxhound).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "skk-american-foxhound-profile": {
+    id: "skk-american-foxhound-profile",
+    name: "Svenska Kennelklubben (SKK) - American foxhound Rasprofil",
+    url: "https://www.skk.se/hundraser/american-foxhound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile confirming US origin from British foxhounds, driving hunting dog unsuited solely as a companion pet, short hard easy-care coat over softer undercoat, barking/howling trailing voice, family friendliness with children and other dogs, stubborn streak, high exercise needs, and note that very few Swedish individuals prevent national breed health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-foxhound-americain-profile": {
+    id: "scc-foxhound-americain-profile",
+    name: "Société Centrale Canine (SCC) - Foxhound américain",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/foxhound-americain",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile for Foxhound américain confirming Robert Brooke's ~1650 hound imports, English/French/Irish ancestry, faster lighter build and keen nose compared with English Foxhound, musical singing voice ('voix chantante'), and approximate unsexed weight (~30 kg).",
+    publisher: "Société Centrale Canine"
+  },
+  "pmc-boggiatto-2011-foxhound-leishmania": {
+    id: "pmc-boggiatto-2011-foxhound-leishmania",
+    name: "Transplacental Transmission of Leishmania infantum as a Means for Continued Disease Incidence in North America (PLOS Neglected Tropical Diseases 2011)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3075227/",
+    type: "scientific",
+    publishedOn: "2011-04-12",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study by Boggiatto, Gibson-Corley, Metz, Gallup, Hostetter, Mullin, and Petersen (PLoS Negl Trop Dis 2011 Apr 12;5(4):e1019, PMC3075227) demonstrating transplacental (vertical) transmission of Leishmania infantum in naturally infected US Foxhounds (10 of 12 pups / 83% positive by kqPCR) and documenting ~12% kqPCR incidence in Midwest Foxhound kennels.",
+    publisher: "PLOS Neglected Tropical Diseases / National Library of Medicine (PMC)"
+  },
+  "pmc-mahachi-2021-foxhound-leishmania": {
+    id: "pmc-mahachi-2021-foxhound-leishmania",
+    name: "Demographics and travel history of imported and autochthonous Leishmania infantum-infected dogs in the United States and Canada (JVIM / PMC7995368)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7995368/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed retrospective surveillance study (J Vet Intern Med, PMC7995368) reviewing Leishmania infantum infections across the US and Canada (2006–2019), citing the 2000–2003 Foxhound serosurvey (8.9% seroprevalence) and a 9-year hunting-hound PCR survey averaging 20% prevalence.",
+    publisher: "Journal of Veterinary Internal Medicine / National Library of Medicine (PMC)"
+  },
+  "pubmed-foxhound-pelger-huet-1979": {
+    id: "pubmed-foxhound-pelger-huet-1979",
+    name: "Studies of the Pelger-Huët anomaly in foxhounds (American Journal of Pathology 1979)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/464021/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed haematology and pedigree study (Am J Pathol 1979 Jul;96(1):237-248, PMID 464021) documenting the inherited Pelger-Huët neutrophil nuclear-segmentation anomaly in Foxhounds.",
+    publisher: "American Journal of Pathology / PubMed"
+  },
+  "wikimedia-american-foxhound-canarian": {
+    id: "wikimedia-american-foxhound-canarian",
+    name: "Wikimedia Commons - File:American Foxhound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:American_Foxhound.jpg",
+    type: "other",
+    publishedOn: "2018-01-27",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1787 x 1744 px) of an adult American Foxhound outdoors by Canarian (EXIF capture date 2017-12-09 on Sony DSLR-A350, uploaded 2018-01-27). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-americanfoxhound-peepe": {
+    id: "wikimedia-americanfoxhound-peepe",
+    name: "Wikimedia Commons - File:AmericanFoxhound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:AmericanFoxhound.jpg",
+    type: "other",
+    publishedOn: "2005-12-22",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1932 x 2576 px) of American Foxhound 'Sobe' by User:Peepe (EXIF capture date 2005-10-06 on Kodak Z7590, transferred to Wikimedia Commons by Caronna on 2005-12-22). Released into the public domain by the copyright holder.",
+    publisher: "Wikimedia Commons"
+  },
+  "pmc-dachslife-ivdd-2016": {
+    id: "pmc-dachslife-ivdd-2016",
+    name: "DachsLife 2015: an investigation of lifestyle associations with the risk of intervertebral disc disease in Dachshunds (PMC)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5097381/",
+    type: "scientific",
+    publishedOn: "2016-11-05",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed epidemiological study of 2,031 Dachshunds documenting 15.7% overall IVDD prevalence (ranging from 7.1% in Standard Wire-Haired to 24.4% in Standard Smooth-Haired) and citing an estimated 19-24% lifetime clinical risk.",
+    publisher: "PubMed Central (Canine Genetics and Epidemiology)"
   },
 });
 

@@ -194,10 +194,9 @@
 191:perro_de_presa_canario - CG
 192:belgian_shepherd_dog_(tervuren) - CG
 193:pekingese - CG
+194:affenpinscher - CG
+195:dachshund - CG
 
-194:affenpinscher - CR
-
-195:dachshund - C
 196:standard_schnauzer - C
 197:boston_terrier - C
 198:saarlooswolfhond - C
@@ -271,10 +270,9 @@
 266:pudelpointer - C
 267:miniature_pinscher - C
 268:ariege_pointer - C
+269:munsterlander,_small - C
+270:american_foxhound - C
 
-269:munsterlander,_small - R
-
-270:american_foxhound
 271:chesapeake_bay_retriever
 272:dutch_shepherd_dog
 273:norwegian_lundehund

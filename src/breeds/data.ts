@@ -273,6 +273,8 @@ import { rat_terrier } from "./rat_terrier";
 import { pudelpointer } from "./pudelpointer";
 import { miniature_pinscher } from "./miniature_pinscher";
 import { ariege_pointer } from "./ariege_pointer";
+import { munsterlander_small } from "./munsterlander_small";
+import { american_foxhound } from "./american_foxhound";
 
 
 export const breedData: readonly Breed[] = [
@@ -545,4 +547,6 @@ export const breedData: readonly Breed[] = [
   pudelpointer,
   miniature_pinscher,
   ariege_pointer,
+  munsterlander_small,
+  american_foxhound,
 ];

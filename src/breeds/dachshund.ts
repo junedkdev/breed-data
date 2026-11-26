@@ -8,13 +8,13 @@ export const dachshund: Breed = {
   alternateNames: [
     "Dackel",
     "Teckel",
-    "Weiner Dog",
+    "Doxie",
+    "Wiener Dog",
     "Sausage Dog",
     "Badger Dog"
   ],
 
-  group:
-    "Dachshunds (with working trial; also classified in the Hound group)",
+  group: "Dachshunds and scent hounds",
 
   origin: {
     country: "Germany",
@@ -28,18 +28,18 @@ export const dachshund: Breed = {
         "https://commons.wikimedia.org/wiki/File:Wire-haired_Dachshund_R_01.JPG",
       title: "Wire-haired Dachshund R 01.JPG",
       description:
-        "An adult wire-haired Dachshund standing outdoors, displaying the breed's distinct elongated body, short legs, and harsh, bristly coat.",
+        "Portrait of a wire-haired Dachshund outdoors showing its harsh coat, beard, bushy eyebrows, and alert gaze.",
       creator: "Lilly M",
       uploader: "Lilly M",
       capturedOn: "2007-06-10",
       uploadedOn: "2007-06-27",
-      width: 2592,
-      height: 1814,
+      width: 1814,
+      height: 2592,
       licenseId: "cc-by-sa-3.0",
       attribution:
         "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Wire-haired_Dachshund_R_01.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-16"
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Dachshund_smooth-coated_Dachshund.jpg",
@@ -47,39 +47,39 @@ export const dachshund: Breed = {
         "https://commons.wikimedia.org/wiki/File:Dachshund_smooth-coated_Dachshund.jpg",
       title: "Dachshund smooth-coated Dachshund.jpg",
       description:
-        "A smooth-coated brown Dachshund sitting on grass, highlighting the short, sleek coat and alert expression.",
+        "A brown smooth-coated Dachshund resting on grass, showing its sleek short coat, long ears, and tapered muzzle.",
       creator: "kmoney56",
       uploader: "Pharaoh Hound",
       capturedOn: "2007-02-04",
-      uploadedOn: "2007-02-27",
+      uploadedOn: "2007-05-20",
       width: 1280,
       height: 851,
       licenseId: "cc-by-sa-2.0",
       attribution:
         "Photo by kmoney56, Wikimedia Commons, CC BY-SA 2.0. Source: https://commons.wikimedia.org/wiki/File:Dachshund_smooth-coated_Dachshund.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-16"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "An iconic, short-legged, and long-bodied German hunting dog, celebrated for its fierce determination, cleverness, and unmatched ability to scent and flush out burrow-dwelling badgers.",
+      "A low-slung, long-backed German scent hound bred to pursue badgers and other burrowing game underground, prized today for its bold spirit, cleverness, and affectionate nature.",
 
     description:
-      "The Dachshund is an instantly recognizable, low-to-the-ground hunting hound characterized by a remarkably elongated body and short, powerfully muscled legs. Designed specifically for subterranean work, its unique anatomy allows it to confidently enter narrow tunnels and badger setts with astonishing agility. The breed comes in three distinct coat varieties: smooth (short and gleaming), long-haired (silky and slightly wavy), and wire-haired (harsh, dense, and accompanied by a distinctive beard and eyebrows). The head is elongated and tapers uniformly to the tip of the nose, housing dark, almond-shaped eyes that express a bold, intelligent, and pleasantly energetic spirit. Despite their small stature, Dachshunds possess the fearless heart of a much larger working hound, combining independence and a famously loud bark with deep, comical affection for their families.",
+      "The Dachshund stands apart immediately with its stretched, muscular torso, deep chest, and short, sturdy legs built for digging and navigating tight earth tunnels. It appears in three distinct coat varieties: smooth and glossy, long and silky with feathering, or dense and wiry with a beard and bushy eyebrows. Its long, evenly tapered head carries soft, mobile drop ears and dark, almond-shaped eyes full of curiosity and determination. Even in its smallest form, this hound keeps a fearless working temperament, pairing a remarkably deep voice and independent mind with warm, playful devotion to its household.",
 
     history:
-      "The Dachshund, whose name directly translates from German to 'badger dog', has been carefully cultivated since the Middle Ages. German foresters and hunters required a specialized, low-slung hound capable of digging into burrows to confront ferocious badgers, foxes, and other subterranean prey on their own territory. Early breeding efforts crossed small pointers and terriers with taller, deep-chested hounds to slowly shorten the legs while preserving immense lung capacity, strong jaws, and scenting ability. Over the centuries, the breed was refined into specific sizes and coat types to tackle varying climates and quarry—the wire-haired variety, for example, was developed for harsh, thorny brush, while the miniature varieties were tailored to hunt smaller prey like rabbits. By the late nineteenth century, the breed had secured international acclaim, quickly transitioning from a dedicated forest hunter to one of the world's most enduringly popular and beloved household companions.",
+      "Named directly from the German words for badger and dog, Dachshund-type hounds were already being shaped in Germany by the fifteenth and sixteenth centuries to track, dig into dens, and confront badgers, foxes, and rabbits underground. Breeders gradually selected for short, strong legs, generous chest capacity, and resolute courage while introducing terrier lines for rough, thorn-resistant wire coats and spaniel lines for weather-protective long coats. Smaller varieties emerged to follow rabbits and other narrow-burrow quarry. By the late nineteenth century, the breed had spread well beyond German forests to become one of the most recognizable companion dogs worldwide.",
 
     originalPurpose:
-      "Scenting, tracking, digging, and flushing out badgers, foxes, and rabbits from their subterranean burrows.",
+      "Tracking, digging into dens, and flushing badgers, foxes, and rabbits above and below ground.",
 
     currentRoles: [
-      "Vigilant alarm watchdog",
-      "Earthdog and tracking trial competitor",
-      "Devoted household companion",
-      "Specialized hunting dog (primarily in Europe)"
+      "Affectionate, lively household companion",
+      "Alert, deep-voiced home watchdog",
+      "Participant in earthdog, tracking, and scent-work trials",
+      "Active underground and trailing hunting hound in parts of Europe"
     ]
   },
 
@@ -101,11 +101,11 @@ export const dachshund: Breed = {
     weight: {
       unit: "lb",
       male: {
-        min: 11,
+        min: null,
         max: 32
       },
       female: {
-        min: 11,
+        min: null,
         max: 32
       }
     },
@@ -116,52 +116,48 @@ export const dachshund: Breed = {
     },
 
     coatType:
-      "Varies by variety: Smooth (short, dense, and shining), Long-haired (soft, straight or slightly wavy with feathering), or Wire-haired (dense, harsh, wiry topcoat with a softer undercoat, distinct beard, and bushy eyebrows).",
+      "Three coat varieties: smooth (short, dense, and glossy), long-haired (sleek, slightly wavy, with longer feathering on the ears, underside, legs, and tail), and wire-haired (harsh, dense outer coat with a softer undercoat, beard, and bushy eyebrows).",
 
     coatLength: "Varies",
 
     coatColors: [
-      "Red (from clear red to dark reddish-brown)",
+      "Red (clear red to reddish-brown)",
       "Black and tan",
       "Chocolate and tan",
-      "Wild boar (primarily in wire-haired dogs)",
-      "Dapple (merle pattern with lighter irregular patches)",
-      "Brindle (dark stripes over a solid base color)",
-      "Piebald (white body with patches of solid color, where permitted)"
+      "Wild boar (grizzled banding most common in wire-haired coats)",
+      "Dapple (merle pattern with irregular lighter patches over a dark or red base)",
+      "Brindle (dark striping over a red base)",
+      "Cream",
+      "Piebald (white with solid-colored patches, accepted in some regions)"
     ],
 
     sheddingLevel:
-      "Moderate; shedding varies by coat type, with smooth coats shedding consistently, long coats requiring daily maintenance, and wire coats needing periodic hand-stripping",
+      "Moderate; shedding varies by coat variety, with smooth coats needing simple wipe-downs, long coats requiring regular brushing, and wire coats benefiting from periodic hand-stripping",
 
     droolingLevel:
-      "Low; tightly stretched lips well-covering the lower jaw prevent excess drooling",
+      "Low; taut, well-fitted lips keep drooling minimal",
 
     distinctiveFeatures: [
-      "Exceptionally long, fully muscled trunk supported by very short, robust legs",
-      "Height typically ranges from 5 to 6 inches for miniatures, and 8 to 9 inches for standard sizes",
-      "Weight ranges from 11 pounds and under for miniatures, and usually between 16 and 32 pounds for standard sizes",
-      "Elongated, wedge-shaped head tapering uniformly toward the nose without being overly pointed",
-      "Complete, powerful scissor bite with strongly developed jaw bones",
-      "Medium-sized, almond-shaped eyes with a pleasant, energetic expression",
-      "Ears set high, rounded, mobile, and hanging with the front edge lying close to the cheek",
-      "Long, muscular, clean-cut neck without dewlap, sloping gracefully into the shoulders",
-      "Prominent sternum forming distinct depressions on either side of the deep chest",
-      "Broad, well-muscled croup sinking slightly toward a tail set in continuation of the spine",
-      "Large, tight, and compact front paws featuring a pronounced arch, explicitly adapted for intense digging"
+      "Elongated, muscular body set low on short, sturdy legs with elastic skin",
+      "Two main size bands in North America: full-sized dogs stand about 8 to 9 inches tall and typically weigh 16 to 32 pounds, while miniatures stand 5 to 6 inches tall and weigh 11 pounds and under",
+      "Long, wedge-shaped head tapering smoothly toward the nose with strong jaws and a tight scissor bite",
+      "Medium-sized, oval eyes with an energetic, intelligent expression",
+      "High-set, rounded drop ears whose front edges rest close to the cheeks",
+      "Deep, well-developed chest with a prominent breastbone supporting strong lung capacity",
+      "Compact, arched, broad front paws shaped for digging",
+      "Tail carried cleanly in line with the spine (feathered into a flag on long-haired dogs)"
     ]
   },
 
   temperament: {
     traits: [
-      "Spunky, lively, and determined, possessing a fearless hunting spirit",
-      "Highly intelligent and clever, but famously stubborn when following a scent",
-      "Deeply affectionate and loyal to its primary handler and family",
-      "Alert, watchful, and highly vocal, making an excellent alarm barker",
-      "Independent problem-solver, originally bred to make autonomous decisions underground",
-      "Playful and comical in domestic settings",
-      "Suspicious or aloof toward strangers until properly introduced",
-      "Strong prey drive toward small running animals and rodents",
-      "Possesses a surprisingly deep, loud bark for its small size"
+      "Courageous, spirited, and tenacious with classic scent-hound drive",
+      "Clever and quick-witted, yet famously stubborn once locked onto an interesting smell",
+      "Warmly affectionate, playful, and closely bonded to its family",
+      "Watchful and quick to bark, producing a surprisingly deep voice for its size",
+      "Independent thinker bred to work out problems inside dark burrows alone",
+      "Reserved around unfamiliar visitors until properly introduced",
+      "Strong chasing instinct around rodents and small scurrying animals"
     ],
 
     scores: {
@@ -180,7 +176,7 @@ export const dachshund: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate; requires regular daily activity to build the core and back muscles that support the long spine, while avoiding high-impact vertical jumping",
+        "Moderate; needs steady daily walks to build strong back and core muscles that protect the long spine, without high-impact jumping",
 
       minutesPerDay: {
         min: 30,
@@ -188,11 +184,10 @@ export const dachshund: Breed = {
       },
 
       activities: [
-        "Daily brisk, moderately paced neighborhood walks on a leash",
-        "Interactive scent games, tracking, and nosework",
-        "Earthdog trials and supervised tunneling games",
-        "Short fetch sessions on soft, level ground",
-        "Controlled indoor play avoiding stairs and steep furniture"
+        "Two moderate, brisk daily leash walks on level ground",
+        "Scent-tracking games and indoor nosework puzzles",
+        "Earthdog trials and supervised ground-level play",
+        "Short fetch games on grass or non-slip floors"
       ]
     },
 
@@ -200,34 +195,34 @@ export const dachshund: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush smooth coats weekly using a hound glove; brush long-haired coats daily with a pin brush and metal comb to prevent tangles; brush wire-haired coats several times a week.",
+        "Wipe or brush smooth coats once a week with a rubber mitt; comb long-haired coats several times weekly to prevent mats behind the ears and legs; brush wire-haired coats once or twice weekly.",
 
       bathing:
-        "Bathe every four to six weeks or when soiled, taking care to use appropriate texturizing shampoos for wire-haired varieties.",
+        "Bathe every four to six weeks or as needed; use a mild shampoo suited to the coat type, avoiding softening shampoos on wire coats.",
 
       notes: [
-        "Wire-haired coats require periodic hand-stripping of dead hairs to maintain their harsh, protective texture.",
-        "Check the drop ears weekly for moisture, dirt, or wax accumulation, cleaning gently to prevent infections.",
-        "Trim fast-growing nails every two weeks to maintain correct, compact foot alignment and support the short legs.",
-        "Brush teeth daily with canine enzymatic toothpaste.",
-        "Use a well-fitted body harness rather than a neck collar to protect the neck and spine during walks."
+        "Wire-haired coats look and feel best when dead hair is plucked or hand-stripped a few times a year, with light tidying of the beard and eyebrows.",
+        "Lift and inspect the heavy drop ears every week, cleaning away wax gently to lower ear-infection risk.",
+        "Trim nails every two to four weeks so long claws do not distort foot posture.",
+        "Brush teeth daily to prevent plaque and gum disease.",
+        "Use a supportive chest harness rather than a neck collar to avoid pulling on the neck and spine."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate to challenging; highly intelligent and capable, but fiercely independent, easily distracted by scents, and notoriously stubborn",
+        "Moderate to challenging; bright and food-motivated, yet independent, scent-driven, and sensitive to harsh handling",
 
       tips: [
-        "Use positive reinforcement, patience, and highly motivating treats; they will actively ignore harsh corrections or repetitive drilling.",
-        "Housebreaking can be slow, especially in wet or cold weather; use strict crate training schedules and constant indoor supervision.",
-        "Train them early to accept handling of their paws, as many are sensitive about having their feet touched.",
-        "Implement rules strictly prohibiting jumping on and off high furniture to protect their vulnerable spines.",
-        "Teach a 'quiet' command early to manage their naturally loud and frequent barking."
+        "Use upbeat, reward-based training with small treats; scolding or forceful corrections make this hound shut down or resist.",
+        "Approach house-training with crate routines and patient consistency, as many dislike stepping onto wet or cold grass.",
+        "Teach a reliable 'quiet' cue early to channel its loud watchdog bark.",
+        "Build clear habits around ramps and floor-level lounging so the dog does not leap off beds or sofas.",
+        "Practice gentle paw and ear handling early to keep nail trims and ear checks easy."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, friendly dogs, and novel sounds. Proper socialization ensures their natural alertness does not escalate into sharp reactivity or snappy behavior toward strangers."
+        "Introduce puppies early and calmly to varied people, friendly dogs, and everyday noises so natural alertness stays confident and polite rather than noisy or defensive."
     },
 
     livingEnvironment: {
@@ -236,79 +231,79 @@ export const dachshund: Breed = {
 
       climates: [
         "Temperate climates",
-        "Warm climates, provided adequate shade and fresh water are available",
-        "Cool climates, though smooth-coated varieties lack insulation and require a fitted coat or sweater in freezing weather"
+        "Warm climates with shade and fresh drinking water",
+        "Cool climates, though smooth-coated dogs appreciate a warm coat in freezing weather"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; strongly bonded to its owners and prone to separation anxiety, destructive chewing, or excessive howling if left isolated for long workdays."
+        "Low to moderate; strongly social and people-oriented, often barking or chewing if left alone for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated specifically for small or medium breeds, heavily portion-controlled to prevent obesity.",
+      "Complete, balanced small- or medium-breed dog food portioned carefully to keep body weight lean and protect the spine.",
 
     feedingFrequency: {
       puppy:
         "Three to four measured small meals daily until six months of age.",
       adult:
-        "Two measured meals daily to support steady digestion and energy.",
+        "Two measured meals daily to support steady energy and weight control.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals daily adjusted for lower calorie needs."
     },
 
     guidelines:
-      "Measure daily rations strictly using a digital kitchen scale or standard measuring cup. Obesity is the single greatest threat to this breed, as even minimal excess weight places devastating mechanical stress on their long back and short joints. Do not allow free-feeding, and provide cool, clean drinking water continuously.",
+      "Measure every meal precisely and avoid free-feeding. Extra weight is one of the biggest preventable risks for spinal disc strain in this breed. Keep table scraps rare and fatty foods out of reach, and offer fresh water at all times.",
 
     considerations: [
-      "Maintain a strictly lean, well-muscled body condition; you should easily feel the ribs without pressing hard.",
-      "Account for all training treats within the total daily caloric allowance.",
-      "Monitor closely for sudden weight gain, especially after spaying or neutering.",
-      "Ensure food bowls are placed at a comfortable height that does not require the dog to strain its neck downward."
+      "Keep a lean waistline with ribs easy to feel beneath a light cover.",
+      "Count every training treat toward the daily calorie allowance.",
+      "Watch closely for gradual weight gain after spaying or neutering.",
+      "Store food securely, as a determined nose will quickly track down unattended snacks."
     ],
 
     note:
-      "Caloric needs vary significantly based on age, metabolism, and daily activity. Consult a veterinarian to establish strictly tailored daily feeding guidelines."
+      "Work with a veterinarian to tailor daily portions to your dog's size variety, age, and activity level."
   },
 
   health: {
     overview:
-      "The Dachshund is a generally robust and long-lived breed with a typical lifespan of 12 to 16 years. However, its unique chondrodysplastic anatomy (short legs and a long back) makes it highly susceptible to spinal injuries. Primary health priorities focus on lifelong weight management and preventing Intervertebral Disc Disease (IVDD), as well as screening for patellar luxation, cardiac conditions, and hereditary eye anomalies like Progressive Retinal Atrophy (PRA).",
+      "Many Dachshunds live 12 to 16 years with attentive care, yet their chondrodystrophic build (short legs and an elongated spine) gives the breed the highest documented lifetime risk of intervertebral disc disease (IVDD) among dogs. Keeping body weight lean, building steady core muscle through moderate walking, avoiding repeated jumping, and screening breeding stock for patellar, ocular, and cardiac health are central to lifelong wellness.",
 
     commonConditions: [
-      "Intervertebral Disc Disease (IVDD) — degeneration or herniation of spinal discs exacerbated by the breed's long back and short legs, frequently causing extreme pain, nerve damage, or sudden paralysis",
-      "Progressive Retinal Atrophy (PRA) — a group of inherited degenerative diseases of the retina leading to progressive vision loss and blindness, screenable via DNA testing",
-      "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, causing a 'skipping' gait and potential arthritis",
-      "Cardiac conditions — occasional reports of degenerative mitral valve disease or murmurs, monitored through veterinary auscultation",
-      "Obesity — highly detrimental to the breed's spinal health, requiring strict dietary control",
-      "Canine Multifocal Retinopathy (CMR) — an inherited retinal disease causing lesions, usually mild and non-progressive",
-      "Dental disease — heavy tartar buildup and gingivitis requiring vigilant lifelong dental hygiene"
+      "Intervertebral Disc Disease (IVDD) — scientifically established high breed risk driven by early disc degeneration and the CFA12 FGF4 retrogene; large breed surveys estimate roughly 15% to 24% lifetime clinical prevalence, varying by coat and size variety, with symptoms ranging from back pain to sudden hind-limb paralysis",
+      "Patellar luxation — intermittent slipping of the kneecap out of its groove, monitored through routine orthopedic screening",
+      "Progressive Retinal Atrophy (PRA) and other inherited eye disorders — progressive retinal degeneration and cataracts monitored via specialist eye examinations and available DNA tests",
+      "Cardiac conditions — congenital heart anomalies and age-related degenerative valve disease screened via veterinary cardiac auscultation",
+      "Lafora disease — an inherited late-onset myoclonic epilepsy documented primarily in miniature wire-haired lines, for which DNA testing is available",
+      "Obesity-related complications — excess weight sharply worsens spinal stress, joint wear, and metabolic risks such as diabetes",
+      "Periodontal disease and ear infections — plaque buildup and low airflow under heavy drop ears require consistent home care"
     ],
 
     preventiveCare: [
-      "Strictly prohibit the dog from jumping on and off furniture or running up and down long, steep flights of stairs; use pet ramps to protect the spine.",
-      "Maintain a strictly lean body weight to minimize mechanical stress on the intervertebral discs.",
-      "Use a well-fitted body harness rather than a neck collar to prevent dangerous traction on the cervical spine during walks.",
-      "Support the dog's chest and hindquarters simultaneously whenever lifting or carrying it; never pick a Dachshund up by its front legs alone.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Keep body weight strictly lean to reduce mechanical load on spinal discs.",
+      "Use ramps or low steps for sofas and beds and discourage leaping down from furniture or sprinting up and down steep stairs.",
+      "Walk on a well-fitted chest harness instead of a collar to avoid sudden pressure on the neck.",
+      "Support both the chest and hindquarters whenever lifting or carrying the dog so the back stays level.",
+      "Maintain regular moderate walking to keep back-supporting muscles strong, alongside yearly veterinary wellness exams."
     ],
 
     recommendedScreenings: [
-      "Clinical patellar luxation orthopedic evaluation by a veterinarian",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist (CAER)",
-      "Basic cardiac evaluation (auscultation or echocardiogram)",
-      "DNA marker test for Progressive Retinal Atrophy (PRA)"
+      "Clinical patellar luxation orthopedic evaluation by a veterinarian (from 12 months of age, with periodic rechecks)",
+      "Ophthalmic examination by a board-certified veterinary ophthalmologist (within two years prior to breeding)",
+      "Basic cardiac auscultation by a licensed veterinarian (from 12 months of age, rechecked within two years prior to breeding)",
+      "Additional breeder considerations including DNA tests for Progressive Retinal Atrophy (PRA) and Lafora disease (especially in miniature wire-haired lines), plus spinal disc health monitoring"
     ],
 
     dentalCare:
-      "Brush teeth daily using canine enzymatic toothpaste. The breed is prone to plaque accumulation; schedule regular professional veterinary dental cleanings.",
+      "Brush teeth daily with pet-safe enzymatic toothpaste and schedule routine veterinary dental cleanings to keep tartar and gum disease in check.",
 
     earCare:
-      "Inspect the large drop ears weekly for wax buildup, moisture, or yeast, as the heavy flaps restrict airflow to the ear canal. Clean gently using a veterinarian-recommended ear solution.",
+      "Check under the heavy drop ears every week for odor, moisture, or wax, cleaning gently with a veterinarian-recommended cleanser.",
 
     skinCare:
-      "Part the coat weekly during brushing to inspect the skin for external parasites or irritation. Smooth and long coats require gentle maintenance, while wire coats need periodic stripping to maintain skin and hair health."
+      "Inspect skin weekly during brushing for dryness, mats, or parasites; tailor bathing and coat care to whether the coat is smooth, long-haired, or wire-haired."
   },
 
   suitability: {
@@ -319,92 +314,101 @@ export const dachshund: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Individuals, couples, and seniors seeking a deeply affectionate, comical, and alert indoor companion",
-      "Apartment or condominium dwellers looking for an excellent watchdog with moderate outdoor exercise needs",
-      "Owners willing to strictly enforce spinal protection rules, such as using ramps and preventing furniture jumping",
-      "Those who appreciate an independent, stubborn, yet highly entertaining canine personality",
-      "Canine sports enthusiasts interested in tracking, nosework, or earthdog trials"
+      "Individuals, couples, and older owners seeking a devoted, lively, and comical indoor companion",
+      "Apartment residents wanting a compact dog with moderate daily walking needs (if vocal barking is managed)",
+      "Owners ready to protect spinal health with ramps, lean feeding, and careful lifting",
+      "People who enjoy a bold, independent hound personality",
+      "Handlers interested in tracking, nosework, or earthdog activities"
     ],
 
     notIdealFor: [
-      "Families with boisterous toddlers or young children who might play roughly, drop the dog, or accidentally injure its fragile back",
-      "Highly active individuals seeking a long-distance jogging, hiking, or strenuous outdoor sporting partner",
-      "Apartment dwellers highly sensitive to loud, frequent, and resonant barking",
-      "Owners unwilling or unable to rigorously manage the dog's diet to prevent obesity",
-      "Households with many steep, uncarpeted stairs"
+      "Households with boisterous toddlers who might drop, squeeze, or accidentally injure a delicate back",
+      "Long-distance runners or steep-trail hikers looking for a high-impact jogging partner",
+      "Noise-sensitive apartments where frequent, deep barking would cause trouble",
+      "Owners who prefer free-feeding or struggle to keep portions strictly measured",
+      "Multi-story homes with steep, unguarded stairs the dog would climb repeatedly"
     ]
   },
 
   funFacts: [
-    "The name 'Dachshund' directly translates from German as 'badger dog' ('Dachs' meaning badger, and 'Hund' meaning dog).",
-    "Because of their distinct shape, they have earned numerous affectionate nicknames globally, including 'Weiner Dog', 'Sausage Dog', and 'Doxie'.",
-    "The Dachshund is famously vocal; because their deep, capacious chests were bred for maximum lung capacity underground, their bark sounds like it belongs to a much larger dog.",
-    "During World War I and World War II, the breed's popularity in the United States plummeted due to its strong association with Germany; however, their immense charm allowed them to quickly recover their status as one of America's favorite breeds.",
-    "Wire-haired Dachshunds were developed by crossing smooth Dachshunds with terriers to create a tough, brush-resistant coat that protected them from thorny thickets and harsh weather.",
-    "Despite their small size and comical shape, a Dachshund is a true hunting hound, originally bred to bravely enter dark tunnels and confront the ferocious badger face-to-face."
+    "In German, 'Dachs' means badger and 'Hund' means dog—a literal nod to the breed's original underground quarry.",
+    "Thanks to their unmistakable silhouette, Dachshunds picked up affectionate nicknames worldwide, including 'Doxie', 'Wiener Dog', and 'Sausage Dog'.",
+    "Their broad, deep chest gives them a booming, resonant bark that sounds like it comes from a dog several times their size.",
+    "Wire-haired coats came from crossing smooth Dachshunds with terriers for briar protection, while long-haired coats drew on spaniel lines for colder weather.",
+    "Several Dachshunds have reached 20 years of age or older, making the breed a frequent standout for canine longevity."
   ],
 
   faq: [
     {
-      question: "What is a Dachshund?",
+      question: "What kind of dog is a Dachshund?",
       answer:
-        "The Dachshund is an iconic, short-legged, long-bodied German hunting hound originally developed to dig into burrows and flush out badgers, known today as an intelligent, stubborn, and deeply affectionate family companion."
+        "A Dachshund is a short-legged, long-backed German scent hound originally bred to hunt badgers in underground burrows, now loved worldwide as a bold, clever, and affectionate companion."
     },
     {
       question: "How tall and heavy is a Dachshund?",
       answer:
-        "They are bred in two primary sizes: Standards weigh 16 to 32 pounds and stand about 8 to 9 inches tall, while Miniatures weigh 11 pounds and under, standing 5 to 6 inches tall."
+        "Full-sized Dachshunds stand about 8 to 9 inches tall and usually weigh 16 to 32 pounds, while miniatures stand 5 to 6 inches tall and weigh 11 pounds and under."
     },
     {
       question: "How long does a Dachshund live?",
       answer:
-        "With strict weight management, spine protection, and preventive veterinary care, the breed is very long-lived, typically enjoying a healthy lifespan of 12 to 16 years."
+        "With lean feeding, back protection, and regular veterinary care, Dachshunds commonly live 12 to 16 years."
     },
     {
-      question: "Do Dachshunds shed a lot, and how are they groomed?",
+      question: "How much grooming does a Dachshund need?",
       answer:
-        "They are moderate shedders. Grooming depends on the coat: smooth coats require minimal brushing, long-haired coats need daily combing to prevent tangles, and wire-haired coats require regular brushing and occasional hand-stripping."
+        "All three coat types shed moderately. Smooth coats need only a weekly wipe or quick brush, long-haired coats need combing several times a week, and wire-haired coats benefit from weekly brushing plus occasional hand-stripping."
     },
     {
       question: "Can a Dachshund live in an apartment?",
       answer:
-        "Yes, their size and moderate exercise needs make them excellent apartment dogs. However, they are naturally loud, persistent barkers, so early training to manage their vocalization is important for close-quarters living."
+        "Yes. Their small size and moderate walking needs fit apartment life well, though early training helps keep their loud watchdog bark under control."
     },
     {
       question: "Are Dachshunds good with children?",
       answer:
-        "They can be good with older, respectful children. However, because their long backs are highly vulnerable to injury, they are generally not recommended for households with toddlers who might accidentally drop or step on them."
+        "They can thrive with gentle, older children who know how to support their back properly, but they are not ideal around rough toddlers who could accidentally drop or injure them."
     },
     {
-      question: "Are Dachshunds hard to housebreak?",
+      question: "Are Dachshunds hard to house-train?",
       answer:
-        "Yes, they can be famously stubborn to potty train, especially in cold or wet weather when their low-slung bellies touch the damp ground. Patience, consistency, and crate training are essential."
+        "Many are stubborn about house-training—especially in rain or cold weather—so consistent outdoor schedules, crate training, and warm positive rewards make a big difference."
     },
     {
       question: "What are the main health concerns for a Dachshund?",
       answer:
-        "The most critical health concern is Intervertebral Disc Disease (IVDD), which can cause paralysis. Protecting their back by preventing obesity, avoiding stairs, and using ramps is absolutely mandatory. They are also prone to eye issues (PRA), heart disease, and slipping kneecaps."
+        "Intervertebral Disc Disease (IVDD) is the top concern due to their long spine, making lean weight and ramps essential. Owners and breeders also watch for patellar luxation, inherited eye issues like PRA, heart murmurs, and Lafora disease in miniature wire-haired lines."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-dachshund-official-standard",
     "fci-dachshund-nomenclature",
     "akc-dachshund-breed-standard",
     "akc-dachshund-breed-profile",
     "dca-health-statement",
     "ofa-dachshund-chic-requirements",
+    "ofa-cddy-ivdd",
+    "pmc-dachslife-ivdd-2016",
+    "the-dog-api",
     "wikimedia-dachshund-wire-haired-lilly-m",
     "wikimedia-dachshund-smooth-coated-kmoney56"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxonomic listing: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-26",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Canis lupus familiaris is the verified domestic-dog taxonomic label used across the catalog."
     },
 
     alternateNames: {
@@ -413,16 +417,21 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "verified",
-          locator: "Standard heading: DACHSHUND; BRIEF HISTORICAL SUMMARY: also called Dackel or Teckel"
+          locator: "Standard heading: DACHSHUND (also Dackel, Teckel)"
         },
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "History: Weiner Dog, Sausage Dog, Badger Dog"
+          locator: "About the Breed and History: Badger Dog, Wiener Dog, Sausage Dog, Doxie"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Doxie, Sausage Dog, Wiener Dog, Teckel"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Verified across FCI Standard No. 148 and AKC profile."
+      verifiedOn: "2026-11-26",
+      note: "Cross-checked across FCI Standard No. 148, AKC profile, and The Dog API."
     },
 
     group: {
@@ -437,11 +446,16 @@ export const dachshund: Breed = {
           id: "akc-dachshund-breed-standard",
           role: "verified",
           locator: "Hound Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Hound"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label states Dachshunds and scent hounds without registry identifiers."
     },
 
     origin: {
@@ -450,10 +464,20 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "verified",
-          locator: "ORIGIN: Germany; BRIEF HISTORICAL SUMMARY"
+          locator: "COUNTRY OF ORIGIN: Germany"
+        },
+        {
+          id: "fci-dachshund-nomenclature",
+          role: "verified",
+          locator: "Country of origin: Germany"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Germany"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -463,17 +487,22 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, COAT VARIETIES"
         },
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History (15th-16th century German badger hunting, three coat varieties)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesized in original prose from FCI Standard No. 148 and AKC official records."
+        "Written in original prose from FCI Standard No. 148, AKC records, and cross-checked against The Dog API."
     },
 
     physical: {
@@ -482,17 +511,17 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "HEAD, EARS, BODY, TAIL, LIMBS, COAT (Smooth, Wire-haired, Long-haired), COLOUR PATTERNS (Dapple/Merle, Brindle)"
         },
         {
           id: "akc-dachshund-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color, Gait"
+          locator: "General Appearance, Size, Coat varieties, Colors (including Wild Boar, Dapple, Brindle, Piebald)"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Conformation, elongated build, short legs, digging paws, and distinctive features follow official standards."
+        "Covers all three coat varieties and accepted colors/patterns across FCI and AKC; notes that piebald is accepted by AKC while FCI restricts white markings."
     },
 
     "physical.height": {
@@ -502,11 +531,16 @@ export const dachshund: Breed = {
           id: "akc-dachshund-breed-profile",
           role: "verified",
           locator: "Height: 8-9 inches (standard), 5-6 inches (miniature)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 20-23 cm"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of inches (5 to 9 inches combining miniature and standard limits) as specified in AKC breed profiles and marketplace records. (FCI Standard No. 148 measures size exclusively by chest circumference, not withers height)."
+        "Preserved in exact published inches (5 to 9 in spanning miniature 5-6 in and standard 8-9 in) from AKC breed profile. FCI Standard No. 148 classifies size by chest circumference rather than height; The Dog API lists converted 20-23 cm for full-sized dogs."
     },
 
     "physical.weight": {
@@ -515,17 +549,22 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-standard",
           role: "verified",
-          locator: "Size, Proportion, Substance: Weight of the standard size is usually between 16 and 32 pounds. Miniatures are... '11 pounds and under'."
+          locator: "Standard usually 16 to 32 pounds; Miniature 11 pounds and under"
         },
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
           locator: "Weight: 16-32 pounds (standard), 11 pounds & under (miniature)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: 7-14.5 kg"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of pounds (11 to 32 pounds combining miniature and standard ranges) exactly as specified in the official AKC standard and weight charts."
+        "Stored as min: null, max: 32 lb in exact published pounds because miniatures are defined as '11 pounds and under' with no fixed lower bound, while full-sized dogs typically weigh 16 to 32 pounds. FCI Standard No. 148 classifies size by chest circumference; The Dog API lists converted 7-14.5 kg for full-sized dogs."
     },
 
     "physical.lifespanYears": {
@@ -535,10 +574,15 @@ export const dachshund: Breed = {
           id: "akc-dachshund-breed-profile",
           role: "verified",
           locator: "Life Expectancy: 12-16 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 12-16 years"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Consistent across AKC breed profile and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -547,15 +591,15 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Grooming: moderate shedders; varies across smooth, longhaired, and wirehaired coats"
         },
         {
           id: "fci-dachshund-official-standard",
           role: "verified",
-          locator: "COAT: Varies by variety (Smooth, Long-haired, Wire-haired)"
+          locator: "COAT: Smooth-haired, Wire-haired, Long-haired"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -570,11 +614,11 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Taut lips prevent excessive drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -583,15 +627,20 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Friendly by nature, neither fearful nor aggressive, with even temperament. Passionate, persistent and fast hunting dog with an excellent nose."
+          locator: "BEHAVIOUR/TEMPERAMENT: Friendly, neither fearful nor aggressive, passionate and persistent hunting dog"
         },
         {
-          id: "akc-dachshund-breed-standard",
+          id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "General Appearance: intelligent, alert facial expression... bold and confident head carriage."
+          locator: "Personality: friendly, curious, spunky; independent, stubborn, very vocal, strong scent drive"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Courageous, intelligent, independent, alert, playful, devoted"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -601,12 +650,12 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented hound temperament, loud barking tendencies, high family affection, and stubborn independence."
+        "Editorial 1–5 ratings informed by AKC trait scales and official temperament descriptions."
     },
 
     care: {
@@ -615,17 +664,17 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Exercise, Grooming, Training, and Nutrition guidance"
         },
         {
           id: "dca-health-statement",
           role: "cited",
-          locator: "IVDD precautions, weight control, harness usage"
+          locator: "Spinal protection, weight management, and preventive care"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active small hound management with intense spinal injury prevention and weight control protocols."
+        "Practical daily care emphasizing core-building moderate exercise, ramp use, and coat-specific grooming."
     },
 
     "care.exercise.level": {
@@ -634,7 +683,7 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Energy Level (3/5); Exercise Needs (3/5)"
+          locator: "Exercise: two walks daily of moderate length to build back-supporting muscle"
         },
         {
           id: "fci-dachshund-official-standard",
@@ -642,7 +691,7 @@ export const dachshund: Breed = {
           locator: "UTILIZATION: Hunting dog above and below ground"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -652,12 +701,12 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations for small active hounds"
+          locator: "Two moderate daily walks guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 30 to 60 minutes of daily activity reflects the moderate exercise demands required to build strong core muscles while avoiding spinal impact."
+        "Estimated 30 to 60 minutes daily reflects moderate regular walking that builds back-supporting muscle without high-impact jumping."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -666,10 +715,10 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5 to 5/5); highly suited for indoor life"
+          locator: "Compact indoor companion well suited to apartments when barking is managed"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -679,10 +728,10 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Exercise and indoor supervision recommendations"
+          locator: "Supervised outdoor exercise and stair-avoidance recommendations"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -692,10 +741,10 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: smooth coats require sweaters in freezing weather"
+          locator: "Coat varieties and cold-weather protection for smooth-coated dogs"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -705,7 +754,7 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; prone to vocalization if lonely"
+          locator: "Highly social indoor companion temperament"
         }
       ],
       verifiedOn: null,
@@ -718,12 +767,11 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, strict portion control to prevent obesity"
+          locator: "Nutrition: strict portion control to prevent back strain and obesity"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for chondrodysplastic breeds highly vulnerable to obesity and spinal stress."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -732,86 +780,100 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage feeding and measured meal guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-dachshund-chic-requirements",
+          id: "pmc-dachslife-ivdd-2016",
           role: "verified",
-          locator: "CHIC Program requirements: Eye Examination, Patellar Luxation, Cardiac"
+          locator: "DachsLife 2015 study (n=2,031): 15.7% overall IVDD prevalence; estimated 19-24% lifetime clinical risk"
+        },
+        {
+          id: "ofa-cddy-ivdd",
+          role: "verified",
+          locator: "CFA12 FGF4 retrogene (12-FGF4R) causing chondrodystrophy and IVDD in Dachshunds"
         },
         {
           id: "dca-health-statement",
           role: "verified",
-          locator: "Health Guidelines: Patella Luxation, Eye examination (CAER), Basic Cardiac. Mentions IVDD and PRA monitoring."
+          locator: "DCA Health Statement (May 2022): CHIC screening (Patella, CAER Eye, Basic Cardiac) plus IVDD, PRA, and Lafora disease"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesizes parent club veterinary health records, national health registry screening protocols, and chondrodysplastic clinical data."
+        "Combines peer-reviewed epidemiological data on IVDD with official parent club screening guidance."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "pmc-dachslife-ivdd-2016",
+          role: "verified",
+          locator: "IVDD prevalence across Dachshund varieties (highest in Standard Smooth-Haired at 24.4%, lowest in Standard Wire-Haired at 7.1%)"
+        },
+        {
+          id: "ofa-cddy-ivdd",
+          role: "verified",
+          locator: "12-FGF4R variant and IVDD risk in Dachshunds"
+        },
+        {
           id: "dca-health-statement",
           role: "verified",
-          locator: "Patella Luxation, Eye disorders, Cardiac, Intervertebral Disk Disease (IVDD), Progressive Retinal Atrophy (PRA)"
+          locator: "Patella luxation, eye exams (CAER), cardiac auscultation, Lafora disease, IVDD, and PRA"
         },
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "IVDD, dental issues, obesity"
+          locator: "Back injury, obesity, diabetes, and drop-ear infection risks"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "dca-health-statement",
-          role: "cited",
-          locator: "Strict weight management, spinal protection, harness usage, avoiding stairs"
-        },
-        {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Dental hygiene and routine wellness checks"
+          locator: "Weight control, avoiding furniture jumping and stairs, regular moderate walking"
+        },
+        {
+          id: "dca-health-statement",
+          role: "cited",
+          locator: "Preventive screening and spinal protection"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to elongated, short-legged breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-dachshund-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program required screenings: CAER Eye examination, Clinical Patellar Luxation, Basic Cardiac"
-        },
-        {
           id: "dca-health-statement",
           role: "verified",
-          locator: "Recommended health testing from parent club: Patellas, CAER Eyes, Cardiac, PRA awareness"
+          locator: "DCA Health Statement (May 2022): 1. Patella evaluation (12+ mo), 2. ACVO/CAER Eye exam (within 2 yrs pre-breeding), 3. Basic Cardiac exam (12+ mo, within 2 yrs pre-breeding); plus Lafora, IVDD, and PRA consideration"
+        },
+        {
+          id: "ofa-dachshund-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC requirements for Dachshund (DH): Patella Evaluation, Cardiac Exam, Ophthalmologist Evaluation"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Matches the May 2022 Dachshund Club of America Health Statement and AKC Hound Group Health Testing Requirements."
     },
 
     "health.dentalCare": {
@@ -820,16 +882,16 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: Powerful canine teeth; teeth fit closely together in a scissors bite."
+          locator: "Jaws/teeth: strong jaws and complete scissor bite"
         },
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Routine dental care to prevent tartar buildup"
+          locator: "Routine dental care"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -838,16 +900,16 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "cited",
-          locator: "Ears: Set on high, not too forward... front edge lying close to cheek."
+          locator: "Ears: set high, hanging close to cheeks"
         },
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and weekly inspection"
+          locator: "Drop-ear infection prevention and routine cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears that restrict airflow."
+      note: null
     },
 
     "health.skinCare": {
@@ -856,11 +918,16 @@ export const dachshund: Breed = {
         {
           id: "fci-dachshund-official-standard",
           role: "cited",
-          locator: "Skin: Tight fitting, well pigmented."
+          locator: "Skin: tight fitting and well pigmented"
+        },
+        {
+          id: "akc-dachshund-breed-profile",
+          role: "cited",
+          locator: "Coat-specific grooming across smooth, longhaired, and wirehaired varieties"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -869,12 +936,12 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, barking, exercise, and family compatibility"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, extreme independence, back vulnerabilities, and high vocalization."
+        "Editorial suitability assessment balancing compact indoor adaptability with spinal protection and vocal watchdog traits."
     },
 
     funFacts: {
@@ -883,11 +950,11 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Weiner Dog nickname, badger dog translation, loud bark for size, drop in WWII popularity"
+          locator: "Badger dog translation, Doxie/Wiener/Sausage nicknames, deep bark, coat-variety history, and documented 20+ year longevity"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Verified historical folklore and foundation facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -896,24 +963,29 @@ export const dachshund: Breed = {
         {
           id: "akc-dachshund-breed-standard",
           role: "verified",
-          locator: "Origin, height (5-9 in), weight (11-32 lbs), coat, and colors"
+          locator: "Weight bands (16-32 lb full-sized; 11 lb and under miniature) and three coat varieties"
         },
         {
           id: "akc-dachshund-breed-profile",
           role: "verified",
-          locator: "Lifespan (12-16 years), apartment living, housebreaking difficulty, child suitability, and grooming"
+          locator: "Height (5-6 in miniature; 8-9 in full-sized), lifespan (12-16 years), grooming, apartment life, children, house-training"
+        },
+        {
+          id: "pmc-dachslife-ivdd-2016",
+          role: "verified",
+          locator: "IVDD risk in Dachshunds"
         },
         {
           id: "dca-health-statement",
           role: "verified",
-          locator: "Main health concerns (IVDD, Eyes, Patellas) and recommended health screening panel"
+          locator: "Patella, eye, cardiac, PRA, and Lafora disease screening"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and veterinary data without naming registries in prose."
+        "Synthesized in original wording without naming registries or source organizations."
     }
   },
 
-  updatedOn: "2026-11-16"
+  updatedOn: "2026-11-26"
 };
