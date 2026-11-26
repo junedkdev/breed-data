@@ -369,7 +369,7 @@ export const american_foxhound: Breed = {
   references: [
     "akc-american-foxhound-official-standard",
     "akc-american-foxhound-breed-profile",
-    "akc-hound-group-health-testing",
+    "akc-hound-group-health-testing-requirements",
     "akc-george-washington-foxhounds-2020",
     "akc-state-dogs-virginia-2021",
     "fci-american-foxhound-official-standard",
@@ -769,7 +769,7 @@ export const american_foxhound: Breed = {
           locator: "Notes hip dysplasia, thrombocytopathy (platelet disorder), and long-eared ear infections."
         },
         {
-          id: "akc-hound-group-health-testing",
+          id: "akc-hound-group-health-testing-requirements",
           role: "verified",
           locator: "American Foxhound — Recommended Health Tests from the National Breed Club: No recommended health tests."
         },
@@ -845,7 +845,7 @@ export const american_foxhound: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-hound-group-health-testing",
+          id: "akc-hound-group-health-testing-requirements",
           role: "verified",
           locator: "Confirms no mandatory national parent-club recommended health tests are currently published."
         },

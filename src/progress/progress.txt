@@ -197,7 +197,8 @@
 194:affenpinscher - CG
 195:dachshund - CG
 
-196:standard_schnauzer - C
+196:standard_schnauzer - CR
+
 197:boston_terrier - C
 198:saarlooswolfhond - C
 199:welsh_springer_spaniel - C
@@ -273,7 +274,8 @@
 269:munsterlander,_small - C
 270:american_foxhound - C
 
-271:chesapeake_bay_retriever
+271:chesapeake_bay_retriever - R
+
 272:dutch_shepherd_dog
 273:norwegian_lundehund
 274:chien_francais_blanc_et_orange

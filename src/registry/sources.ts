@@ -25487,16 +25487,6 @@ export const sources = defineSources({
     note: "Official AKC breed profile documenting 1886 AKC recognition, Virginia heritage, weight (65-70 pounds male, 60-65 pounds female), life expectancy (11-13 years), independent/easy-going/sweet-tempered character, friendliness with children, dogs, and cats, 1 to 2 hours of daily exercise, strict on-leash advice, weekly brushing, drop-ear care, and breed health considerations including hip dysplasia and thrombocytopathy. (Summary box still displays older 22-25 / 21-24 in height figures).",
     publisher: "American Kennel Club"
   },
-  "akc-hound-group-health-testing": {
-    id: "akc-hound-group-health-testing",
-    name: "American Kennel Club - Hound Group Health Testing Requirements (American Foxhound)",
-    url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/hound-group-health-testing-requirements/",
-    type: "kennel_club",
-    publishedOn: null,
-    accessedOn: "2026-11-26",
-    note: "Official AKC Bred with H.E.A.R.T. Hound Group registry table confirming that the national breed club currently lists no mandatory recommended health tests for the American Foxhound.",
-    publisher: "American Kennel Club"
-  },
   "akc-george-washington-foxhounds-2020": {
     id: "akc-george-washington-foxhounds-2020",
     name: "American Kennel Club - By George: A Founding Father and His American Foxhounds (2020)",
